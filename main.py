@@ -9,7 +9,7 @@ async def main() -> None:
     service = OLXService(
         olx_client=OLXClient()
     )
-    data = await service.get_products()
+    data = await service.get_products(query="кросівки")
     logger.info(f"PRODUCTS: {data}")
 
 
