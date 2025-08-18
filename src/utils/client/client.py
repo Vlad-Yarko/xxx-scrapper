@@ -3,8 +3,6 @@ from functools import wraps
 
 
 class Client(ABC):
-    client_type: str
-
     @abstractmethod
     def __init__(self):
         raise NotImplementedError()
