@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Main Github
+    url: https://github.com/Vladislav-Yarko
+    about: My main Github
+  - name: Personal Github
+    url: https://github.com/Vlad-Yarko
+    about: My personal Github
+  - name: Stack Overflow
+    url: https://github.com/Vlad-Yarko
+    about: My Stack Overflow
