@@ -1,6 +1,7 @@
-from typing import Optional, Union
+from abc import ABC, abstractmethod
 
 
-class Service:
+class Service(ABC):
+    @abstractmethod
     def __init__(self):
-        pass
+        raise NotImplementedError()
