@@ -14,7 +14,5 @@ class ProductService(Service):
 
     @client_session
     async def get_products(self, *args, **kwargs) -> Optional[dict]:
-        data = await self.client.get_products()
-        if not data:
-            return None
+        data = await self.client.get_products(**kwargs)
         return data
