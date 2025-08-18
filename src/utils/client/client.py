@@ -4,20 +4,20 @@ from functools import wraps
 
 class Client(ABC):
     client_type: str
-    
+
     @abstractmethod
     def __init__(self):
         raise NotImplementedError()
-    
+
     @abstractmethod
     async def open_session(*args, **kwargs) -> None:
         raise NotImplementedError()
-    
+
     @abstractmethod
     async def close_session(*args, **kwargs) -> None:
         raise NotImplementedError()
-    
-    
+
+
 def client_session(func):
     @wraps(func)
     async def wrapper(self, *args, **kwargs):
