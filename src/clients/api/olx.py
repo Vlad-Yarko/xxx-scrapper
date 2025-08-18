@@ -1,8 +1,9 @@
 from src.utils.client import JSONClient
+from src.clients.product import ProductClient
 from src.enums.olx import URLEnum
 
 
-class OLXClient(JSONClient):
+class OLXClient(ProductClient, JSONClient):
     def __init__(self):
         super().__init__(
             base_url=URLEnum.BASE_URL.value
