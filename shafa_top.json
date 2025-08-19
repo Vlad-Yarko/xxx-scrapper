@@ -1,0 +1,473 @@
+{
+    "data": {
+        "topProductsV2": {
+            "edges": [
+                {
+                    "node": {
+                        "id": 148246947,
+                        "isTop": true,
+                        "url": "/men/obuv/krossovki/148246947-krosivki-demisezonni",
+                        "thumbnail": "https://image-thumbs.shafastatic.net/-238808126_310_430",
+                        "name": "Кросівки демісезонні",
+                        "price": 890.0,
+                        "oldPrice": null,
+                        "statusTitle": "AVAILABLE",
+                        "discountPercent": null,
+                        "likes": 135,
+                        "isLiked": false,
+                        "__typename": "Product",
+                        "brand": null,
+                        "catalogSlug": "obuv/krossovki",
+                        "isNew": true,
+                        "sizes": [
+                            {
+                                "id": 175,
+                                "name": "40",
+                                "__typename": "Size"
+                            },
+                            {
+                                "id": 176,
+                                "name": "41",
+                                "__typename": "Size"
+                            },
+                            {
+                                "id": 177,
+                                "name": "42",
+                                "__typename": "Size"
+                            },
+                            {
+                                "id": 178,
+                                "name": "43",
+                                "__typename": "Size"
+                            },
+                            {
+                                "id": 179,
+                                "name": "44",
+                                "__typename": "Size"
+                            },
+                            {
+                                "id": 180,
+                                "name": "45",
+                                "__typename": "Size"
+                            }
+                        ],
+                        "saleLabel": {
+                            "status": "SALE_NONE",
+                            "date": "2025-08-19",
+                            "price": "0",
+                            "__typename": "SaleLabel"
+                        },
+                        "freeDeliveryServices": null,
+                        "isUkrainian": false,
+                        "ownerHasRecentActivity": true,
+                        "tags": [],
+                        "rating": 4.7,
+                        "ratingAmount": 7,
+                        "seller": {
+                            "id": 660006,
+                            "isTopSeller": true,
+                            "__typename": "User"
+                        },
+                        "isViewed": true,
+                        "createdAt": "2024-02-28T07:45:20.416216+00:00",
+                        "sellingCondition": "SALE"
+                    },
+                    "__typename": "FeedEdge"
+                },
+                {
+                    "node": {
+                        "id": 118763140,
+                        "isTop": true,
+                        "url": "/women/zhenskaya-obuv/krossovki/118763140-krosivki-zhinochi",
+                        "thumbnail": "https://image-thumbs.shafastatic.net/927700388_310_430",
+                        "name": "Кросівки жіночі",
+                        "price": 590.0,
+                        "oldPrice": 650.0,
+                        "statusTitle": "AVAILABLE",
+                        "discountPercent": 10,
+                        "likes": 23,
+                        "isLiked": false,
+                        "__typename": "Product",
+                        "brand": {
+                            "id": 4,
+                            "name": "Adidas",
+                            "__typename": "Brand"
+                        },
+                        "catalogSlug": "zhenskaya-obuv/krossovki",
+                        "isNew": false,
+                        "sizes": [
+                            {
+                                "id": 36,
+                                "name": "39",
+                                "__typename": "Size"
+                            }
+                        ],
+                        "saleLabel": {
+                            "status": "SALE_NONE",
+                            "date": "2025-08-19",
+                            "price": "0",
+                            "__typename": "SaleLabel"
+                        },
+                        "freeDeliveryServices": null,
+                        "isUkrainian": false,
+                        "ownerHasRecentActivity": true,
+                        "tags": [],
+                        "rating": null,
+                        "ratingAmount": null,
+                        "seller": {
+                            "id": 460456,
+                            "isTopSeller": false,
+                            "__typename": "User"
+                        },
+                        "isViewed": true,
+                        "createdAt": "2023-04-05T09:00:15.487677+00:00",
+                        "sellingCondition": "SALE"
+                    },
+                    "__typename": "FeedEdge"
+                },
+                {
+                    "node": {
+                        "id": 189206190,
+                        "isTop": true,
+                        "url": "/kids/dlya-malchikov/krossovki-i-kedy/189206190-krosivki-puma-original",
+                        "thumbnail": "https://image-thumbs.shafastatic.net/2201387988_310_430",
+                        "name": "Кросівки puma оригінал",
+                        "price": 599.0,
+                        "oldPrice": 700.0,
+                        "statusTitle": "AVAILABLE",
+                        "discountPercent": 15,
+                        "likes": 15,
+                        "isLiked": false,
+                        "__typename": "Product",
+                        "brand": {
+                            "id": 122,
+                            "name": "Puma",
+                            "__typename": "Brand"
+                        },
+                        "catalogSlug": "dlya-malchikov/krossovki-i-kedy",
+                        "isNew": false,
+                        "sizes": [
+                            {
+                                "id": 120,
+                                "name": "39",
+                                "__typename": "Size"
+                            },
+                            {
+                                "id": 225,
+                                "name": "39.5",
+                                "__typename": "Size"
+                            }
+                        ],
+                        "saleLabel": {
+                            "status": "SALE_NONE",
+                            "date": "2025-08-19",
+                            "price": "0",
+                            "__typename": "SaleLabel"
+                        },
+                        "freeDeliveryServices": null,
+                        "isUkrainian": false,
+                        "ownerHasRecentActivity": true,
+                        "tags": [
+                            "PROMOTE_FOR_GOOGLE"
+                        ],
+                        "rating": null,
+                        "ratingAmount": null,
+                        "seller": {
+                            "id": 6057275,
+                            "isTopSeller": true,
+                            "__typename": "User"
+                        },
+                        "isViewed": true,
+                        "createdAt": "2025-07-11T20:05:30.124486+00:00",
+                        "sellingCondition": "SALE"
+                    },
+                    "__typename": "FeedEdge"
+                },
+                {
+                    "node": {
+                        "id": 190194547,
+                        "isTop": true,
+                        "url": "/men/obuv/krossovki/190194547-krosivki-puma",
+                        "thumbnail": "https://image-thumbs.shafastatic.net/2207106177_310_430",
+                        "name": "Кросівки puma",
+                        "price": 900.0,
+                        "oldPrice": 1000.0,
+                        "statusTitle": "AVAILABLE",
+                        "discountPercent": 10,
+                        "likes": 0,
+                        "isLiked": false,
+                        "__typename": "Product",
+                        "brand": {
+                            "id": 122,
+                            "name": "Puma",
+                            "__typename": "Brand"
+                        },
+                        "catalogSlug": "obuv/krossovki",
+                        "isNew": false,
+                        "sizes": [
+                            {
+                                "id": 241,
+                                "name": "41.5",
+                                "__typename": "Size"
+                            },
+                            {
+                                "id": 177,
+                                "name": "42",
+                                "__typename": "Size"
+                            }
+                        ],
+                        "saleLabel": {
+                            "status": "SALE_NONE",
+                            "date": "2025-08-19",
+                            "price": "0",
+                            "__typename": "SaleLabel"
+                        },
+                        "freeDeliveryServices": null,
+                        "isUkrainian": false,
+                        "ownerHasRecentActivity": true,
+                        "tags": [],
+                        "rating": null,
+                        "ratingAmount": null,
+                        "seller": {
+                            "id": 8418777,
+                            "isTopSeller": false,
+                            "__typename": "User"
+                        },
+                        "isViewed": true,
+                        "createdAt": "2025-08-06T07:57:41.494392+00:00",
+                        "sellingCondition": "SALE"
+                    },
+                    "__typename": "FeedEdge"
+                },
+                {
+                    "node": {
+                        "id": 190642124,
+                        "isTop": true,
+                        "url": "/men/obuv/krossovki/190642124-krosivki-cholovichi-premiata",
+                        "thumbnail": "https://image-thumbs.shafastatic.net/2209821309_310_430",
+                        "name": "Кросівки чоловічі premiata",
+                        "price": 5000.0,
+                        "oldPrice": null,
+                        "statusTitle": "AVAILABLE",
+                        "discountPercent": null,
+                        "likes": 2,
+                        "isLiked": false,
+                        "__typename": "Product",
+                        "brand": {
+                            "id": 47951,
+                            "name": "Premiata",
+                            "__typename": "Brand"
+                        },
+                        "catalogSlug": "obuv/krossovki",
+                        "isNew": true,
+                        "sizes": [
+                            {
+                                "id": 241,
+                                "name": "41.5",
+                                "__typename": "Size"
+                            },
+                            {
+                                "id": 177,
+                                "name": "42",
+                                "__typename": "Size"
+                            },
+                            {
+                                "id": 243,
+                                "name": "43.5",
+                                "__typename": "Size"
+                            },
+                            {
+                                "id": 179,
+                                "name": "44",
+                                "__typename": "Size"
+                            },
+                            {
+                                "id": 244,
+                                "name": "44.5",
+                                "__typename": "Size"
+                            }
+                        ],
+                        "saleLabel": {
+                            "status": "SALE_NONE",
+                            "date": "2025-08-19",
+                            "price": "0",
+                            "__typename": "SaleLabel"
+                        },
+                        "freeDeliveryServices": null,
+                        "isUkrainian": false,
+                        "ownerHasRecentActivity": true,
+                        "tags": [],
+                        "rating": null,
+                        "ratingAmount": null,
+                        "seller": {
+                            "id": 10748221,
+                            "isTopSeller": false,
+                            "__typename": "User"
+                        },
+                        "isViewed": true,
+                        "createdAt": "2025-08-19T07:12:15.162883+00:00",
+                        "sellingCondition": "SALE"
+                    },
+                    "__typename": "FeedEdge"
+                },
+                {
+                    "node": {
+                        "id": 190502301,
+                        "isTop": true,
+                        "url": "/men/obuv/krossovki/190502301-krosivki-puma-original",
+                        "thumbnail": "https://image-thumbs.shafastatic.net/2208935938_310_430",
+                        "name": "Кросівки пума оригінал",
+                        "price": 1500.0,
+                        "oldPrice": null,
+                        "statusTitle": "AVAILABLE",
+                        "discountPercent": null,
+                        "likes": 2,
+                        "isLiked": false,
+                        "__typename": "Product",
+                        "brand": {
+                            "id": 122,
+                            "name": "Puma",
+                            "__typename": "Brand"
+                        },
+                        "catalogSlug": "obuv/krossovki",
+                        "isNew": true,
+                        "sizes": [
+                            {
+                                "id": 240,
+                                "name": "40.5",
+                                "__typename": "Size"
+                            }
+                        ],
+                        "saleLabel": {
+                            "status": "SALE_NONE",
+                            "date": "2025-08-19",
+                            "price": "0",
+                            "__typename": "SaleLabel"
+                        },
+                        "freeDeliveryServices": null,
+                        "isUkrainian": false,
+                        "ownerHasRecentActivity": true,
+                        "tags": [],
+                        "rating": null,
+                        "ratingAmount": null,
+                        "seller": {
+                            "id": 9009621,
+                            "isTopSeller": false,
+                            "__typename": "User"
+                        },
+                        "isViewed": true,
+                        "createdAt": "2025-08-14T13:49:49.089529+00:00",
+                        "sellingCondition": "SALE"
+                    },
+                    "__typename": "FeedEdge"
+                },
+                {
+                    "node": {
+                        "id": 189424464,
+                        "isTop": true,
+                        "url": "/men/obuv/krossovki/189424464-krosivki-skechers",
+                        "thumbnail": "https://image-thumbs.shafastatic.net/2202627527_310_430",
+                        "name": "Кросівки skechers",
+                        "price": 1000.0,
+                        "oldPrice": null,
+                        "statusTitle": "AVAILABLE",
+                        "discountPercent": null,
+                        "likes": 2,
+                        "isLiked": false,
+                        "__typename": "Product",
+                        "brand": {
+                            "id": 270,
+                            "name": "Skechers",
+                            "__typename": "Brand"
+                        },
+                        "catalogSlug": "obuv/krossovki",
+                        "isNew": false,
+                        "sizes": [
+                            {
+                                "id": 186,
+                                "name": "Другой",
+                                "__typename": "Size"
+                            }
+                        ],
+                        "saleLabel": {
+                            "status": "SALE_NONE",
+                            "date": "2025-08-19",
+                            "price": "0",
+                            "__typename": "SaleLabel"
+                        },
+                        "freeDeliveryServices": null,
+                        "isUkrainian": false,
+                        "ownerHasRecentActivity": true,
+                        "tags": [],
+                        "rating": null,
+                        "ratingAmount": null,
+                        "seller": {
+                            "id": 7613740,
+                            "isTopSeller": true,
+                            "__typename": "User"
+                        },
+                        "isViewed": true,
+                        "createdAt": "2025-07-17T10:41:28.534203+00:00",
+                        "sellingCondition": "SALE"
+                    },
+                    "__typename": "FeedEdge"
+                },
+                {
+                    "node": {
+                        "id": 190380568,
+                        "isTop": true,
+                        "url": "/kids/dlya-malyshey/krossovki/190380568-krosivki-dityachi-dlya-divchinki",
+                        "thumbnail": "https://image-thumbs.shafastatic.net/2208204051_310_430",
+                        "name": "Кросівки дитячі для дівчинки",
+                        "price": 250.0,
+                        "oldPrice": 400.0,
+                        "statusTitle": "AVAILABLE",
+                        "discountPercent": 38,
+                        "likes": 3,
+                        "isLiked": false,
+                        "__typename": "Product",
+                        "brand": null,
+                        "catalogSlug": "dlya-malyshey/krossovki",
+                        "isNew": false,
+                        "sizes": [
+                            {
+                                "id": 133,
+                                "name": "19",
+                                "__typename": "Size"
+                            }
+                        ],
+                        "saleLabel": {
+                            "status": "SALE_NONE",
+                            "date": "2025-08-19",
+                            "price": "0",
+                            "__typename": "SaleLabel"
+                        },
+                        "freeDeliveryServices": null,
+                        "isUkrainian": true,
+                        "ownerHasRecentActivity": true,
+                        "tags": [
+                            "UKRBRAND"
+                        ],
+                        "rating": null,
+                        "ratingAmount": null,
+                        "seller": {
+                            "id": 591078,
+                            "isTopSeller": false,
+                            "__typename": "User"
+                        },
+                        "isViewed": true,
+                        "createdAt": "2025-08-11T10:32:49.173936+00:00",
+                        "sellingCondition": "SALE"
+                    },
+                    "__typename": "FeedEdge"
+                }
+            ],
+            "pageInfo": {
+                "endCursor": "YXJyYXljb25uZWN0aW9uOjE5MDM4MDU2ODo3",
+                "hasNextPage": true,
+                "__typename": "PageInfo"
+            },
+            "__typename": "FeedConnection"
+        }
+    }
+}
