@@ -1,3 +1,5 @@
+from typing import Union
+
 from src.utils.client import JSONClient
 from src.clients.product import ProductClient
 from src.enums.olx import URLEnum
@@ -14,7 +16,7 @@ class OLXClient(ProductClient, JSONClient):
         query: str,
         offset: int = 0,
         limit: int = 40
-    ):
+    ) -> Union[None, dict, list]:
         self.endpoint = URLEnum.PRODUCTS_ENDPOINT_URL.value
         self.params = {
             "query": query,
