@@ -21,8 +21,6 @@ class JSONClient(HTTPClient):
 
     async def get(self) -> Union[list, dict, None]:
         response = await super().get()
-        print("REP", response)
-        print(response.status)
         if response.status == 200:
             return await response.json()
         return None

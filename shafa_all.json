@@ -1646,56 +1646,6 @@
                 },
                 {
                     "node": {
-                        "id": 190682774,
-                        "url": "/kids/dlya-malchikov/krossovki-i-kedy/190682774-adidas-grand-court-20-34r-21-22sm-krosivki-dityachi-original",
-                        "thumbnail": "https://image-thumbs.shafastatic.net/2210078507_310_430",
-                        "name": "Adidas grand court 2.0 34р 21-22см кросівки дитячі оригінал",
-                        "price": 620.0,
-                        "oldPrice": null,
-                        "statusTitle": "AVAILABLE",
-                        "discountPercent": null,
-                        "likes": 0,
-                        "isLiked": false,
-                        "__typename": "Product",
-                        "brand": {
-                            "id": 4,
-                            "name": "Adidas",
-                            "__typename": "Brand"
-                        },
-                        "catalogSlug": "dlya-malchikov/krossovki-i-kedy",
-                        "isNew": false,
-                        "sizes": [
-                            {
-                                "id": 115,
-                                "name": "34",
-                                "__typename": "Size"
-                            }
-                        ],
-                        "saleLabel": {
-                            "status": "SALE_NONE",
-                            "date": "2025-08-19",
-                            "price": "0",
-                            "__typename": "SaleLabel"
-                        },
-                        "freeDeliveryServices": null,
-                        "isUkrainian": false,
-                        "ownerHasRecentActivity": true,
-                        "tags": [],
-                        "rating": null,
-                        "ratingAmount": null,
-                        "seller": {
-                            "id": 1807062,
-                            "isTopSeller": true,
-                            "__typename": "User"
-                        },
-                        "isViewed": true,
-                        "createdAt": "2025-08-19T22:49:07.982632+00:00",
-                        "sellingCondition": "SALE"
-                    },
-                    "__typename": "FeedEdge"
-                },
-                {
-                    "node": {
                         "id": 190682713,
                         "url": "/men/obuv/krossovki/190682713-nike-air-max-bolt-405r-255sm-krosivki-original",
                         "thumbnail": "https://image-thumbs.shafastatic.net/2210078127_310_430",
@@ -2378,10 +2328,60 @@
                         "sellingCondition": "SALE"
                     },
                     "__typename": "FeedEdge"
+                },
+                {
+                    "node": {
+                        "id": 190666732,
+                        "url": "/women/zhenskaya-obuv/krossovki/190666732-krosivki-38-na-37-r",
+                        "thumbnail": "https://image-thumbs.shafastatic.net/2209978263_310_430",
+                        "name": "Кросівки 38 на 37 р",
+                        "price": 600.0,
+                        "oldPrice": null,
+                        "statusTitle": "AVAILABLE",
+                        "discountPercent": null,
+                        "likes": 0,
+                        "isLiked": false,
+                        "__typename": "Product",
+                        "brand": {
+                            "id": 122,
+                            "name": "Puma",
+                            "__typename": "Brand"
+                        },
+                        "catalogSlug": "zhenskaya-obuv/krossovki",
+                        "isNew": false,
+                        "sizes": [
+                            {
+                                "id": 34,
+                                "name": "37",
+                                "__typename": "Size"
+                            }
+                        ],
+                        "saleLabel": {
+                            "status": "SALE_NONE",
+                            "date": "2025-08-19",
+                            "price": "0",
+                            "__typename": "SaleLabel"
+                        },
+                        "freeDeliveryServices": null,
+                        "isUkrainian": false,
+                        "ownerHasRecentActivity": true,
+                        "tags": [],
+                        "rating": null,
+                        "ratingAmount": null,
+                        "seller": {
+                            "id": 2963391,
+                            "isTopSeller": true,
+                            "__typename": "User"
+                        },
+                        "isViewed": true,
+                        "createdAt": "2025-08-19T14:00:58.284513+00:00",
+                        "sellingCondition": "SALE"
+                    },
+                    "__typename": "FeedEdge"
                 }
             ],
             "pageInfo": {
-                "endCursor": "YXJyYXljb25uZWN0aW9uOjE5MDY2NzY4ODo0Mw==",
+                "endCursor": "YXJyYXljb25uZWN0aW9uOjE5MDY2NjczMjo0Mw==",
                 "hasNextPage": true,
                 "total": 470505,
                 "__typename": "PageInfo"
