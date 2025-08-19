@@ -1,4 +1,5 @@
 import asyncio
+import json
 
 from src.utils.logger import logger
 from src.services import OLXService
@@ -10,7 +11,9 @@ async def main() -> None:
         olx_client=OLXClient()
     )
     data = await service.get_products(query="кросівки")
-    logger.info(f"PRODUCTS: {data}")
+    # logger.info(f"PRODUCTS: {data}")
+    with open("data.json", "w", encoding="utf-8") as file:
+        json.dump(data, file, ensure_ascii=False, indent=4)
 
 
 if __name__ == "__main__":
