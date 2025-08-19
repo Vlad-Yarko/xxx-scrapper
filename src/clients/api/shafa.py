@@ -5,7 +5,7 @@ from src.clients.product import ProductClient
 from src.enums.shafa import URLEnum
 
 
-class OLXClient(ProductClient, JSONClient):
+class ShafaClient(ProductClient, JSONClient):
     def __init__(self):
         super().__init__(
             base_url=URLEnum.BASE_URL.value
