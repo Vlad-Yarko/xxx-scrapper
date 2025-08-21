@@ -7,21 +7,21 @@
                     "id": 2,
                     "name": "Женская одежда",
                     "slug": "women",
-                    "countOfProducts": 210491,
+                    "countOfProducts": 210494,
                     "__typename": "TopLevelCategory"
                 },
                 {
                     "id": 199,
                     "name": "Мужская одежда",
                     "slug": "men",
-                    "countOfProducts": 127841,
+                    "countOfProducts": 127842,
                     "__typename": "TopLevelCategory"
                 },
                 {
                     "id": 82,
                     "name": "Детская одежда",
                     "slug": "kids",
-                    "countOfProducts": 130959,
+                    "countOfProducts": 130961,
                     "__typename": "TopLevelCategory"
                 },
                 {
@@ -1861,6 +1861,61 @@
                 },
                 {
                     "node": {
+                        "id": 190735224,
+                        "url": "/women/zhenskaya-obuv/krossovki/190735224-krosivki-zhinochi-adidas",
+                        "thumbnail": "https://image-thumbs.shafastatic.net/2210399970_310_430",
+                        "name": "Кроссовки женские adidas",
+                        "price": 495.0,
+                        "oldPrice": null,
+                        "statusTitle": "AVAILABLE",
+                        "discountPercent": null,
+                        "likes": 0,
+                        "isLiked": false,
+                        "__typename": "Product",
+                        "brand": {
+                            "id": 4,
+                            "name": "Adidas",
+                            "__typename": "Brand"
+                        },
+                        "catalogSlug": "zhenskaya-obuv/krossovki",
+                        "isNew": false,
+                        "sizes": [
+                            {
+                                "id": 231,
+                                "name": "39.5",
+                                "__typename": "Size"
+                            },
+                            {
+                                "id": 36,
+                                "name": "39",
+                                "__typename": "Size"
+                            }
+                        ],
+                        "saleLabel": {
+                            "status": "SALE_NONE",
+                            "date": "2025-08-21",
+                            "price": "0",
+                            "__typename": "SaleLabel"
+                        },
+                        "freeDeliveryServices": null,
+                        "isUkrainian": false,
+                        "ownerHasRecentActivity": true,
+                        "tags": [],
+                        "rating": null,
+                        "ratingAmount": null,
+                        "seller": {
+                            "id": 3126953,
+                            "isTopSeller": true,
+                            "__typename": "User"
+                        },
+                        "isViewed": true,
+                        "createdAt": "2025-08-21T12:02:29.071389+00:00",
+                        "sellingCondition": "SALE"
+                    },
+                    "__typename": "FeedEdge"
+                },
+                {
+                    "node": {
                         "id": 190730352,
                         "url": "/kids/dlya-devochek/krossovki-i-kedy/190730352-krosivki-krossovki-skechers",
                         "thumbnail": "https://image-thumbs.shafastatic.net/2210369278_310_430",
@@ -2074,7 +2129,7 @@
                         "oldPrice": null,
                         "statusTitle": "AVAILABLE",
                         "discountPercent": null,
-                        "likes": 5,
+                        "likes": 6,
                         "isLiked": false,
                         "__typename": "Product",
                         "brand": {
@@ -2378,62 +2433,12 @@
                         "sellingCondition": "SALE"
                     },
                     "__typename": "FeedEdge"
-                },
-                {
-                    "node": {
-                        "id": 190684065,
-                        "url": "/women/zhenskaya-obuv/krossovki/190684065-krosivki-woden-daniya-375-rozmir",
-                        "thumbnail": "https://image-thumbs.shafastatic.net/2210086974_310_430",
-                        "name": "Кроссовки woden, данные, 37,5 размер",
-                        "price": 570.0,
-                        "oldPrice": null,
-                        "statusTitle": "AVAILABLE",
-                        "discountPercent": null,
-                        "likes": 3,
-                        "isLiked": false,
-                        "__typename": "Product",
-                        "brand": {
-                            "id": 52652,
-                            "name": "Woden",
-                            "__typename": "Brand"
-                        },
-                        "catalogSlug": "zhenskaya-obuv/krossovki",
-                        "isNew": false,
-                        "sizes": [
-                            {
-                                "id": 229,
-                                "name": "37.5",
-                                "__typename": "Size"
-                            }
-                        ],
-                        "saleLabel": {
-                            "status": "SALE_NONE",
-                            "date": "2025-08-21",
-                            "price": "0",
-                            "__typename": "SaleLabel"
-                        },
-                        "freeDeliveryServices": null,
-                        "isUkrainian": false,
-                        "ownerHasRecentActivity": true,
-                        "tags": [],
-                        "rating": null,
-                        "ratingAmount": null,
-                        "seller": {
-                            "id": 6282402,
-                            "isTopSeller": true,
-                            "__typename": "User"
-                        },
-                        "isViewed": true,
-                        "createdAt": "2025-08-20T05:31:29.016928+00:00",
-                        "sellingCondition": "SALE"
-                    },
-                    "__typename": "FeedEdge"
                 }
             ],
             "pageInfo": {
-                "endCursor": "YXJyYXljb25uZWN0aW9uOjE5MDY4NDA2NTo0Mw==",
+                "endCursor": "YXJyYXljb25uZWN0aW9uOjE5MDY4NTIxNDo0Mw==",
                 "hasNextPage": true,
-                "total": 469637,
+                "total": 469643,
                 "__typename": "PageInfo"
             },
             "__typename": "FeedConnection"
