@@ -13,7 +13,7 @@ async def main() -> None:
     shafa_service = ShafaService(
         shafa_client=ShafaClient()
     )
-    olx_data = await olx_service.get_products(query="кросівки", filter_float_price_from=10000)
+    olx_data = await olx_service.get_products(query="кросівки", filter_float_price_from=10000, filter_state_enum="used")
     with open("olx_data.json", "w", encoding="utf-8") as file:
         json.dump(olx_data, file, ensure_ascii=False, indent=4)
     shafa_data_all = await shafa_service.get_products_all(search_text="кросівки")

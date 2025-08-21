@@ -7,21 +7,21 @@
                     "id": 2,
                     "name": "Женская одежда",
                     "slug": "women",
-                    "countOfProducts": 210486,
+                    "countOfProducts": 210491,
                     "__typename": "TopLevelCategory"
                 },
                 {
                     "id": 199,
                     "name": "Мужская одежда",
                     "slug": "men",
-                    "countOfProducts": 127835,
+                    "countOfProducts": 127841,
                     "__typename": "TopLevelCategory"
                 },
                 {
                     "id": 82,
                     "name": "Детская одежда",
                     "slug": "kids",
-                    "countOfProducts": 130960,
+                    "countOfProducts": 130959,
                     "__typename": "TopLevelCategory"
                 },
                 {
@@ -364,7 +364,7 @@
                         "oldPrice": 653.0,
                         "statusTitle": "AVAILABLE",
                         "discountPercent": 16,
-                        "likes": 11,
+                        "likes": 12,
                         "isLiked": false,
                         "__typename": "Product",
                         "brand": {
@@ -1029,7 +1029,7 @@
                         "oldPrice": null,
                         "statusTitle": "AVAILABLE",
                         "discountPercent": null,
-                        "likes": 9,
+                        "likes": 10,
                         "isLiked": false,
                         "__typename": "Product",
                         "brand": {
@@ -2433,7 +2433,7 @@
             "pageInfo": {
                 "endCursor": "YXJyYXljb25uZWN0aW9uOjE5MDY4NDA2NTo0Mw==",
                 "hasNextPage": true,
-                "total": 469627,
+                "total": 469637,
                 "__typename": "PageInfo"
             },
             "__typename": "FeedConnection"
