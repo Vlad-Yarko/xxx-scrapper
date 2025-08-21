@@ -50,3 +50,9 @@ dist-ssr
 *.sw?
 
 .vscode/
+
+# Project
+
+olx_data.json
+shafa_all.json
+shafa_top.json

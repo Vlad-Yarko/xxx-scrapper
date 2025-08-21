@@ -7,21 +7,21 @@
                     "id": 2,
                     "name": "Женская одежда",
                     "slug": "women",
-                    "countOfProducts": 210688,
+                    "countOfProducts": 210292,
                     "__typename": "TopLevelCategory"
                 },
                 {
                     "id": 199,
                     "name": "Мужская одежда",
                     "slug": "men",
-                    "countOfProducts": 128222,
+                    "countOfProducts": 127748,
                     "__typename": "TopLevelCategory"
                 },
                 {
                     "id": 82,
                     "name": "Детская одежда",
                     "slug": "kids",
-                    "countOfProducts": 131249,
+                    "countOfProducts": 130845,
                     "__typename": "TopLevelCategory"
                 },
                 {
@@ -42,7 +42,7 @@
                     "id": 1555,
                     "name": "Хобби и спорт",
                     "slug": "sport",
-                    "countOfProducts": 81,
+                    "countOfProducts": 82,
                     "__typename": "TopLevelCategory"
                 },
                 {
@@ -77,7 +77,7 @@
                     "id": 1166,
                     "name": "Красота и здоровье",
                     "slug": "cosmetics",
-                    "countOfProducts": 3,
+                    "countOfProducts": 2,
                     "__typename": "TopLevelCategory"
                 },
                 {
@@ -91,6 +91,381 @@
             "edges": [
                 {
                     "node": {
+                        "id": 190690390,
+                        "url": "/men/obuv/krossovki/190690390-krosivki-cholovichi-puma43-r-po-ustilke-28-sm-zayavlenoya-zamiryala",
+                        "thumbnail": "https://image-thumbs.shafastatic.net/2210124831_310_430",
+                        "name": "Кроссовки мужские puma,43 р.\nпо стельке 28 см заявлено,я замерила 27-27.5\nвдействуют 1 раз в доме.",
+                        "price": 1000.0,
+                        "oldPrice": null,
+                        "statusTitle": "AVAILABLE",
+                        "discountPercent": null,
+                        "likes": 8,
+                        "isLiked": false,
+                        "__typename": "Product",
+                        "brand": {
+                            "id": 122,
+                            "name": "Puma",
+                            "__typename": "Brand"
+                        },
+                        "catalogSlug": "obuv/krossovki",
+                        "isNew": false,
+                        "sizes": [
+                            {
+                                "id": 178,
+                                "name": "43",
+                                "__typename": "Size"
+                            }
+                        ],
+                        "saleLabel": {
+                            "status": "SALE_NONE",
+                            "date": "2025-08-21",
+                            "price": "0",
+                            "__typename": "SaleLabel"
+                        },
+                        "freeDeliveryServices": null,
+                        "isUkrainian": false,
+                        "ownerHasRecentActivity": true,
+                        "tags": [],
+                        "rating": null,
+                        "ratingAmount": null,
+                        "seller": {
+                            "id": 1953211,
+                            "isTopSeller": true,
+                            "__typename": "User"
+                        },
+                        "isViewed": true,
+                        "createdAt": "2025-08-20T09:26:30.566277+00:00",
+                        "sellingCondition": "SALE"
+                    },
+                    "__typename": "FeedEdge"
+                },
+                {
+                    "node": {
+                        "id": 190704273,
+                        "url": "/women/zhenskaya-obuv/krossovki/190704273-zhinochi-krosivki-vid-sketchers",
+                        "thumbnail": "https://image-thumbs.shafastatic.net/2210209591_310_430",
+                        "name": "Жіночі кросівки від skechers",
+                        "price": 850.0,
+                        "oldPrice": null,
+                        "statusTitle": "AVAILABLE",
+                        "discountPercent": null,
+                        "likes": 19,
+                        "isLiked": false,
+                        "__typename": "Product",
+                        "brand": {
+                            "id": 270,
+                            "name": "Skechers",
+                            "__typename": "Brand"
+                        },
+                        "catalogSlug": "zhenskaya-obuv/krossovki",
+                        "isNew": false,
+                        "sizes": [
+                            {
+                                "id": 36,
+                                "name": "39",
+                                "__typename": "Size"
+                            },
+                            {
+                                "id": 231,
+                                "name": "39.5",
+                                "__typename": "Size"
+                            }
+                        ],
+                        "saleLabel": {
+                            "status": "SALE_NONE",
+                            "date": "2025-08-21",
+                            "price": "0",
+                            "__typename": "SaleLabel"
+                        },
+                        "freeDeliveryServices": null,
+                        "isUkrainian": false,
+                        "ownerHasRecentActivity": true,
+                        "tags": [],
+                        "rating": null,
+                        "ratingAmount": null,
+                        "seller": {
+                            "id": 1666480,
+                            "isTopSeller": true,
+                            "__typename": "User"
+                        },
+                        "isViewed": true,
+                        "createdAt": "2025-08-20T14:33:26.783152+00:00",
+                        "sellingCondition": "SALE"
+                    },
+                    "__typename": "FeedEdge"
+                },
+                {
+                    "node": {
+                        "id": 190702399,
+                        "url": "/women/zhenskaya-obuv/krossovki/190702399-krosivki-zhinochi-siri-z-rozhevim-na-shnurivkah-38-novi",
+                        "thumbnail": "https://image-thumbs.shafastatic.net/2210195454_310_430",
+                        "name": "Кроссовки женские серые с розовым на шнуровках 38 новые",
+                        "price": 905.0,
+                        "oldPrice": null,
+                        "statusTitle": "AVAILABLE",
+                        "discountPercent": null,
+                        "likes": 9,
+                        "isLiked": false,
+                        "__typename": "Product",
+                        "brand": {
+                            "id": 2663,
+                            "name": "New Collection",
+                            "__typename": "Brand"
+                        },
+                        "catalogSlug": "zhenskaya-obuv/krossovki",
+                        "isNew": true,
+                        "sizes": [
+                            {
+                                "id": 229,
+                                "name": "37.5",
+                                "__typename": "Size"
+                            },
+                            {
+                                "id": 35,
+                                "name": "38",
+                                "__typename": "Size"
+                            }
+                        ],
+                        "saleLabel": {
+                            "status": "SALE_NONE",
+                            "date": "2025-08-21",
+                            "price": "0",
+                            "__typename": "SaleLabel"
+                        },
+                        "freeDeliveryServices": null,
+                        "isUkrainian": false,
+                        "ownerHasRecentActivity": true,
+                        "tags": [],
+                        "rating": null,
+                        "ratingAmount": null,
+                        "seller": {
+                            "id": 1758820,
+                            "isTopSeller": true,
+                            "__typename": "User"
+                        },
+                        "isViewed": true,
+                        "createdAt": "2025-08-20T13:44:53.310654+00:00",
+                        "sellingCondition": "SALE"
+                    },
+                    "__typename": "FeedEdge"
+                },
+                {
+                    "node": {
+                        "id": 190702382,
+                        "url": "/women/zhenskaya-obuv/krossovki/190702382-zhinochi-sportivni-krosivki-nike-air-presto-fly-original-rozmir-375",
+                        "thumbnail": "https://image-thumbs.shafastatic.net/2210198508_310_430",
+                        "name": "Женские спортивные кроссовки nike air presto fly оригинал, размер 37.5",
+                        "price": 1300.0,
+                        "oldPrice": null,
+                        "statusTitle": "AVAILABLE",
+                        "discountPercent": null,
+                        "likes": 6,
+                        "isLiked": false,
+                        "__typename": "Product",
+                        "brand": {
+                            "id": 104,
+                            "name": "Nike",
+                            "__typename": "Brand"
+                        },
+                        "catalogSlug": "zhenskaya-obuv/krossovki",
+                        "isNew": false,
+                        "sizes": [
+                            {
+                                "id": 229,
+                                "name": "37.5",
+                                "__typename": "Size"
+                            },
+                            {
+                                "id": 34,
+                                "name": "37",
+                                "__typename": "Size"
+                            }
+                        ],
+                        "saleLabel": {
+                            "status": "SALE_NONE",
+                            "date": "2025-08-21",
+                            "price": "0",
+                            "__typename": "SaleLabel"
+                        },
+                        "freeDeliveryServices": null,
+                        "isUkrainian": false,
+                        "ownerHasRecentActivity": true,
+                        "tags": [],
+                        "rating": null,
+                        "ratingAmount": null,
+                        "seller": {
+                            "id": 132990,
+                            "isTopSeller": true,
+                            "__typename": "User"
+                        },
+                        "isViewed": true,
+                        "createdAt": "2025-08-20T13:44:34.394579+00:00",
+                        "sellingCondition": "SALE"
+                    },
+                    "__typename": "FeedEdge"
+                },
+                {
+                    "node": {
+                        "id": 190700563,
+                        "url": "/women/zhenskaya-obuv/krossovki/190700563-krosivki-zhinochi-vid-sinsay",
+                        "thumbnail": "https://image-thumbs.shafastatic.net/2210187369_310_430",
+                        "name": "Кросівки жіночі від sinsay",
+                        "price": 500.0,
+                        "oldPrice": null,
+                        "statusTitle": "AVAILABLE",
+                        "discountPercent": null,
+                        "likes": 15,
+                        "isLiked": false,
+                        "__typename": "Product",
+                        "brand": {
+                            "id": 149,
+                            "name": "Sinsay",
+                            "__typename": "Brand"
+                        },
+                        "catalogSlug": "zhenskaya-obuv/krossovki",
+                        "isNew": true,
+                        "sizes": [
+                            {
+                                "id": 34,
+                                "name": "37",
+                                "__typename": "Size"
+                            }
+                        ],
+                        "saleLabel": {
+                            "status": "SALE_NONE",
+                            "date": "2025-08-21",
+                            "price": "0",
+                            "__typename": "SaleLabel"
+                        },
+                        "freeDeliveryServices": null,
+                        "isUkrainian": false,
+                        "ownerHasRecentActivity": true,
+                        "tags": [],
+                        "rating": null,
+                        "ratingAmount": null,
+                        "seller": {
+                            "id": 179736,
+                            "isTopSeller": true,
+                            "__typename": "User"
+                        },
+                        "isViewed": true,
+                        "createdAt": "2025-08-20T13:02:45.817035+00:00",
+                        "sellingCondition": "SALE"
+                    },
+                    "__typename": "FeedEdge"
+                },
+                {
+                    "node": {
+                        "id": 190696643,
+                        "url": "/women/zhenskaya-obuv/krossovki/190696643-krosivki-shkiryaninubuk-ust26",
+                        "thumbnail": "https://image-thumbs.shafastatic.net/2210224008_310_430",
+                        "name": "Кроссовки кожаные/нубук. уст.26.",
+                        "price": 550.0,
+                        "oldPrice": 653.0,
+                        "statusTitle": "AVAILABLE",
+                        "discountPercent": 16,
+                        "likes": 10,
+                        "isLiked": false,
+                        "__typename": "Product",
+                        "brand": {
+                            "id": 15045,
+                            "name": "Medicus",
+                            "__typename": "Brand"
+                        },
+                        "catalogSlug": "zhenskaya-obuv/krossovki",
+                        "isNew": false,
+                        "sizes": [
+                            {
+                                "id": 36,
+                                "name": "39",
+                                "__typename": "Size"
+                            },
+                            {
+                                "id": 37,
+                                "name": "40",
+                                "__typename": "Size"
+                            }
+                        ],
+                        "saleLabel": {
+                            "status": "SALE_NONE",
+                            "date": "2025-08-21",
+                            "price": "0",
+                            "__typename": "SaleLabel"
+                        },
+                        "freeDeliveryServices": null,
+                        "isUkrainian": false,
+                        "ownerHasRecentActivity": true,
+                        "tags": [],
+                        "rating": null,
+                        "ratingAmount": null,
+                        "seller": {
+                            "id": 3057569,
+                            "isTopSeller": true,
+                            "__typename": "User"
+                        },
+                        "isViewed": true,
+                        "createdAt": "2025-08-20T11:32:57.509986+00:00",
+                        "sellingCondition": "SALE"
+                    },
+                    "__typename": "FeedEdge"
+                },
+                {
+                    "node": {
+                        "id": 190656930,
+                        "url": "/women/zhenskaya-obuv/krossovki/190656930-vagabond-krosivki-naturalna-shkira-zolotisti-245-sm",
+                        "thumbnail": "https://image-thumbs.shafastatic.net/2209918310_310_430",
+                        "name": "Vagabond кросівки натуральна шкіра, золотисті, 24,5 см",
+                        "price": 770.0,
+                        "oldPrice": null,
+                        "statusTitle": "AVAILABLE",
+                        "discountPercent": null,
+                        "likes": 20,
+                        "isLiked": false,
+                        "__typename": "Product",
+                        "brand": {
+                            "id": 785,
+                            "name": "Vagabond",
+                            "__typename": "Brand"
+                        },
+                        "catalogSlug": "zhenskaya-obuv/krossovki",
+                        "isNew": false,
+                        "sizes": [
+                            {
+                                "id": 35,
+                                "name": "38",
+                                "__typename": "Size"
+                            },
+                            {
+                                "id": 230,
+                                "name": "38.5",
+                                "__typename": "Size"
+                            }
+                        ],
+                        "saleLabel": {
+                            "status": "SALE_NONE",
+                            "date": "2025-08-21",
+                            "price": "0",
+                            "__typename": "SaleLabel"
+                        },
+                        "freeDeliveryServices": null,
+                        "isUkrainian": false,
+                        "ownerHasRecentActivity": true,
+                        "tags": [],
+                        "rating": null,
+                        "ratingAmount": null,
+                        "seller": {
+                            "id": 1024296,
+                            "isTopSeller": true,
+                            "__typename": "User"
+                        },
+                        "isViewed": true,
+                        "createdAt": "2025-08-19T10:08:11.964656+00:00",
+                        "sellingCondition": "SALE"
+                    },
+                    "__typename": "FeedEdge"
+                },
+                {
+                    "node": {
                         "id": 190663143,
                         "url": "/kids/dlya-malchikov/krossovki-i-kedy/190663143-krosivki-dlya-hlopchika",
                         "thumbnail": "https://image-thumbs.shafastatic.net/2209956954_310_430",
@@ -99,7 +474,7 @@
                         "oldPrice": null,
                         "statusTitle": "AVAILABLE",
                         "discountPercent": null,
-                        "likes": 3,
+                        "likes": 18,
                         "isLiked": false,
                         "__typename": "Product",
                         "brand": {
@@ -118,7 +493,7 @@
                         ],
                         "saleLabel": {
                             "status": "SALE_NONE",
-                            "date": "2025-08-19",
+                            "date": "2025-08-21",
                             "price": "0",
                             "__typename": "SaleLabel"
                         },
@@ -141,34 +516,34 @@
                 },
                 {
                     "node": {
-                        "id": 190644951,
-                        "url": "/women/zhenskaya-obuv/krossovki/190644951-krosivki-zhinochi-skechers",
-                        "thumbnail": "https://image-thumbs.shafastatic.net/2209840339_310_430",
-                        "name": "Кроссовки женские skechers",
-                        "price": 580.0,
+                        "id": 190644497,
+                        "url": "/men/obuv/krossovki/190644497-visoki-krosivki-zara-dlya-haykingu",
+                        "thumbnail": "https://image-thumbs.shafastatic.net/2209839020_310_430",
+                        "name": "Высокие кроссовки zara для хайкинга",
+                        "price": 1498.0,
                         "oldPrice": null,
                         "statusTitle": "AVAILABLE",
                         "discountPercent": null,
-                        "likes": 4,
+                        "likes": 9,
                         "isLiked": false,
                         "__typename": "Product",
                         "brand": {
-                            "id": 270,
-                            "name": "Skechers",
+                            "id": 183,
+                            "name": "ZARA",
                             "__typename": "Brand"
                         },
-                        "catalogSlug": "zhenskaya-obuv/krossovki",
+                        "catalogSlug": "obuv/krossovki",
                         "isNew": true,
                         "sizes": [
                             {
-                                "id": 37,
-                                "name": "40",
+                                "id": 174,
+                                "name": "39",
                                 "__typename": "Size"
                             }
                         ],
                         "saleLabel": {
                             "status": "SALE_NONE",
-                            "date": "2025-08-19",
+                            "date": "2025-08-21",
                             "price": "0",
                             "__typename": "SaleLabel"
                         },
@@ -179,35 +554,135 @@
                         "rating": null,
                         "ratingAmount": null,
                         "seller": {
-                            "id": 3126953,
+                            "id": 282383,
                             "isTopSeller": true,
                             "__typename": "User"
                         },
                         "isViewed": true,
-                        "createdAt": "2025-08-19T08:01:00.850623+00:00",
+                        "createdAt": "2025-08-19T07:58:03.767932+00:00",
                         "sellingCondition": "SALE"
                     },
                     "__typename": "FeedEdge"
                 },
                 {
                     "node": {
-                        "id": 190667595,
-                        "url": "/women/zhenskaya-obuv/krossovki/190667595-zhinochi-shkiryani-krosivki-vid-vid-topovogo-italiyskogo-brendu-fila",
-                        "thumbnail": "https://image-thumbs.shafastatic.net/2209984472_310_430",
-                        "name": "Женские кожаные кроссовки от топового итальянского бренда fila",
-                        "price": 680.0,
+                        "id": 190639619,
+                        "url": "/men/obuv/krossovki/190639619-krosivki-new-balance-574-classic-ml574ei2",
+                        "thumbnail": "https://image-thumbs.shafastatic.net/2209805792_310_430",
+                        "name": "Кросівки new balance 574 classic (ml574ei2)",
+                        "price": 1600.0,
                         "oldPrice": null,
                         "statusTitle": "AVAILABLE",
                         "discountPercent": null,
-                        "likes": 12,
+                        "likes": 11,
                         "isLiked": false,
                         "__typename": "Product",
                         "brand": {
-                            "id": 3424,
-                            "name": "Fila",
+                            "id": 385,
+                            "name": "New Balance",
                             "__typename": "Brand"
                         },
-                        "catalogSlug": "zhenskaya-obuv/krossovki",
+                        "catalogSlug": "obuv/krossovki",
+                        "isNew": false,
+                        "sizes": [
+                            {
+                                "id": 241,
+                                "name": "41.5",
+                                "__typename": "Size"
+                            }
+                        ],
+                        "saleLabel": {
+                            "status": "SALE_NONE",
+                            "date": "2025-08-21",
+                            "price": "0",
+                            "__typename": "SaleLabel"
+                        },
+                        "freeDeliveryServices": null,
+                        "isUkrainian": false,
+                        "ownerHasRecentActivity": true,
+                        "tags": [],
+                        "rating": null,
+                        "ratingAmount": null,
+                        "seller": {
+                            "id": 9709630,
+                            "isTopSeller": true,
+                            "__typename": "User"
+                        },
+                        "isViewed": true,
+                        "createdAt": "2025-08-19T04:53:55.992226+00:00",
+                        "sellingCondition": "SALE"
+                    },
+                    "__typename": "FeedEdge"
+                },
+                {
+                    "node": {
+                        "id": 190689620,
+                        "url": "/kids/dlya-malchikov/krossovki-i-kedy/190689620-krosivki-dityachi-26-r155-sm-buli-vditi-1-raz",
+                        "thumbnail": "https://image-thumbs.shafastatic.net/2210120630_310_430",
+                        "name": "Кроссовки детские 26 г.,15.5 см\nбыли включены 1 раз",
+                        "price": 516.0,
+                        "oldPrice": null,
+                        "statusTitle": "AVAILABLE",
+                        "discountPercent": null,
+                        "likes": 1,
+                        "isLiked": false,
+                        "__typename": "Product",
+                        "brand": {
+                            "id": 4,
+                            "name": "Adidas",
+                            "__typename": "Brand"
+                        },
+                        "catalogSlug": "dlya-malchikov/krossovki-i-kedy",
+                        "isNew": false,
+                        "sizes": [
+                            {
+                                "id": 107,
+                                "name": "26",
+                                "__typename": "Size"
+                            }
+                        ],
+                        "saleLabel": {
+                            "status": "SALE_NONE",
+                            "date": "2025-08-21",
+                            "price": "0",
+                            "__typename": "SaleLabel"
+                        },
+                        "freeDeliveryServices": null,
+                        "isUkrainian": false,
+                        "ownerHasRecentActivity": true,
+                        "tags": [],
+                        "rating": null,
+                        "ratingAmount": null,
+                        "seller": {
+                            "id": 1953211,
+                            "isTopSeller": true,
+                            "__typename": "User"
+                        },
+                        "isViewed": true,
+                        "createdAt": "2025-08-20T09:07:19.567874+00:00",
+                        "sellingCondition": "SALE"
+                    },
+                    "__typename": "FeedEdge"
+                },
+                {
+                    "node": {
+                        "id": 190683828,
+                        "url": "/women/zhenskaya-obuv/kedy/190683828-shkiryani-kedi-krosivki-massimo-dutti",
+                        "thumbnail": "https://image-thumbs.shafastatic.net/2210085528_310_430",
+                        "name": "Шкіряні кеди кросівки massimo dutti",
+                        "price": 400.0,
+                        "oldPrice": null,
+                        "statusTitle": "AVAILABLE",
+                        "discountPercent": null,
+                        "likes": 29,
+                        "isLiked": false,
+                        "__typename": "Product",
+                        "brand": {
+                            "id": 595,
+                            "name": "Massimo Dutti",
+                            "__typename": "Brand"
+                        },
+                        "catalogSlug": "zhenskaya-obuv/kedy",
                         "isNew": false,
                         "sizes": [
                             {
@@ -218,7 +693,7 @@
                         ],
                         "saleLabel": {
                             "status": "SALE_NONE",
-                            "date": "2025-08-19",
+                            "date": "2025-08-21",
                             "price": "0",
                             "__typename": "SaleLabel"
                         },
@@ -229,12 +704,62 @@
                         "rating": null,
                         "ratingAmount": null,
                         "seller": {
-                            "id": 884690,
+                            "id": 3874767,
                             "isTopSeller": true,
                             "__typename": "User"
                         },
                         "isViewed": true,
-                        "createdAt": "2025-08-19T14:22:42.949235+00:00",
+                        "createdAt": "2025-08-20T05:04:25.092977+00:00",
+                        "sellingCondition": "SALE"
+                    },
+                    "__typename": "FeedEdge"
+                },
+                {
+                    "node": {
+                        "id": 190682892,
+                        "url": "/kids/dlya-malchikov/krossovki-i-kedy/190682892-adidas-grand-court-30r-18-19sm-krosivki-original",
+                        "thumbnail": "https://image-thumbs.shafastatic.net/2210079264_310_430",
+                        "name": "Adidas grand court 30р 18-19см кросівки оригінал",
+                        "price": 550.0,
+                        "oldPrice": null,
+                        "statusTitle": "AVAILABLE",
+                        "discountPercent": null,
+                        "likes": 2,
+                        "isLiked": false,
+                        "__typename": "Product",
+                        "brand": {
+                            "id": 4,
+                            "name": "Adidas",
+                            "__typename": "Brand"
+                        },
+                        "catalogSlug": "dlya-malchikov/krossovki-i-kedy",
+                        "isNew": false,
+                        "sizes": [
+                            {
+                                "id": 111,
+                                "name": "30",
+                                "__typename": "Size"
+                            }
+                        ],
+                        "saleLabel": {
+                            "status": "SALE_NONE",
+                            "date": "2025-08-21",
+                            "price": "0",
+                            "__typename": "SaleLabel"
+                        },
+                        "freeDeliveryServices": null,
+                        "isUkrainian": false,
+                        "ownerHasRecentActivity": true,
+                        "tags": [],
+                        "rating": null,
+                        "ratingAmount": null,
+                        "seller": {
+                            "id": 1807062,
+                            "isTopSeller": true,
+                            "__typename": "User"
+                        },
+                        "isViewed": true,
+                        "createdAt": "2025-08-19T23:20:14.435197+00:00",
                         "sellingCondition": "SALE"
                     },
                     "__typename": "FeedEdge"
@@ -249,7 +774,7 @@
                         "oldPrice": null,
                         "statusTitle": "AVAILABLE",
                         "discountPercent": null,
-                        "likes": 2,
+                        "likes": 14,
                         "isLiked": false,
                         "__typename": "Product",
                         "brand": {
@@ -268,7 +793,7 @@
                         ],
                         "saleLabel": {
                             "status": "SALE_NONE",
-                            "date": "2025-08-19",
+                            "date": "2025-08-21",
                             "price": "0",
                             "__typename": "SaleLabel"
                         },
@@ -299,7 +824,7 @@
                         "oldPrice": null,
                         "statusTitle": "AVAILABLE",
                         "discountPercent": null,
-                        "likes": 2,
+                        "likes": 11,
                         "isLiked": false,
                         "__typename": "Product",
                         "brand": {
@@ -323,7 +848,7 @@
                         ],
                         "saleLabel": {
                             "status": "SALE_NONE",
-                            "date": "2025-08-19",
+                            "date": "2025-08-21",
                             "price": "0",
                             "__typename": "SaleLabel"
                         },
@@ -346,166 +871,6 @@
                 },
                 {
                     "node": {
-                        "id": 190657143,
-                        "url": "/women/zhenskaya-obuv/krossovki/190657143-krosivki-skechers-breathe-easy-relaxed-fit",
-                        "thumbnail": "https://image-thumbs.shafastatic.net/2209918766_310_430",
-                        "name": "Кроссовки skechers breathe easy relaxed fit",
-                        "price": 995.0,
-                        "oldPrice": null,
-                        "statusTitle": "AVAILABLE",
-                        "discountPercent": null,
-                        "likes": 4,
-                        "isLiked": false,
-                        "__typename": "Product",
-                        "brand": {
-                            "id": 270,
-                            "name": "Skechers",
-                            "__typename": "Brand"
-                        },
-                        "catalogSlug": "zhenskaya-obuv/krossovki",
-                        "isNew": false,
-                        "sizes": [
-                            {
-                                "id": 36,
-                                "name": "39",
-                                "__typename": "Size"
-                            },
-                            {
-                                "id": 230,
-                                "name": "38.5",
-                                "__typename": "Size"
-                            }
-                        ],
-                        "saleLabel": {
-                            "status": "SALE_NONE",
-                            "date": "2025-08-19",
-                            "price": "0",
-                            "__typename": "SaleLabel"
-                        },
-                        "freeDeliveryServices": null,
-                        "isUkrainian": false,
-                        "ownerHasRecentActivity": true,
-                        "tags": [],
-                        "rating": null,
-                        "ratingAmount": null,
-                        "seller": {
-                            "id": 9936906,
-                            "isTopSeller": true,
-                            "__typename": "User"
-                        },
-                        "isViewed": true,
-                        "createdAt": "2025-08-19T10:13:22.400543+00:00",
-                        "sellingCondition": "SALE"
-                    },
-                    "__typename": "FeedEdge"
-                },
-                {
-                    "node": {
-                        "id": 190656930,
-                        "url": "/women/zhenskaya-obuv/krossovki/190656930-vagabond-krosivki-naturalna-shkira-zolotisti-245-sm",
-                        "thumbnail": "https://image-thumbs.shafastatic.net/2209918310_310_430",
-                        "name": "Vagabond кросівки натуральна шкіра, золотисті, 24,5 см",
-                        "price": 770.0,
-                        "oldPrice": null,
-                        "statusTitle": "AVAILABLE",
-                        "discountPercent": null,
-                        "likes": 2,
-                        "isLiked": false,
-                        "__typename": "Product",
-                        "brand": {
-                            "id": 785,
-                            "name": "Vagabond",
-                            "__typename": "Brand"
-                        },
-                        "catalogSlug": "zhenskaya-obuv/krossovki",
-                        "isNew": false,
-                        "sizes": [
-                            {
-                                "id": 35,
-                                "name": "38",
-                                "__typename": "Size"
-                            },
-                            {
-                                "id": 230,
-                                "name": "38.5",
-                                "__typename": "Size"
-                            }
-                        ],
-                        "saleLabel": {
-                            "status": "SALE_NONE",
-                            "date": "2025-08-19",
-                            "price": "0",
-                            "__typename": "SaleLabel"
-                        },
-                        "freeDeliveryServices": null,
-                        "isUkrainian": false,
-                        "ownerHasRecentActivity": true,
-                        "tags": [],
-                        "rating": null,
-                        "ratingAmount": null,
-                        "seller": {
-                            "id": 1024296,
-                            "isTopSeller": true,
-                            "__typename": "User"
-                        },
-                        "isViewed": true,
-                        "createdAt": "2025-08-19T10:08:11.964656+00:00",
-                        "sellingCondition": "SALE"
-                    },
-                    "__typename": "FeedEdge"
-                },
-                {
-                    "node": {
-                        "id": 190644497,
-                        "url": "/men/obuv/krossovki/190644497-visoki-krosivki-zara-dlya-haykingu",
-                        "thumbnail": "https://image-thumbs.shafastatic.net/2209839020_310_430",
-                        "name": "Высокие кроссовки zara для хайкинга",
-                        "price": 1498.0,
-                        "oldPrice": null,
-                        "statusTitle": "AVAILABLE",
-                        "discountPercent": null,
-                        "likes": 4,
-                        "isLiked": false,
-                        "__typename": "Product",
-                        "brand": {
-                            "id": 183,
-                            "name": "ZARA",
-                            "__typename": "Brand"
-                        },
-                        "catalogSlug": "obuv/krossovki",
-                        "isNew": true,
-                        "sizes": [
-                            {
-                                "id": 174,
-                                "name": "39",
-                                "__typename": "Size"
-                            }
-                        ],
-                        "saleLabel": {
-                            "status": "SALE_NONE",
-                            "date": "2025-08-19",
-                            "price": "0",
-                            "__typename": "SaleLabel"
-                        },
-                        "freeDeliveryServices": null,
-                        "isUkrainian": false,
-                        "ownerHasRecentActivity": true,
-                        "tags": [],
-                        "rating": null,
-                        "ratingAmount": null,
-                        "seller": {
-                            "id": 282383,
-                            "isTopSeller": true,
-                            "__typename": "User"
-                        },
-                        "isViewed": true,
-                        "createdAt": "2025-08-19T07:58:03.767932+00:00",
-                        "sellingCondition": "SALE"
-                    },
-                    "__typename": "FeedEdge"
-                },
-                {
-                    "node": {
                         "id": 190627858,
                         "url": "/kids/dlya-malchikov/krossovki-i-kedy/190627858-krosivki-puma34-r",
                         "thumbnail": "https://image-thumbs.shafastatic.net/2209732858_310_430",
@@ -514,7 +879,7 @@
                         "oldPrice": null,
                         "statusTitle": "AVAILABLE",
                         "discountPercent": null,
-                        "likes": 16,
+                        "likes": 30,
                         "isLiked": false,
                         "__typename": "Product",
                         "brand": {
@@ -533,7 +898,7 @@
                         ],
                         "saleLabel": {
                             "status": "SALE_NONE",
-                            "date": "2025-08-19",
+                            "date": "2025-08-21",
                             "price": "0",
                             "__typename": "SaleLabel"
                         },
@@ -556,111 +921,6 @@
                 },
                 {
                     "node": {
-                        "id": 190626538,
-                        "url": "/women/zhenskaya-obuv/krossovki/190626538-113-bili-krosivki-calvin-klein-original-naturalna-shkira-rozmir-37",
-                        "thumbnail": "https://image-thumbs.shafastatic.net/2209727724_310_430",
-                        "name": "1+1=3 белые кроссовки calvin klein оригинал натуральная кожа, размер 37",
-                        "price": 1000.0,
-                        "oldPrice": 1500.0,
-                        "statusTitle": "AVAILABLE",
-                        "discountPercent": 34,
-                        "likes": 10,
-                        "isLiked": false,
-                        "__typename": "Product",
-                        "brand": {
-                            "id": 197,
-                            "name": "Calvin Klein",
-                            "__typename": "Brand"
-                        },
-                        "catalogSlug": "zhenskaya-obuv/krossovki",
-                        "isNew": false,
-                        "sizes": [
-                            {
-                                "id": 35,
-                                "name": "38",
-                                "__typename": "Size"
-                            }
-                        ],
-                        "saleLabel": {
-                            "status": "SALE_NONE",
-                            "date": "2025-08-19",
-                            "price": "0",
-                            "__typename": "SaleLabel"
-                        },
-                        "freeDeliveryServices": null,
-                        "isUkrainian": false,
-                        "ownerHasRecentActivity": true,
-                        "tags": [],
-                        "rating": null,
-                        "ratingAmount": null,
-                        "seller": {
-                            "id": 1073364,
-                            "isTopSeller": true,
-                            "__typename": "User"
-                        },
-                        "isViewed": true,
-                        "createdAt": "2025-08-18T15:30:02.592891+00:00",
-                        "sellingCondition": "SALE"
-                    },
-                    "__typename": "FeedEdge"
-                },
-                {
-                    "node": {
-                        "id": 190617096,
-                        "url": "/kids/dlya-devochek/krossovki-i-kedy/190617096-novi-krosivki-tomm-z-migotlivoyu-pidoshvoyu-na-divchinku",
-                        "thumbnail": "https://image-thumbs.shafastatic.net/2209666822_310_430",
-                        "name": "Новые кроссовки tom.m с мигающей подошвой на девочку",
-                        "price": 380.0,
-                        "oldPrice": null,
-                        "statusTitle": "AVAILABLE",
-                        "discountPercent": null,
-                        "likes": 9,
-                        "isLiked": false,
-                        "__typename": "Product",
-                        "brand": {
-                            "id": 44584,
-                            "name": "Tom.M",
-                            "__typename": "Brand"
-                        },
-                        "catalogSlug": "dlya-devochek/krossovki-i-kedy",
-                        "isNew": true,
-                        "sizes": [
-                            {
-                                "id": 88,
-                                "name": "22",
-                                "__typename": "Size"
-                            },
-                            {
-                                "id": 90,
-                                "name": "24",
-                                "__typename": "Size"
-                            }
-                        ],
-                        "saleLabel": {
-                            "status": "SALE_NONE",
-                            "date": "2025-08-19",
-                            "price": "0",
-                            "__typename": "SaleLabel"
-                        },
-                        "freeDeliveryServices": null,
-                        "isUkrainian": false,
-                        "ownerHasRecentActivity": true,
-                        "tags": [],
-                        "rating": null,
-                        "ratingAmount": null,
-                        "seller": {
-                            "id": 3495179,
-                            "isTopSeller": true,
-                            "__typename": "User"
-                        },
-                        "isViewed": true,
-                        "createdAt": "2025-08-18T11:29:15.561687+00:00",
-                        "sellingCondition": "SALE"
-                    },
-                    "__typename": "FeedEdge"
-                },
-                {
-                    "node": {
                         "id": 190588536,
                         "url": "/kids/dlya-malchikov/krossovki-i-kedy/190588536-krosivki-sorokonizhki-dlya-hlopchika",
                         "thumbnail": "https://image-thumbs.shafastatic.net/2209489173_310_430",
@@ -669,7 +929,7 @@
                         "oldPrice": null,
                         "statusTitle": "AVAILABLE",
                         "discountPercent": null,
-                        "likes": 4,
+                        "likes": 5,
                         "isLiked": false,
                         "__typename": "Product",
                         "brand": {
@@ -688,7 +948,7 @@
                         ],
                         "saleLabel": {
                             "status": "SALE_NONE",
-                            "date": "2025-08-19",
+                            "date": "2025-08-21",
                             "price": "0",
                             "__typename": "SaleLabel"
                         },
@@ -711,174 +971,24 @@
                 },
                 {
                     "node": {
-                        "id": 190585706,
-                        "url": "/kids/dlya-devochek/krossovki-i-kedy/190585706-krosivki-dityachi-zara-rr-34-ustilka-21-sm",
-                        "thumbnail": "https://image-thumbs.shafastatic.net/2209473464_310_430",
-                        "name": "Кросівки дитячі зара рр 34 устілка 21 см",
-                        "price": 300.0,
+                        "id": 190689348,
+                        "url": "/kids/dlya-devochek/krossovki-i-kedy/190689348-krosivki-dityachi-27-rozmir-novi-glibee17-sm-po-ustilke",
+                        "thumbnail": "https://image-thumbs.shafastatic.net/2210119167_310_430",
+                        "name": "Кроссовки детские 27 размер, новые glibee,17 см по стельке.",
+                        "price": 370.0,
                         "oldPrice": null,
                         "statusTitle": "AVAILABLE",
                         "discountPercent": null,
-                        "likes": 15,
+                        "likes": 9,
                         "isLiked": false,
                         "__typename": "Product",
                         "brand": {
-                            "id": 183,
-                            "name": "ZARA",
+                            "id": 47055,
+                            "name": "Clibee",
                             "__typename": "Brand"
                         },
                         "catalogSlug": "dlya-devochek/krossovki-i-kedy",
-                        "isNew": false,
-                        "sizes": [
-                            {
-                                "id": 100,
-                                "name": "34",
-                                "__typename": "Size"
-                            }
-                        ],
-                        "saleLabel": {
-                            "status": "SALE_NONE",
-                            "date": "2025-08-19",
-                            "price": "0",
-                            "__typename": "SaleLabel"
-                        },
-                        "freeDeliveryServices": null,
-                        "isUkrainian": false,
-                        "ownerHasRecentActivity": true,
-                        "tags": [],
-                        "rating": null,
-                        "ratingAmount": null,
-                        "seller": {
-                            "id": 10506537,
-                            "isTopSeller": true,
-                            "__typename": "User"
-                        },
-                        "isViewed": true,
-                        "createdAt": "2025-08-17T11:42:07.927064+00:00",
-                        "sellingCondition": "SALE"
-                    },
-                    "__typename": "FeedEdge"
-                },
-                {
-                    "node": {
-                        "id": 190575937,
-                        "url": "/women/zhenskaya-obuv/krossovki/190575937-krosivki-nayk-rr-40",
-                        "thumbnail": "https://image-thumbs.shafastatic.net/2209411655_310_430",
-                        "name": "Кросівки найк рр 44,5",
-                        "price": 800.0,
-                        "oldPrice": null,
-                        "statusTitle": "AVAILABLE",
-                        "discountPercent": null,
-                        "likes": 7,
-                        "isLiked": false,
-                        "__typename": "Product",
-                        "brand": {
-                            "id": 104,
-                            "name": "Nike",
-                            "__typename": "Brand"
-                        },
-                        "catalogSlug": "zhenskaya-obuv/krossovki",
-                        "isNew": false,
-                        "sizes": [
-                            {
-                                "id": 452,
-                                "name": "44.5",
-                                "__typename": "Size"
-                            }
-                        ],
-                        "saleLabel": {
-                            "status": "SALE_NONE",
-                            "date": "2025-08-19",
-                            "price": "0",
-                            "__typename": "SaleLabel"
-                        },
-                        "freeDeliveryServices": null,
-                        "isUkrainian": false,
-                        "ownerHasRecentActivity": true,
-                        "tags": [],
-                        "rating": null,
-                        "ratingAmount": null,
-                        "seller": {
-                            "id": 10506537,
-                            "isTopSeller": true,
-                            "__typename": "User"
-                        },
-                        "isViewed": true,
-                        "createdAt": "2025-08-17T06:23:46.184223+00:00",
-                        "sellingCondition": "SALE"
-                    },
-                    "__typename": "FeedEdge"
-                },
-                {
-                    "node": {
-                        "id": 190516192,
-                        "url": "/kids/dlya-devochek/krossovki-i-kedy/190516192-krosivki-adidas",
-                        "thumbnail": "https://image-thumbs.shafastatic.net/2209030416_310_430",
-                        "name": "Кроссовки adidas",
-                        "price": 550.0,
-                        "oldPrice": null,
-                        "statusTitle": "AVAILABLE",
-                        "discountPercent": null,
-                        "likes": 8,
-                        "isLiked": false,
-                        "__typename": "Product",
-                        "brand": {
-                            "id": 4,
-                            "name": "Adidas",
-                            "__typename": "Brand"
-                        },
-                        "catalogSlug": "dlya-devochek/krossovki-i-kedy",
-                        "isNew": false,
-                        "sizes": [
-                            {
-                                "id": 89,
-                                "name": "23",
-                                "__typename": "Size"
-                            }
-                        ],
-                        "saleLabel": {
-                            "status": "SALE_NONE",
-                            "date": "2025-08-19",
-                            "price": "0",
-                            "__typename": "SaleLabel"
-                        },
-                        "freeDeliveryServices": null,
-                        "isUkrainian": false,
-                        "ownerHasRecentActivity": true,
-                        "tags": [],
-                        "rating": null,
-                        "ratingAmount": null,
-                        "seller": {
-                            "id": 3898749,
-                            "isTopSeller": true,
-                            "__typename": "User"
-                        },
-                        "isViewed": true,
-                        "createdAt": "2025-08-14T21:55:26.884416+00:00",
-                        "sellingCondition": "SALE"
-                    },
-                    "__typename": "FeedEdge"
-                },
-                {
-                    "node": {
-                        "id": 190480216,
-                        "url": "/kids/dlya-devochek/krossovki-i-kedy/190480216-krosivki-clarks-27-rozmir",
-                        "thumbnail": "https://image-thumbs.shafastatic.net/2208798225_310_430",
-                        "name": "Кроссовки clarks 27 размер",
-                        "price": 350.0,
-                        "oldPrice": null,
-                        "statusTitle": "AVAILABLE",
-                        "discountPercent": null,
-                        "likes": 14,
-                        "isLiked": false,
-                        "__typename": "Product",
-                        "brand": {
-                            "id": 746,
-                            "name": "Clarks",
-                            "__typename": "Brand"
-                        },
-                        "catalogSlug": "dlya-devochek/krossovki-i-kedy",
-                        "isNew": false,
+                        "isNew": true,
                         "sizes": [
                             {
                                 "id": 93,
@@ -888,7 +998,7 @@
                         ],
                         "saleLabel": {
                             "status": "SALE_NONE",
-                            "date": "2025-08-19",
+                            "date": "2025-08-21",
                             "price": "0",
                             "__typename": "SaleLabel"
                         },
@@ -899,747 +1009,12 @@
                         "rating": null,
                         "ratingAmount": null,
                         "seller": {
-                            "id": 464766,
+                            "id": 1953211,
                             "isTopSeller": true,
                             "__typename": "User"
                         },
                         "isViewed": true,
-                        "createdAt": "2025-08-13T18:31:35.133645+00:00",
-                        "sellingCondition": "SALE"
-                    },
-                    "__typename": "FeedEdge"
-                },
-                {
-                    "node": {
-                        "id": 190637882,
-                        "url": "/men/obuv/krossovki/190637882-krosivki-cholovichi-nike-blazer-425-rozmir-stelka-27sm-original",
-                        "thumbnail": "https://image-thumbs.shafastatic.net/2209796560_310_430",
-                        "name": "Кроссовки мужские nike blazer 42.5 размер (столка 27см) original",
-                        "price": 1480.0,
-                        "oldPrice": null,
-                        "statusTitle": "AVAILABLE",
-                        "discountPercent": null,
-                        "likes": 3,
-                        "isLiked": false,
-                        "__typename": "Product",
-                        "brand": {
-                            "id": 104,
-                            "name": "Nike",
-                            "__typename": "Brand"
-                        },
-                        "catalogSlug": "obuv/krossovki",
-                        "isNew": false,
-                        "sizes": [
-                            {
-                                "id": 242,
-                                "name": "42.5",
-                                "__typename": "Size"
-                            }
-                        ],
-                        "saleLabel": {
-                            "status": "SALE_NONE",
-                            "date": "2025-08-19",
-                            "price": "0",
-                            "__typename": "SaleLabel"
-                        },
-                        "freeDeliveryServices": null,
-                        "isUkrainian": false,
-                        "ownerHasRecentActivity": true,
-                        "tags": [],
-                        "rating": null,
-                        "ratingAmount": null,
-                        "seller": {
-                            "id": 5687244,
-                            "isTopSeller": true,
-                            "__typename": "User"
-                        },
-                        "isViewed": true,
-                        "createdAt": "2025-08-18T21:50:57.183039+00:00",
-                        "sellingCondition": "SALE"
-                    },
-                    "__typename": "FeedEdge"
-                },
-                {
-                    "node": {
-                        "id": 190637859,
-                        "url": "/women/zhenskaya-obuv/krossovki/190637859-krosivki-adidas-36-rozmir-stelka-23sm-original",
-                        "thumbnail": "https://image-thumbs.shafastatic.net/2209796420_310_430",
-                        "name": "Кроссовки adidas 36 размер (стелька 23см) original",
-                        "price": 880.0,
-                        "oldPrice": null,
-                        "statusTitle": "AVAILABLE",
-                        "discountPercent": null,
-                        "likes": 3,
-                        "isLiked": false,
-                        "__typename": "Product",
-                        "brand": {
-                            "id": 4,
-                            "name": "Adidas",
-                            "__typename": "Brand"
-                        },
-                        "catalogSlug": "zhenskaya-obuv/krossovki",
-                        "isNew": false,
-                        "sizes": [
-                            {
-                                "id": 33,
-                                "name": "36",
-                                "__typename": "Size"
-                            }
-                        ],
-                        "saleLabel": {
-                            "status": "SALE_NONE",
-                            "date": "2025-08-19",
-                            "price": "0",
-                            "__typename": "SaleLabel"
-                        },
-                        "freeDeliveryServices": null,
-                        "isUkrainian": false,
-                        "ownerHasRecentActivity": true,
-                        "tags": [],
-                        "rating": null,
-                        "ratingAmount": null,
-                        "seller": {
-                            "id": 5687244,
-                            "isTopSeller": true,
-                            "__typename": "User"
-                        },
-                        "isViewed": true,
-                        "createdAt": "2025-08-18T21:48:35.733529+00:00",
-                        "sellingCondition": "SALE"
-                    },
-                    "__typename": "FeedEdge"
-                },
-                {
-                    "node": {
-                        "id": 190637369,
-                        "url": "/women/zhenskaya-obuv/krossovki/190637369-zhinochi-krosivki-adidas",
-                        "thumbnail": "https://image-thumbs.shafastatic.net/2209793229_310_430",
-                        "name": "Женские кроссовки адидас",
-                        "price": 750.0,
-                        "oldPrice": 800.0,
-                        "statusTitle": "AVAILABLE",
-                        "discountPercent": 7,
-                        "likes": 11,
-                        "isLiked": false,
-                        "__typename": "Product",
-                        "brand": {
-                            "id": 4,
-                            "name": "Adidas",
-                            "__typename": "Brand"
-                        },
-                        "catalogSlug": "zhenskaya-obuv/krossovki",
-                        "isNew": false,
-                        "sizes": [
-                            {
-                                "id": 34,
-                                "name": "37",
-                                "__typename": "Size"
-                            },
-                            {
-                                "id": 229,
-                                "name": "37.5",
-                                "__typename": "Size"
-                            }
-                        ],
-                        "saleLabel": {
-                            "status": "SALE_NONE",
-                            "date": "2025-08-19",
-                            "price": "0",
-                            "__typename": "SaleLabel"
-                        },
-                        "freeDeliveryServices": null,
-                        "isUkrainian": false,
-                        "ownerHasRecentActivity": true,
-                        "tags": [],
-                        "rating": null,
-                        "ratingAmount": null,
-                        "seller": {
-                            "id": 7935198,
-                            "isTopSeller": true,
-                            "__typename": "User"
-                        },
-                        "isViewed": true,
-                        "createdAt": "2025-08-18T21:10:38.876324+00:00",
-                        "sellingCondition": "SALE"
-                    },
-                    "__typename": "FeedEdge"
-                },
-                {
-                    "node": {
-                        "id": 190636804,
-                        "url": "/women/zhenskaya-obuv/krossovki/190636804-krosivki-zhinochi",
-                        "thumbnail": "https://image-thumbs.shafastatic.net/2209788861_310_430",
-                        "name": "Кроссовки женские.",
-                        "price": 650.0,
-                        "oldPrice": null,
-                        "statusTitle": "AVAILABLE",
-                        "discountPercent": null,
-                        "likes": 6,
-                        "isLiked": false,
-                        "__typename": "Product",
-                        "brand": {
-                            "id": 890,
-                            "name": "John Richmond",
-                            "__typename": "Brand"
-                        },
-                        "catalogSlug": "zhenskaya-obuv/krossovki",
-                        "isNew": false,
-                        "sizes": [
-                            {
-                                "id": 35,
-                                "name": "38",
-                                "__typename": "Size"
-                            }
-                        ],
-                        "saleLabel": {
-                            "status": "SALE_NONE",
-                            "date": "2025-08-19",
-                            "price": "0",
-                            "__typename": "SaleLabel"
-                        },
-                        "freeDeliveryServices": null,
-                        "isUkrainian": false,
-                        "ownerHasRecentActivity": true,
-                        "tags": [],
-                        "rating": null,
-                        "ratingAmount": null,
-                        "seller": {
-                            "id": 3022965,
-                            "isTopSeller": true,
-                            "__typename": "User"
-                        },
-                        "isViewed": true,
-                        "createdAt": "2025-08-18T20:36:00.552585+00:00",
-                        "sellingCondition": "SALE"
-                    },
-                    "__typename": "FeedEdge"
-                },
-                {
-                    "node": {
-                        "id": 190602141,
-                        "url": "/women/zhenskaya-obuv/krossovki/190602141-zhinochi-krosivki-nike-air-max-97",
-                        "thumbnail": "https://image-thumbs.shafastatic.net/2209575146_310_430",
-                        "name": "Женские кроссовки nike air max 97",
-                        "price": 1200.0,
-                        "oldPrice": null,
-                        "statusTitle": "AVAILABLE",
-                        "discountPercent": null,
-                        "likes": 38,
-                        "isLiked": false,
-                        "__typename": "Product",
-                        "brand": {
-                            "id": 104,
-                            "name": "Nike",
-                            "__typename": "Brand"
-                        },
-                        "catalogSlug": "zhenskaya-obuv/krossovki",
-                        "isNew": false,
-                        "sizes": [
-                            {
-                                "id": 229,
-                                "name": "37.5",
-                                "__typename": "Size"
-                            },
-                            {
-                                "id": 35,
-                                "name": "38",
-                                "__typename": "Size"
-                            }
-                        ],
-                        "saleLabel": {
-                            "status": "SALE_NONE",
-                            "date": "2025-08-19",
-                            "price": "0",
-                            "__typename": "SaleLabel"
-                        },
-                        "freeDeliveryServices": null,
-                        "isUkrainian": false,
-                        "ownerHasRecentActivity": true,
-                        "tags": [],
-                        "rating": null,
-                        "ratingAmount": null,
-                        "seller": {
-                            "id": 4144367,
-                            "isTopSeller": true,
-                            "__typename": "User"
-                        },
-                        "isViewed": true,
-                        "createdAt": "2025-08-17T19:36:51.419650+00:00",
-                        "sellingCondition": "SALE"
-                    },
-                    "__typename": "FeedEdge"
-                },
-                {
-                    "node": {
-                        "id": 190593776,
-                        "url": "/women/zhenskaya-obuv/krossovki/190593776-krosivki-medicus-nimechchina-37r-yak-novi-krossovki",
-                        "thumbnail": "https://image-thumbs.shafastatic.net/2209519722_310_430",
-                        "name": "Кросівки medicus німеччина 37р як нові кроссовки",
-                        "price": 849.0,
-                        "oldPrice": null,
-                        "statusTitle": "AVAILABLE",
-                        "discountPercent": null,
-                        "likes": 9,
-                        "isLiked": false,
-                        "__typename": "Product",
-                        "brand": {
-                            "id": 15045,
-                            "name": "Medicus",
-                            "__typename": "Brand"
-                        },
-                        "catalogSlug": "zhenskaya-obuv/krossovki",
-                        "isNew": false,
-                        "sizes": [
-                            {
-                                "id": 34,
-                                "name": "37",
-                                "__typename": "Size"
-                            }
-                        ],
-                        "saleLabel": {
-                            "status": "SALE_NONE",
-                            "date": "2025-08-19",
-                            "price": "0",
-                            "__typename": "SaleLabel"
-                        },
-                        "freeDeliveryServices": null,
-                        "isUkrainian": false,
-                        "ownerHasRecentActivity": true,
-                        "tags": [],
-                        "rating": null,
-                        "ratingAmount": null,
-                        "seller": {
-                            "id": 577576,
-                            "isTopSeller": true,
-                            "__typename": "User"
-                        },
-                        "isViewed": true,
-                        "createdAt": "2025-08-17T15:15:10.531050+00:00",
-                        "sellingCondition": "SALE"
-                    },
-                    "__typename": "FeedEdge"
-                },
-                {
-                    "node": {
-                        "id": 190582990,
-                        "url": "/kids/dlya-malchikov/krossovki-i-kedy/190582990-krosivki-dlya-hlopchika",
-                        "thumbnail": "https://image-thumbs.shafastatic.net/2209456480_310_430",
-                        "name": "Кроссовки для мальчика",
-                        "price": 299.0,
-                        "oldPrice": null,
-                        "statusTitle": "AVAILABLE",
-                        "discountPercent": null,
-                        "likes": 11,
-                        "isLiked": false,
-                        "__typename": "Product",
-                        "brand": {
-                            "id": 105,
-                            "name": "Next",
-                            "__typename": "Brand"
-                        },
-                        "catalogSlug": "dlya-malchikov/krossovki-i-kedy",
-                        "isNew": false,
-                        "sizes": [
-                            {
-                                "id": 103,
-                                "name": "22",
-                                "__typename": "Size"
-                            },
-                            {
-                                "id": 104,
-                                "name": "23",
-                                "__typename": "Size"
-                            }
-                        ],
-                        "saleLabel": {
-                            "status": "SALE_NONE",
-                            "date": "2025-08-19",
-                            "price": "0",
-                            "__typename": "SaleLabel"
-                        },
-                        "freeDeliveryServices": null,
-                        "isUkrainian": false,
-                        "ownerHasRecentActivity": true,
-                        "tags": [],
-                        "rating": null,
-                        "ratingAmount": null,
-                        "seller": {
-                            "id": 7099926,
-                            "isTopSeller": true,
-                            "__typename": "User"
-                        },
-                        "isViewed": true,
-                        "createdAt": "2025-08-17T10:19:50.087158+00:00",
-                        "sellingCondition": "SALE"
-                    },
-                    "__typename": "FeedEdge"
-                },
-                {
-                    "node": {
-                        "id": 190581712,
-                        "url": "/women/zhenskaya-obuv/krossovki/190581712-113-firmovi-sini-zhinochi-krosivki-kedi-marksspencer-rozmir-38",
-                        "thumbnail": "https://image-thumbs.shafastatic.net/2209451478_310_430",
-                        "name": "🎁1+1=3 фирменные синие женские кроссовки кеды marks &amp; spencer, размер 38",
-                        "price": 499.0,
-                        "oldPrice": 650.0,
-                        "statusTitle": "AVAILABLE",
-                        "discountPercent": 24,
-                        "likes": 7,
-                        "isLiked": false,
-                        "__typename": "Product",
-                        "brand": {
-                            "id": 734,
-                            "name": "Marks & Spencer",
-                            "__typename": "Brand"
-                        },
-                        "catalogSlug": "zhenskaya-obuv/krossovki",
-                        "isNew": true,
-                        "sizes": [
-                            {
-                                "id": 35,
-                                "name": "38",
-                                "__typename": "Size"
-                            }
-                        ],
-                        "saleLabel": {
-                            "status": "SALE_NONE",
-                            "date": "2025-08-19",
-                            "price": "0",
-                            "__typename": "SaleLabel"
-                        },
-                        "freeDeliveryServices": null,
-                        "isUkrainian": false,
-                        "ownerHasRecentActivity": true,
-                        "tags": [],
-                        "rating": null,
-                        "ratingAmount": null,
-                        "seller": {
-                            "id": 780545,
-                            "isTopSeller": true,
-                            "__typename": "User"
-                        },
-                        "isViewed": true,
-                        "createdAt": "2025-08-17T09:45:44.940643+00:00",
-                        "sellingCondition": "SALE"
-                    },
-                    "__typename": "FeedEdge"
-                },
-                {
-                    "node": {
-                        "id": 190581108,
-                        "url": "/men/obuv/krossovki/190581108-adidas-originals-gazelle-43r-275sm-krosivki-original",
-                        "thumbnail": "https://image-thumbs.shafastatic.net/2209444179_310_430",
-                        "name": "Adidas originals gazelle 43р 27.5см кросівки оригінал",
-                        "price": 1300.0,
-                        "oldPrice": 1500.0,
-                        "statusTitle": "AVAILABLE",
-                        "discountPercent": 14,
-                        "likes": 18,
-                        "isLiked": false,
-                        "__typename": "Product",
-                        "brand": {
-                            "id": 4,
-                            "name": "Adidas",
-                            "__typename": "Brand"
-                        },
-                        "catalogSlug": "obuv/krossovki",
-                        "isNew": false,
-                        "sizes": [
-                            {
-                                "id": 178,
-                                "name": "43",
-                                "__typename": "Size"
-                            },
-                            {
-                                "id": 243,
-                                "name": "43.5",
-                                "__typename": "Size"
-                            }
-                        ],
-                        "saleLabel": {
-                            "status": "SALE_NONE",
-                            "date": "2025-08-19",
-                            "price": "0",
-                            "__typename": "SaleLabel"
-                        },
-                        "freeDeliveryServices": null,
-                        "isUkrainian": false,
-                        "ownerHasRecentActivity": true,
-                        "tags": [],
-                        "rating": null,
-                        "ratingAmount": null,
-                        "seller": {
-                            "id": 1807062,
-                            "isTopSeller": true,
-                            "__typename": "User"
-                        },
-                        "isViewed": true,
-                        "createdAt": "2025-08-17T09:30:21.284647+00:00",
-                        "sellingCondition": "SALE"
-                    },
-                    "__typename": "FeedEdge"
-                },
-                {
-                    "node": {
-                        "id": 190573946,
-                        "url": "/kids/dlya-malchikov/krossovki-i-kedy/190573946-adidas-grand-court-20-35r-22-33sm-krosivki-dityachi-original",
-                        "thumbnail": "https://image-thumbs.shafastatic.net/2209398674_310_430",
-                        "name": "Adidas grand court 2.0 35р 22-23см кросівки дитячі оригінал",
-                        "price": 599.0,
-                        "oldPrice": null,
-                        "statusTitle": "AVAILABLE",
-                        "discountPercent": null,
-                        "likes": 13,
-                        "isLiked": false,
-                        "__typename": "Product",
-                        "brand": {
-                            "id": 4,
-                            "name": "Adidas",
-                            "__typename": "Brand"
-                        },
-                        "catalogSlug": "dlya-malchikov/krossovki-i-kedy",
-                        "isNew": false,
-                        "sizes": [
-                            {
-                                "id": 116,
-                                "name": "35",
-                                "__typename": "Size"
-                            },
-                            {
-                                "id": 222,
-                                "name": "35.5",
-                                "__typename": "Size"
-                            }
-                        ],
-                        "saleLabel": {
-                            "status": "SALE_NONE",
-                            "date": "2025-08-19",
-                            "price": "0",
-                            "__typename": "SaleLabel"
-                        },
-                        "freeDeliveryServices": null,
-                        "isUkrainian": false,
-                        "ownerHasRecentActivity": true,
-                        "tags": [],
-                        "rating": null,
-                        "ratingAmount": null,
-                        "seller": {
-                            "id": 1807062,
-                            "isTopSeller": true,
-                            "__typename": "User"
-                        },
-                        "isViewed": true,
-                        "createdAt": "2025-08-16T22:41:05.140165+00:00",
-                        "sellingCondition": "SALE"
-                    },
-                    "__typename": "FeedEdge"
-                },
-                {
-                    "node": {
-                        "id": 190561296,
-                        "url": "/women/zhenskaya-obuv/krossovki/190561296-krossovki-nike",
-                        "thumbnail": "https://image-thumbs.shafastatic.net/2209319581_310_430",
-                        "name": "Кроссовки nike",
-                        "price": 899.0,
-                        "oldPrice": null,
-                        "statusTitle": "AVAILABLE",
-                        "discountPercent": null,
-                        "likes": 19,
-                        "isLiked": false,
-                        "__typename": "Product",
-                        "brand": {
-                            "id": 52413,
-                            "name": "Nike Pro",
-                            "__typename": "Brand"
-                        },
-                        "catalogSlug": "zhenskaya-obuv/krossovki",
-                        "isNew": false,
-                        "sizes": [
-                            {
-                                "id": 33,
-                                "name": "36",
-                                "__typename": "Size"
-                            },
-                            {
-                                "id": 248,
-                                "name": "36.5",
-                                "__typename": "Size"
-                            }
-                        ],
-                        "saleLabel": {
-                            "status": "SALE_NONE",
-                            "date": "2025-08-19",
-                            "price": "0",
-                            "__typename": "SaleLabel"
-                        },
-                        "freeDeliveryServices": null,
-                        "isUkrainian": false,
-                        "ownerHasRecentActivity": true,
-                        "tags": [],
-                        "rating": null,
-                        "ratingAmount": null,
-                        "seller": {
-                            "id": 453895,
-                            "isTopSeller": true,
-                            "__typename": "User"
-                        },
-                        "isViewed": true,
-                        "createdAt": "2025-08-16T13:31:11.575197+00:00",
-                        "sellingCondition": "SALE"
-                    },
-                    "__typename": "FeedEdge"
-                },
-                {
-                    "node": {
-                        "id": 190546157,
-                        "url": "/men/obuv/krossovki/190546157-originalni-bigovi-krosivki-asics-gel-gt-1000",
-                        "thumbnail": "https://image-thumbs.shafastatic.net/2209223839_310_430",
-                        "name": "Оригинальные кроссовки для бега asics 1968-1000 3 t4k3n",
-                        "price": 1199.0,
-                        "oldPrice": null,
-                        "statusTitle": "AVAILABLE",
-                        "discountPercent": null,
-                        "likes": 8,
-                        "isLiked": false,
-                        "__typename": "Product",
-                        "brand": {
-                            "id": 3966,
-                            "name": "Asics",
-                            "__typename": "Brand"
-                        },
-                        "catalogSlug": "obuv/krossovki",
-                        "isNew": false,
-                        "sizes": [
-                            {
-                                "id": 241,
-                                "name": "41.5",
-                                "__typename": "Size"
-                            }
-                        ],
-                        "saleLabel": {
-                            "status": "SALE_NONE",
-                            "date": "2025-08-19",
-                            "price": "0",
-                            "__typename": "SaleLabel"
-                        },
-                        "freeDeliveryServices": null,
-                        "isUkrainian": false,
-                        "ownerHasRecentActivity": true,
-                        "tags": [],
-                        "rating": null,
-                        "ratingAmount": null,
-                        "seller": {
-                            "id": 3750817,
-                            "isTopSeller": true,
-                            "__typename": "User"
-                        },
-                        "isViewed": true,
-                        "createdAt": "2025-08-15T21:24:40.789429+00:00",
-                        "sellingCondition": "SALE"
-                    },
-                    "__typename": "FeedEdge"
-                },
-                {
-                    "node": {
-                        "id": 190445709,
-                        "url": "/kids/dlya-malchikov/krossovki-i-kedy/190445709-krosivki-dlya-hlopchika-tommy-hilfiger",
-                        "thumbnail": "https://image-thumbs.shafastatic.net/2208586759_310_430",
-                        "name": "Кроссовки для мальчика Tommy hilfiger",
-                        "price": 590.0,
-                        "oldPrice": null,
-                        "statusTitle": "AVAILABLE",
-                        "discountPercent": null,
-                        "likes": 17,
-                        "isLiked": false,
-                        "__typename": "Product",
-                        "brand": {
-                            "id": 159,
-                            "name": "Tommy Hilfiger",
-                            "__typename": "Brand"
-                        },
-                        "catalogSlug": "dlya-malchikov/krossovki-i-kedy",
-                        "isNew": false,
-                        "sizes": [
-                            {
-                                "id": 112,
-                                "name": "31",
-                                "__typename": "Size"
-                            }
-                        ],
-                        "saleLabel": {
-                            "status": "SALE_NONE",
-                            "date": "2025-08-19",
-                            "price": "0",
-                            "__typename": "SaleLabel"
-                        },
-                        "freeDeliveryServices": null,
-                        "isUkrainian": false,
-                        "ownerHasRecentActivity": true,
-                        "tags": [],
-                        "rating": null,
-                        "ratingAmount": null,
-                        "seller": {
-                            "id": 4144367,
-                            "isTopSeller": true,
-                            "__typename": "User"
-                        },
-                        "isViewed": true,
-                        "createdAt": "2025-08-12T19:00:27.023077+00:00",
-                        "sellingCondition": "SALE"
-                    },
-                    "__typename": "FeedEdge"
-                },
-                {
-                    "node": {
-                        "id": 190427388,
-                        "url": "/kids/dlya-malchikov/krossovki-i-kedy/190427388-krosivki-quechua-r2728-ustilka-18sm",
-                        "thumbnail": "https://image-thumbs.shafastatic.net/2208475197_310_430",
-                        "name": "Кроссовки quechua р27/28 стелька 18см",
-                        "price": 300.0,
-                        "oldPrice": null,
-                        "statusTitle": "AVAILABLE",
-                        "discountPercent": null,
-                        "likes": 9,
-                        "isLiked": false,
-                        "__typename": "Product",
-                        "brand": {
-                            "id": 5742,
-                            "name": "Quechua",
-                            "__typename": "Brand"
-                        },
-                        "catalogSlug": "dlya-malchikov/krossovki-i-kedy",
-                        "isNew": false,
-                        "sizes": [
-                            {
-                                "id": 109,
-                                "name": "28",
-                                "__typename": "Size"
-                            },
-                            {
-                                "id": 108,
-                                "name": "27",
-                                "__typename": "Size"
-                            }
-                        ],
-                        "saleLabel": {
-                            "status": "SALE_NONE",
-                            "date": "2025-08-19",
-                            "price": "0",
-                            "__typename": "SaleLabel"
-                        },
-                        "freeDeliveryServices": null,
-                        "isUkrainian": false,
-                        "ownerHasRecentActivity": true,
-                        "tags": [],
-                        "rating": null,
-                        "ratingAmount": null,
-                        "seller": {
-                            "id": 736958,
-                            "isTopSeller": true,
-                            "__typename": "User"
-                        },
-                        "isViewed": true,
-                        "createdAt": "2025-08-12T11:28:37.108180+00:00",
+                        "createdAt": "2025-08-20T09:00:43.961247+00:00",
                         "sellingCondition": "SALE"
                     },
                     "__typename": "FeedEdge"
@@ -1650,11 +1025,11 @@
                         "url": "/men/obuv/krossovki/190682713-nike-air-max-bolt-405r-255sm-krosivki-original",
                         "thumbnail": "https://image-thumbs.shafastatic.net/2210078127_310_430",
                         "name": "Nike air max bolt 40.5р 25.5см кросівки оригінал",
-                        "price": 1300.0,
+                        "price": 1400.0,
                         "oldPrice": null,
                         "statusTitle": "AVAILABLE",
                         "discountPercent": null,
-                        "likes": 0,
+                        "likes": 5,
                         "isLiked": false,
                         "__typename": "Product",
                         "brand": {
@@ -1666,19 +1041,19 @@
                         "isNew": false,
                         "sizes": [
                             {
-                                "id": 240,
-                                "name": "40.5",
+                                "id": 175,
+                                "name": "40",
                                 "__typename": "Size"
                             },
                             {
-                                "id": 175,
-                                "name": "40",
+                                "id": 240,
+                                "name": "40.5",
                                 "__typename": "Size"
                             }
                         ],
                         "saleLabel": {
                             "status": "SALE_NONE",
-                            "date": "2025-08-19",
+                            "date": "2025-08-21",
                             "price": "0",
                             "__typename": "SaleLabel"
                         },
@@ -1709,7 +1084,7 @@
                         "oldPrice": null,
                         "statusTitle": "AVAILABLE",
                         "discountPercent": null,
-                        "likes": 0,
+                        "likes": 3,
                         "isLiked": false,
                         "__typename": "Product",
                         "brand": {
@@ -1733,7 +1108,7 @@
                         ],
                         "saleLabel": {
                             "status": "SALE_NONE",
-                            "date": "2025-08-19",
+                            "date": "2025-08-21",
                             "price": "0",
                             "__typename": "SaleLabel"
                         },
@@ -1756,111 +1131,6 @@
                 },
                 {
                     "node": {
-                        "id": 190680298,
-                        "url": "/men/obuv/krossovki/190680298-originalni-krosivki-asics-gel-nimbus-25",
-                        "thumbnail": "https://image-thumbs.shafastatic.net/2210063167_310_430",
-                        "name": "Оригинальные кроссовки asics gel-nimbus 25",
-                        "price": 1550.0,
-                        "oldPrice": null,
-                        "statusTitle": "AVAILABLE",
-                        "discountPercent": null,
-                        "likes": 0,
-                        "isLiked": false,
-                        "__typename": "Product",
-                        "brand": {
-                            "id": 3966,
-                            "name": "Asics",
-                            "__typename": "Brand"
-                        },
-                        "catalogSlug": "obuv/krossovki",
-                        "isNew": false,
-                        "sizes": [
-                            {
-                                "id": 176,
-                                "name": "41",
-                                "__typename": "Size"
-                            }
-                        ],
-                        "saleLabel": {
-                            "status": "SALE_NONE",
-                            "date": "2025-08-19",
-                            "price": "0",
-                            "__typename": "SaleLabel"
-                        },
-                        "freeDeliveryServices": null,
-                        "isUkrainian": false,
-                        "ownerHasRecentActivity": true,
-                        "tags": [],
-                        "rating": null,
-                        "ratingAmount": null,
-                        "seller": {
-                            "id": 7303120,
-                            "isTopSeller": true,
-                            "__typename": "User"
-                        },
-                        "isViewed": true,
-                        "createdAt": "2025-08-19T20:17:36.805932+00:00",
-                        "sellingCondition": "SALE"
-                    },
-                    "__typename": "FeedEdge"
-                },
-                {
-                    "node": {
-                        "id": 190676918,
-                        "url": "/kids/dlya-devochek/krossovki-i-kedy/190676918-originalni-krosivki-adidas-r-23",
-                        "thumbnail": "https://image-thumbs.shafastatic.net/2210040913_310_430",
-                        "name": "Оригинальные кроссовки adidas, р. 23",
-                        "price": 450.0,
-                        "oldPrice": null,
-                        "statusTitle": "AVAILABLE",
-                        "discountPercent": null,
-                        "likes": 0,
-                        "isLiked": false,
-                        "__typename": "Product",
-                        "brand": {
-                            "id": 4,
-                            "name": "Adidas",
-                            "__typename": "Brand"
-                        },
-                        "catalogSlug": "dlya-devochek/krossovki-i-kedy",
-                        "isNew": false,
-                        "sizes": [
-                            {
-                                "id": 89,
-                                "name": "23",
-                                "__typename": "Size"
-                            },
-                            {
-                                "id": 196,
-                                "name": "23.5",
-                                "__typename": "Size"
-                            }
-                        ],
-                        "saleLabel": {
-                            "status": "SALE_NONE",
-                            "date": "2025-08-19",
-                            "price": "0",
-                            "__typename": "SaleLabel"
-                        },
-                        "freeDeliveryServices": null,
-                        "isUkrainian": false,
-                        "ownerHasRecentActivity": true,
-                        "tags": [],
-                        "rating": null,
-                        "ratingAmount": null,
-                        "seller": {
-                            "id": 591281,
-                            "isTopSeller": true,
-                            "__typename": "User"
-                        },
-                        "isViewed": true,
-                        "createdAt": "2025-08-19T18:36:38.879609+00:00",
-                        "sellingCondition": "SALE"
-                    },
-                    "__typename": "FeedEdge"
-                },
-                {
-                    "node": {
                         "id": 190674996,
                         "url": "/women/zhenskaya-obuv/krossovki/190674996-krosivki-adidas-gazzel",
                         "thumbnail": "https://image-thumbs.shafastatic.net/2210029365_310_430",
@@ -1869,7 +1139,7 @@
                         "oldPrice": 1250.0,
                         "statusTitle": "AVAILABLE",
                         "discountPercent": 37,
-                        "likes": 4,
+                        "likes": 25,
                         "isLiked": false,
                         "__typename": "Product",
                         "brand": {
@@ -1893,7 +1163,7 @@
                         ],
                         "saleLabel": {
                             "status": "SALE_NONE",
-                            "date": "2025-08-19",
+                            "date": "2025-08-21",
                             "price": "0",
                             "__typename": "SaleLabel"
                         },
@@ -1916,156 +1186,6 @@
                 },
                 {
                     "node": {
-                        "id": 190674594,
-                        "url": "/kids/dlya-malchikov/krossovki-i-kedy/190674594-krosivki-legenki",
-                        "thumbnail": "https://image-thumbs.shafastatic.net/2210027593_310_430",
-                        "name": "Кросівки легенькі",
-                        "price": 330.0,
-                        "oldPrice": null,
-                        "statusTitle": "AVAILABLE",
-                        "discountPercent": null,
-                        "likes": 0,
-                        "isLiked": false,
-                        "__typename": "Product",
-                        "brand": {
-                            "id": 11134,
-                            "name": "Elefanten",
-                            "__typename": "Brand"
-                        },
-                        "catalogSlug": "dlya-malchikov/krossovki-i-kedy",
-                        "isNew": false,
-                        "sizes": [
-                            {
-                                "id": 103,
-                                "name": "22",
-                                "__typename": "Size"
-                            }
-                        ],
-                        "saleLabel": {
-                            "status": "SALE_NONE",
-                            "date": "2025-08-19",
-                            "price": "0",
-                            "__typename": "SaleLabel"
-                        },
-                        "freeDeliveryServices": null,
-                        "isUkrainian": false,
-                        "ownerHasRecentActivity": true,
-                        "tags": [],
-                        "rating": null,
-                        "ratingAmount": null,
-                        "seller": {
-                            "id": 3756716,
-                            "isTopSeller": true,
-                            "__typename": "User"
-                        },
-                        "isViewed": true,
-                        "createdAt": "2025-08-19T17:28:57.547878+00:00",
-                        "sellingCondition": "SALE"
-                    },
-                    "__typename": "FeedEdge"
-                },
-                {
-                    "node": {
-                        "id": 190674497,
-                        "url": "/kids/dlya-malchikov/krossovki-i-kedy/190674497-krosivki-original",
-                        "thumbnail": "https://image-thumbs.shafastatic.net/2210026981_310_430",
-                        "name": "Кросівки оригінал",
-                        "price": 383.0,
-                        "oldPrice": null,
-                        "statusTitle": "AVAILABLE",
-                        "discountPercent": null,
-                        "likes": 0,
-                        "isLiked": false,
-                        "__typename": "Product",
-                        "brand": {
-                            "id": 3424,
-                            "name": "Fila",
-                            "__typename": "Brand"
-                        },
-                        "catalogSlug": "dlya-malchikov/krossovki-i-kedy",
-                        "isNew": false,
-                        "sizes": [
-                            {
-                                "id": 109,
-                                "name": "28",
-                                "__typename": "Size"
-                            }
-                        ],
-                        "saleLabel": {
-                            "status": "SALE_NONE",
-                            "date": "2025-08-19",
-                            "price": "0",
-                            "__typename": "SaleLabel"
-                        },
-                        "freeDeliveryServices": null,
-                        "isUkrainian": false,
-                        "ownerHasRecentActivity": true,
-                        "tags": [],
-                        "rating": null,
-                        "ratingAmount": null,
-                        "seller": {
-                            "id": 3756716,
-                            "isTopSeller": true,
-                            "__typename": "User"
-                        },
-                        "isViewed": true,
-                        "createdAt": "2025-08-19T17:26:18.150964+00:00",
-                        "sellingCondition": "SALE"
-                    },
-                    "__typename": "FeedEdge"
-                },
-                {
-                    "node": {
-                        "id": 190673884,
-                        "url": "/kids/dlya-malchikov/krossovki-i-kedy/190673884-krosivki-original-nike",
-                        "thumbnail": "https://image-thumbs.shafastatic.net/2210021530_310_430",
-                        "name": "Кроссовки оригинал nike",
-                        "price": 450.0,
-                        "oldPrice": 550.0,
-                        "statusTitle": "AVAILABLE",
-                        "discountPercent": 19,
-                        "likes": 0,
-                        "isLiked": false,
-                        "__typename": "Product",
-                        "brand": {
-                            "id": 104,
-                            "name": "Nike",
-                            "__typename": "Brand"
-                        },
-                        "catalogSlug": "dlya-malchikov/krossovki-i-kedy",
-                        "isNew": false,
-                        "sizes": [
-                            {
-                                "id": 375,
-                                "name": "Другой",
-                                "__typename": "Size"
-                            }
-                        ],
-                        "saleLabel": {
-                            "status": "SALE_NONE",
-                            "date": "2025-08-19",
-                            "price": "0",
-                            "__typename": "SaleLabel"
-                        },
-                        "freeDeliveryServices": null,
-                        "isUkrainian": false,
-                        "ownerHasRecentActivity": true,
-                        "tags": [],
-                        "rating": null,
-                        "ratingAmount": null,
-                        "seller": {
-                            "id": 2283249,
-                            "isTopSeller": true,
-                            "__typename": "User"
-                        },
-                        "isViewed": true,
-                        "createdAt": "2025-08-19T17:07:05.565141+00:00",
-                        "sellingCondition": "SALE"
-                    },
-                    "__typename": "FeedEdge"
-                },
-                {
-                    "node": {
                         "id": 190670907,
                         "url": "/women/zhenskaya-obuv/krossovki/190670907-zhinochi-krosivki-vans-vans",
                         "thumbnail": "https://image-thumbs.shafastatic.net/2210002902_310_430",
@@ -2074,7 +1194,7 @@
                         "oldPrice": null,
                         "statusTitle": "AVAILABLE",
                         "discountPercent": null,
-                        "likes": 4,
+                        "likes": 43,
                         "isLiked": false,
                         "__typename": "Product",
                         "brand": {
@@ -2098,7 +1218,7 @@
                         ],
                         "saleLabel": {
                             "status": "SALE_NONE",
-                            "date": "2025-08-19",
+                            "date": "2025-08-21",
                             "price": "0",
                             "__typename": "SaleLabel"
                         },
@@ -2121,39 +1241,449 @@
                 },
                 {
                     "node": {
-                        "id": 190670569,
-                        "url": "/men/obuv/krossovki/190670569-asics-onitsuka-tiger-mexico-66-41r-26sm-krosivki-original",
-                        "thumbnail": "https://image-thumbs.shafastatic.net/2210000970_310_430",
-                        "name": "Asics onitsuka tiger mexico 66 41р 26см кросівки оригінал",
-                        "price": 1500.0,
+                        "id": 190650150,
+                        "url": "/women/zhenskaya-obuv/krossovki/190650150-krosivki-36-r",
+                        "thumbnail": "https://image-thumbs.shafastatic.net/2209882687_310_430",
+                        "name": "Кроссовки 36 р",
+                        "price": 890.0,
                         "oldPrice": null,
                         "statusTitle": "AVAILABLE",
                         "discountPercent": null,
-                        "likes": 2,
+                        "likes": 17,
                         "isLiked": false,
                         "__typename": "Product",
                         "brand": {
-                            "id": 46968,
-                            "name": "Onitsuka Tiger",
+                            "id": 4,
+                            "name": "Adidas",
+                            "__typename": "Brand"
+                        },
+                        "catalogSlug": "zhenskaya-obuv/krossovki",
+                        "isNew": false,
+                        "sizes": [
+                            {
+                                "id": 228,
+                                "name": "35.5",
+                                "__typename": "Size"
+                            },
+                            {
+                                "id": 33,
+                                "name": "36",
+                                "__typename": "Size"
+                            }
+                        ],
+                        "saleLabel": {
+                            "status": "SALE_NONE",
+                            "date": "2025-08-21",
+                            "price": "0",
+                            "__typename": "SaleLabel"
+                        },
+                        "freeDeliveryServices": null,
+                        "isUkrainian": false,
+                        "ownerHasRecentActivity": true,
+                        "tags": [],
+                        "rating": null,
+                        "ratingAmount": null,
+                        "seller": {
+                            "id": 550463,
+                            "isTopSeller": true,
+                            "__typename": "User"
+                        },
+                        "isViewed": true,
+                        "createdAt": "2025-08-19T08:38:47.886144+00:00",
+                        "sellingCondition": "SALE"
+                    },
+                    "__typename": "FeedEdge"
+                },
+                {
+                    "node": {
+                        "id": 190644951,
+                        "url": "/women/zhenskaya-obuv/krossovki/190644951-krosivki-zhinochi-skechers",
+                        "thumbnail": "https://image-thumbs.shafastatic.net/2209840339_310_430",
+                        "name": "Кроссовки женские skechers",
+                        "price": 580.0,
+                        "oldPrice": null,
+                        "statusTitle": "AVAILABLE",
+                        "discountPercent": null,
+                        "likes": 9,
+                        "isLiked": false,
+                        "__typename": "Product",
+                        "brand": {
+                            "id": 270,
+                            "name": "Skechers",
+                            "__typename": "Brand"
+                        },
+                        "catalogSlug": "zhenskaya-obuv/krossovki",
+                        "isNew": true,
+                        "sizes": [
+                            {
+                                "id": 37,
+                                "name": "40",
+                                "__typename": "Size"
+                            }
+                        ],
+                        "saleLabel": {
+                            "status": "SALE_NONE",
+                            "date": "2025-08-21",
+                            "price": "0",
+                            "__typename": "SaleLabel"
+                        },
+                        "freeDeliveryServices": null,
+                        "isUkrainian": false,
+                        "ownerHasRecentActivity": true,
+                        "tags": [],
+                        "rating": null,
+                        "ratingAmount": null,
+                        "seller": {
+                            "id": 3126953,
+                            "isTopSeller": true,
+                            "__typename": "User"
+                        },
+                        "isViewed": true,
+                        "createdAt": "2025-08-19T08:01:00.850623+00:00",
+                        "sellingCondition": "SALE"
+                    },
+                    "__typename": "FeedEdge"
+                },
+                {
+                    "node": {
+                        "id": 190637882,
+                        "url": "/men/obuv/krossovki/190637882-krosivki-cholovichi-nike-blazer-425-rozmir-stelka-27sm-original",
+                        "thumbnail": "https://image-thumbs.shafastatic.net/2209796560_310_430",
+                        "name": "Кроссовки мужские nike blazer 42.5 размер (столка 27см) original",
+                        "price": 1480.0,
+                        "oldPrice": null,
+                        "statusTitle": "AVAILABLE",
+                        "discountPercent": null,
+                        "likes": 8,
+                        "isLiked": false,
+                        "__typename": "Product",
+                        "brand": {
+                            "id": 104,
+                            "name": "Nike",
                             "__typename": "Brand"
                         },
                         "catalogSlug": "obuv/krossovki",
                         "isNew": false,
                         "sizes": [
                             {
-                                "id": 241,
-                                "name": "41.5",
-                                "__typename": "Size"
-                            },
-                            {
-                                "id": 176,
-                                "name": "41",
+                                "id": 242,
+                                "name": "42.5",
                                 "__typename": "Size"
                             }
                         ],
                         "saleLabel": {
                             "status": "SALE_NONE",
-                            "date": "2025-08-19",
+                            "date": "2025-08-21",
+                            "price": "0",
+                            "__typename": "SaleLabel"
+                        },
+                        "freeDeliveryServices": null,
+                        "isUkrainian": false,
+                        "ownerHasRecentActivity": true,
+                        "tags": [],
+                        "rating": null,
+                        "ratingAmount": null,
+                        "seller": {
+                            "id": 5687244,
+                            "isTopSeller": true,
+                            "__typename": "User"
+                        },
+                        "isViewed": true,
+                        "createdAt": "2025-08-18T21:50:57.183039+00:00",
+                        "sellingCondition": "SALE"
+                    },
+                    "__typename": "FeedEdge"
+                },
+                {
+                    "node": {
+                        "id": 190637859,
+                        "url": "/women/zhenskaya-obuv/krossovki/190637859-krosivki-adidas-36-rozmir-stelka-23sm-original",
+                        "thumbnail": "https://image-thumbs.shafastatic.net/2209796420_310_430",
+                        "name": "Кроссовки adidas 36 размер (стелька 23см) original",
+                        "price": 880.0,
+                        "oldPrice": null,
+                        "statusTitle": "AVAILABLE",
+                        "discountPercent": null,
+                        "likes": 15,
+                        "isLiked": false,
+                        "__typename": "Product",
+                        "brand": {
+                            "id": 4,
+                            "name": "Adidas",
+                            "__typename": "Brand"
+                        },
+                        "catalogSlug": "zhenskaya-obuv/krossovki",
+                        "isNew": false,
+                        "sizes": [
+                            {
+                                "id": 33,
+                                "name": "36",
+                                "__typename": "Size"
+                            }
+                        ],
+                        "saleLabel": {
+                            "status": "SALE_NONE",
+                            "date": "2025-08-21",
+                            "price": "0",
+                            "__typename": "SaleLabel"
+                        },
+                        "freeDeliveryServices": null,
+                        "isUkrainian": false,
+                        "ownerHasRecentActivity": true,
+                        "tags": [],
+                        "rating": null,
+                        "ratingAmount": null,
+                        "seller": {
+                            "id": 5687244,
+                            "isTopSeller": true,
+                            "__typename": "User"
+                        },
+                        "isViewed": true,
+                        "createdAt": "2025-08-18T21:48:35.733529+00:00",
+                        "sellingCondition": "SALE"
+                    },
+                    "__typename": "FeedEdge"
+                },
+                {
+                    "node": {
+                        "id": 190637825,
+                        "url": "/women/zhenskaya-obuv/krossovki/190637825-krosivki-zhinochi-reebok-easytone-405-rozmir-stelka-265sm-original",
+                        "thumbnail": "https://image-thumbs.shafastatic.net/2209796280_310_430",
+                        "name": "Кроссовки женские reebok easytone 40.5 размер (стелька 26.5см) original",
+                        "price": 980.0,
+                        "oldPrice": null,
+                        "statusTitle": "AVAILABLE",
+                        "discountPercent": null,
+                        "likes": 8,
+                        "isLiked": false,
+                        "__typename": "Product",
+                        "brand": {
+                            "id": 137,
+                            "name": "Reebok",
+                            "__typename": "Brand"
+                        },
+                        "catalogSlug": "zhenskaya-obuv/krossovki",
+                        "isNew": false,
+                        "sizes": [
+                            {
+                                "id": 232,
+                                "name": "40.5",
+                                "__typename": "Size"
+                            }
+                        ],
+                        "saleLabel": {
+                            "status": "SALE_NONE",
+                            "date": "2025-08-21",
+                            "price": "0",
+                            "__typename": "SaleLabel"
+                        },
+                        "freeDeliveryServices": null,
+                        "isUkrainian": false,
+                        "ownerHasRecentActivity": true,
+                        "tags": [],
+                        "rating": null,
+                        "ratingAmount": null,
+                        "seller": {
+                            "id": 5687244,
+                            "isTopSeller": true,
+                            "__typename": "User"
+                        },
+                        "isViewed": true,
+                        "createdAt": "2025-08-18T21:45:26.520757+00:00",
+                        "sellingCondition": "SALE"
+                    },
+                    "__typename": "FeedEdge"
+                },
+                {
+                    "node": {
+                        "id": 190632639,
+                        "url": "/kids/dlya-malchikov/krossovki-i-kedy/190632639-novi-lesi-krosivki-clibee-na-hlopchika-26-31-r",
+                        "thumbnail": "https://image-thumbs.shafastatic.net/2209748962_310_430",
+                        "name": "Нові демі кросівки clibee на хлопчика 26-31 р",
+                        "price": 495.0,
+                        "oldPrice": null,
+                        "statusTitle": "AVAILABLE",
+                        "discountPercent": null,
+                        "likes": 23,
+                        "isLiked": false,
+                        "__typename": "Product",
+                        "brand": {
+                            "id": 47055,
+                            "name": "Clibee",
+                            "__typename": "Brand"
+                        },
+                        "catalogSlug": "dlya-malchikov/krossovki-i-kedy",
+                        "isNew": true,
+                        "sizes": [
+                            {
+                                "id": 107,
+                                "name": "26",
+                                "__typename": "Size"
+                            },
+                            {
+                                "id": 213,
+                                "name": "26.5",
+                                "__typename": "Size"
+                            },
+                            {
+                                "id": 108,
+                                "name": "27",
+                                "__typename": "Size"
+                            },
+                            {
+                                "id": 214,
+                                "name": "27.5",
+                                "__typename": "Size"
+                            },
+                            {
+                                "id": 109,
+                                "name": "28",
+                                "__typename": "Size"
+                            },
+                            {
+                                "id": 215,
+                                "name": "28.5",
+                                "__typename": "Size"
+                            },
+                            {
+                                "id": 110,
+                                "name": "29",
+                                "__typename": "Size"
+                            },
+                            {
+                                "id": 216,
+                                "name": "29.5",
+                                "__typename": "Size"
+                            },
+                            {
+                                "id": 111,
+                                "name": "30",
+                                "__typename": "Size"
+                            },
+                            {
+                                "id": 217,
+                                "name": "30.5",
+                                "__typename": "Size"
+                            },
+                            {
+                                "id": 112,
+                                "name": "31",
+                                "__typename": "Size"
+                            }
+                        ],
+                        "saleLabel": {
+                            "status": "SALE_NONE",
+                            "date": "2025-08-21",
+                            "price": "0",
+                            "__typename": "SaleLabel"
+                        },
+                        "freeDeliveryServices": null,
+                        "isUkrainian": false,
+                        "ownerHasRecentActivity": true,
+                        "tags": [],
+                        "rating": null,
+                        "ratingAmount": null,
+                        "seller": {
+                            "id": 635314,
+                            "isTopSeller": true,
+                            "__typename": "User"
+                        },
+                        "isViewed": true,
+                        "createdAt": "2025-08-18T18:19:58.982423+00:00",
+                        "sellingCondition": "SALE"
+                    },
+                    "__typename": "FeedEdge"
+                },
+                {
+                    "node": {
+                        "id": 190582990,
+                        "url": "/kids/dlya-malchikov/krossovki-i-kedy/190582990-krosivki-dlya-hlopchika",
+                        "thumbnail": "https://image-thumbs.shafastatic.net/2209456480_310_430",
+                        "name": "Кроссовки для мальчика",
+                        "price": 299.0,
+                        "oldPrice": null,
+                        "statusTitle": "AVAILABLE",
+                        "discountPercent": null,
+                        "likes": 13,
+                        "isLiked": false,
+                        "__typename": "Product",
+                        "brand": {
+                            "id": 105,
+                            "name": "Next",
+                            "__typename": "Brand"
+                        },
+                        "catalogSlug": "dlya-malchikov/krossovki-i-kedy",
+                        "isNew": false,
+                        "sizes": [
+                            {
+                                "id": 103,
+                                "name": "22",
+                                "__typename": "Size"
+                            },
+                            {
+                                "id": 104,
+                                "name": "23",
+                                "__typename": "Size"
+                            }
+                        ],
+                        "saleLabel": {
+                            "status": "SALE_NONE",
+                            "date": "2025-08-21",
+                            "price": "0",
+                            "__typename": "SaleLabel"
+                        },
+                        "freeDeliveryServices": null,
+                        "isUkrainian": false,
+                        "ownerHasRecentActivity": true,
+                        "tags": [],
+                        "rating": null,
+                        "ratingAmount": null,
+                        "seller": {
+                            "id": 7099926,
+                            "isTopSeller": true,
+                            "__typename": "User"
+                        },
+                        "isViewed": true,
+                        "createdAt": "2025-08-17T10:19:50.087158+00:00",
+                        "sellingCondition": "SALE"
+                    },
+                    "__typename": "FeedEdge"
+                },
+                {
+                    "node": {
+                        "id": 190581108,
+                        "url": "/men/obuv/krossovki/190581108-adidas-originals-gazelle-43r-275sm-krosivki-original",
+                        "thumbnail": "https://image-thumbs.shafastatic.net/2209444179_310_430",
+                        "name": "Adidas originals gazelle 43р 27.5см кросівки оригінал",
+                        "price": 1300.0,
+                        "oldPrice": 1500.0,
+                        "statusTitle": "AVAILABLE",
+                        "discountPercent": 14,
+                        "likes": 23,
+                        "isLiked": false,
+                        "__typename": "Product",
+                        "brand": {
+                            "id": 4,
+                            "name": "Adidas",
+                            "__typename": "Brand"
+                        },
+                        "catalogSlug": "obuv/krossovki",
+                        "isNew": false,
+                        "sizes": [
+                            {
+                                "id": 178,
+                                "name": "43",
+                                "__typename": "Size"
+                            },
+                            {
+                                "id": 243,
+                                "name": "43.5",
+                                "__typename": "Size"
+                            }
+                        ],
+                        "saleLabel": {
+                            "status": "SALE_NONE",
+                            "date": "2025-08-21",
                             "price": "0",
                             "__typename": "SaleLabel"
                         },
@@ -2169,41 +1699,41 @@
                             "__typename": "User"
                         },
                         "isViewed": true,
-                        "createdAt": "2025-08-19T15:33:58.636173+00:00",
+                        "createdAt": "2025-08-17T09:30:21.284647+00:00",
                         "sellingCondition": "SALE"
                     },
                     "__typename": "FeedEdge"
                 },
                 {
                     "node": {
-                        "id": 190670274,
-                        "url": "/kids/dlya-malchikov/krossovki-i-kedy/190670274-dityachi-krosivki-nike-flex-runner-33-rozmir-ustilka-205sm-hlopchik",
-                        "thumbnail": "https://image-thumbs.shafastatic.net/2209998974_310_430",
-                        "name": "Детские кроссовки nike flex runner 33 размер, стелька 20.5см мальчик для бега",
-                        "price": 485.0,
+                        "id": 190445709,
+                        "url": "/kids/dlya-malchikov/krossovki-i-kedy/190445709-krosivki-dlya-hlopchika-tommy-hilfiger",
+                        "thumbnail": "https://image-thumbs.shafastatic.net/2208586759_310_430",
+                        "name": "Кроссовки для мальчика Tommy hilfiger",
+                        "price": 590.0,
                         "oldPrice": null,
                         "statusTitle": "AVAILABLE",
                         "discountPercent": null,
-                        "likes": 0,
+                        "likes": 18,
                         "isLiked": false,
                         "__typename": "Product",
                         "brand": {
-                            "id": 104,
-                            "name": "Nike",
+                            "id": 159,
+                            "name": "Tommy Hilfiger",
                             "__typename": "Brand"
                         },
                         "catalogSlug": "dlya-malchikov/krossovki-i-kedy",
                         "isNew": false,
                         "sizes": [
                             {
-                                "id": 114,
-                                "name": "33",
+                                "id": 112,
+                                "name": "31",
                                 "__typename": "Size"
                             }
                         ],
                         "saleLabel": {
                             "status": "SALE_NONE",
-                            "date": "2025-08-19",
+                            "date": "2025-08-21",
                             "price": "0",
                             "__typename": "SaleLabel"
                         },
@@ -2214,23 +1744,78 @@
                         "rating": null,
                         "ratingAmount": null,
                         "seller": {
-                            "id": 81869,
+                            "id": 4144367,
                             "isTopSeller": true,
                             "__typename": "User"
                         },
                         "isViewed": true,
-                        "createdAt": "2025-08-19T15:25:12.848367+00:00",
+                        "createdAt": "2025-08-12T19:00:27.023077+00:00",
                         "sellingCondition": "SALE"
                     },
                     "__typename": "FeedEdge"
                 },
                 {
                     "node": {
-                        "id": 190668715,
-                        "url": "/kids/dlya-malchikov/krossovki-i-kedy/190668715-dityachi-krosivki-adidas-33rozmir-ustilka-21sm-siri-hlopchik-drop",
-                        "thumbnail": "https://image-thumbs.shafastatic.net/2209989396_310_430",
-                        "name": "Детские кроссовки adidas 33размер, стелька 21см серые мальчик drop step",
-                        "price": 489.0,
+                        "id": 190427388,
+                        "url": "/kids/dlya-malchikov/krossovki-i-kedy/190427388-krosivki-quechua-r2728-ustilka-18sm",
+                        "thumbnail": "https://image-thumbs.shafastatic.net/2208475197_310_430",
+                        "name": "Кроссовки quechua р27/28 стелька 18см",
+                        "price": 300.0,
+                        "oldPrice": null,
+                        "statusTitle": "AVAILABLE",
+                        "discountPercent": null,
+                        "likes": 11,
+                        "isLiked": false,
+                        "__typename": "Product",
+                        "brand": {
+                            "id": 5742,
+                            "name": "Quechua",
+                            "__typename": "Brand"
+                        },
+                        "catalogSlug": "dlya-malchikov/krossovki-i-kedy",
+                        "isNew": false,
+                        "sizes": [
+                            {
+                                "id": 109,
+                                "name": "28",
+                                "__typename": "Size"
+                            },
+                            {
+                                "id": 108,
+                                "name": "27",
+                                "__typename": "Size"
+                            }
+                        ],
+                        "saleLabel": {
+                            "status": "SALE_NONE",
+                            "date": "2025-08-21",
+                            "price": "0",
+                            "__typename": "SaleLabel"
+                        },
+                        "freeDeliveryServices": null,
+                        "isUkrainian": false,
+                        "ownerHasRecentActivity": true,
+                        "tags": [],
+                        "rating": null,
+                        "ratingAmount": null,
+                        "seller": {
+                            "id": 736958,
+                            "isTopSeller": true,
+                            "__typename": "User"
+                        },
+                        "isViewed": true,
+                        "createdAt": "2025-08-12T11:28:37.108180+00:00",
+                        "sellingCondition": "SALE"
+                    },
+                    "__typename": "FeedEdge"
+                },
+                {
+                    "node": {
+                        "id": 190729363,
+                        "url": "/kids/dlya-malchikov/krossovki-i-kedy/190729363-krosivki-original",
+                        "thumbnail": "https://image-thumbs.shafastatic.net/2210363665_310_430",
+                        "name": "Кросівки оригінал",
+                        "price": 420.0,
                         "oldPrice": null,
                         "statusTitle": "AVAILABLE",
                         "discountPercent": null,
@@ -2246,14 +1831,14 @@
                         "isNew": false,
                         "sizes": [
                             {
-                                "id": 114,
-                                "name": "33",
+                                "id": 106,
+                                "name": "25",
                                 "__typename": "Size"
                             }
                         ],
                         "saleLabel": {
                             "status": "SALE_NONE",
-                            "date": "2025-08-19",
+                            "date": "2025-08-21",
                             "price": "0",
                             "__typename": "SaleLabel"
                         },
@@ -2264,51 +1849,146 @@
                         "rating": null,
                         "ratingAmount": null,
                         "seller": {
-                            "id": 81869,
+                            "id": 3756716,
                             "isTopSeller": true,
                             "__typename": "User"
                         },
                         "isViewed": true,
-                        "createdAt": "2025-08-19T14:42:18.826630+00:00",
+                        "createdAt": "2025-08-21T10:06:53.485517+00:00",
                         "sellingCondition": "SALE"
                     },
                     "__typename": "FeedEdge"
                 },
                 {
                     "node": {
-                        "id": 190667688,
-                        "url": "/women/zhenskaya-obuv/krossovki/190667688-efektni-zhinochi-krosivki-snikeri-vid-amerikanskogo-brendu-steve",
-                        "thumbnail": "https://image-thumbs.shafastatic.net/2209984924_310_430",
-                        "name": "Эффектные женские кроссовки сникеры от американского бренда steve madden",
-                        "price": 680.0,
+                        "id": 190725850,
+                        "url": "/kids/dlya-malchikov/krossovki-i-kedy/190725850-shkiryani-krosivki-clarks-award-fly-29-r",
+                        "thumbnail": "https://image-thumbs.shafastatic.net/2210343252_310_430",
+                        "name": "Шкіряні кросівки clarks - award fly 29 р",
+                        "price": 450.0,
                         "oldPrice": null,
                         "statusTitle": "AVAILABLE",
                         "discountPercent": null,
-                        "likes": 9,
+                        "likes": 0,
                         "isLiked": false,
                         "__typename": "Product",
                         "brand": {
-                            "id": 458,
-                            "name": "Steve Madden",
+                            "id": 746,
+                            "name": "Clarks",
+                            "__typename": "Brand"
+                        },
+                        "catalogSlug": "dlya-malchikov/krossovki-i-kedy",
+                        "isNew": false,
+                        "sizes": [
+                            {
+                                "id": 110,
+                                "name": "29",
+                                "__typename": "Size"
+                            }
+                        ],
+                        "saleLabel": {
+                            "status": "SALE_NONE",
+                            "date": "2025-08-21",
+                            "price": "0",
+                            "__typename": "SaleLabel"
+                        },
+                        "freeDeliveryServices": null,
+                        "isUkrainian": false,
+                        "ownerHasRecentActivity": true,
+                        "tags": [],
+                        "rating": null,
+                        "ratingAmount": null,
+                        "seller": {
+                            "id": 9029191,
+                            "isTopSeller": true,
+                            "__typename": "User"
+                        },
+                        "isViewed": true,
+                        "createdAt": "2025-08-21T08:20:43.477258+00:00",
+                        "sellingCondition": "SALE"
+                    },
+                    "__typename": "FeedEdge"
+                },
+                {
+                    "node": {
+                        "id": 190725334,
+                        "url": "/kids/dlya-malchikov/butsy/190725334-sorokonizhki-krosivki-nike-mercurial-vapor30-r",
+                        "thumbnail": "https://image-thumbs.shafastatic.net/2210335936_310_430",
+                        "name": "Сороконіжки кросівки nike mercurial vapor,30 р",
+                        "price": 650.0,
+                        "oldPrice": null,
+                        "statusTitle": "AVAILABLE",
+                        "discountPercent": null,
+                        "likes": 0,
+                        "isLiked": false,
+                        "__typename": "Product",
+                        "brand": {
+                            "id": 104,
+                            "name": "Nike",
+                            "__typename": "Brand"
+                        },
+                        "catalogSlug": "dlya-malchikov/butsy",
+                        "isNew": false,
+                        "sizes": [
+                            {
+                                "id": 111,
+                                "name": "30",
+                                "__typename": "Size"
+                            }
+                        ],
+                        "saleLabel": {
+                            "status": "SALE_NONE",
+                            "date": "2025-08-21",
+                            "price": "0",
+                            "__typename": "SaleLabel"
+                        },
+                        "freeDeliveryServices": null,
+                        "isUkrainian": false,
+                        "ownerHasRecentActivity": true,
+                        "tags": [],
+                        "rating": null,
+                        "ratingAmount": null,
+                        "seller": {
+                            "id": 9029191,
+                            "isTopSeller": true,
+                            "__typename": "User"
+                        },
+                        "isViewed": true,
+                        "createdAt": "2025-08-21T08:03:30.243446+00:00",
+                        "sellingCondition": "SALE"
+                    },
+                    "__typename": "FeedEdge"
+                },
+                {
+                    "node": {
+                        "id": 190724929,
+                        "url": "/women/zhenskaya-obuv/krossovki/190724929-kastomni-krosivki-levis-classic-low-leather-trainers-rozmir-41",
+                        "thumbnail": "https://image-thumbs.shafastatic.net/2210336585_310_430",
+                        "name": "Кастомні кросівки levi's classic low leather trainers розмір 41",
+                        "price": 899.0,
+                        "oldPrice": null,
+                        "statusTitle": "AVAILABLE",
+                        "discountPercent": null,
+                        "likes": 1,
+                        "isLiked": false,
+                        "__typename": "Product",
+                        "brand": {
+                            "id": 82,
+                            "name": "Levi's",
                             "__typename": "Brand"
                         },
                         "catalogSlug": "zhenskaya-obuv/krossovki",
                         "isNew": false,
                         "sizes": [
                             {
-                                "id": 36,
-                                "name": "39",
-                                "__typename": "Size"
-                            },
-                            {
-                                "id": 37,
-                                "name": "40",
+                                "id": 38,
+                                "name": "41",
                                 "__typename": "Size"
                             }
                         ],
                         "saleLabel": {
                             "status": "SALE_NONE",
-                            "date": "2025-08-19",
+                            "date": "2025-08-21",
                             "price": "0",
                             "__typename": "SaleLabel"
                         },
@@ -2319,27 +1999,27 @@
                         "rating": null,
                         "ratingAmount": null,
                         "seller": {
-                            "id": 884690,
+                            "id": 7935965,
                             "isTopSeller": true,
                             "__typename": "User"
                         },
                         "isViewed": true,
-                        "createdAt": "2025-08-19T14:25:10.703301+00:00",
+                        "createdAt": "2025-08-21T07:50:06.136841+00:00",
                         "sellingCondition": "SALE"
                     },
                     "__typename": "FeedEdge"
                 },
                 {
                     "node": {
-                        "id": 190666732,
-                        "url": "/women/zhenskaya-obuv/krossovki/190666732-krosivki-38-na-37-r",
-                        "thumbnail": "https://image-thumbs.shafastatic.net/2209978263_310_430",
-                        "name": "Кросівки 38 на 37 р",
-                        "price": 600.0,
+                        "id": 190718886,
+                        "url": "/women/zhenskaya-obuv/krossovki/190718886-bili-krosivki-puma",
+                        "thumbnail": "https://image-thumbs.shafastatic.net/2210302137_310_430",
+                        "name": "Белые кроссовки puma",
+                        "price": 820.0,
                         "oldPrice": null,
                         "statusTitle": "AVAILABLE",
                         "discountPercent": null,
-                        "likes": 0,
+                        "likes": 5,
                         "isLiked": false,
                         "__typename": "Product",
                         "brand": {
@@ -2358,7 +2038,7 @@
                         ],
                         "saleLabel": {
                             "status": "SALE_NONE",
-                            "date": "2025-08-19",
+                            "date": "2025-08-21",
                             "price": "0",
                             "__typename": "SaleLabel"
                         },
@@ -2369,21 +2049,391 @@
                         "rating": null,
                         "ratingAmount": null,
                         "seller": {
-                            "id": 2963391,
+                            "id": 3898749,
                             "isTopSeller": true,
                             "__typename": "User"
                         },
                         "isViewed": true,
-                        "createdAt": "2025-08-19T14:00:58.284513+00:00",
+                        "createdAt": "2025-08-21T04:47:06.429281+00:00",
+                        "sellingCondition": "SALE"
+                    },
+                    "__typename": "FeedEdge"
+                },
+                {
+                    "node": {
+                        "id": 190717556,
+                        "url": "/men/obuv/krossovki/190717556-krosivki-adidas-ozrah-j-original",
+                        "thumbnail": "https://image-thumbs.shafastatic.net/2210293944_310_430",
+                        "name": "Кросівки adidas ozrah j original",
+                        "price": 1200.0,
+                        "oldPrice": null,
+                        "statusTitle": "AVAILABLE",
+                        "discountPercent": null,
+                        "likes": 1,
+                        "isLiked": false,
+                        "__typename": "Product",
+                        "brand": {
+                            "id": 4,
+                            "name": "Adidas",
+                            "__typename": "Brand"
+                        },
+                        "catalogSlug": "obuv/krossovki",
+                        "isNew": false,
+                        "sizes": [
+                            {
+                                "id": 172,
+                                "name": "37",
+                                "__typename": "Size"
+                            },
+                            {
+                                "id": 173,
+                                "name": "38",
+                                "__typename": "Size"
+                            }
+                        ],
+                        "saleLabel": {
+                            "status": "SALE_NONE",
+                            "date": "2025-08-21",
+                            "price": "0",
+                            "__typename": "SaleLabel"
+                        },
+                        "freeDeliveryServices": null,
+                        "isUkrainian": false,
+                        "ownerHasRecentActivity": true,
+                        "tags": [],
+                        "rating": null,
+                        "ratingAmount": null,
+                        "seller": {
+                            "id": 3971759,
+                            "isTopSeller": true,
+                            "__typename": "User"
+                        },
+                        "isViewed": true,
+                        "createdAt": "2025-08-20T21:58:53.171190+00:00",
+                        "sellingCondition": "SALE"
+                    },
+                    "__typename": "FeedEdge"
+                },
+                {
+                    "node": {
+                        "id": 190710078,
+                        "url": "/women/zhenskaya-obuv/krossovki/190710078-kozhanye-krossovki-kedy-v-otlichnom-sostoyanii-st-26-sm",
+                        "thumbnail": "https://image-thumbs.shafastatic.net/2210246214_310_430",
+                        "name": "Кожаные кроссовки кеды в отличном состоянии (ст. 26 см)",
+                        "price": 950.0,
+                        "oldPrice": null,
+                        "statusTitle": "AVAILABLE",
+                        "discountPercent": null,
+                        "likes": 0,
+                        "isLiked": false,
+                        "__typename": "Product",
+                        "brand": {
+                            "id": 1483,
+                            "name": "Paul Green",
+                            "__typename": "Brand"
+                        },
+                        "catalogSlug": "zhenskaya-obuv/krossovki",
+                        "isNew": false,
+                        "sizes": [
+                            {
+                                "id": 36,
+                                "name": "39",
+                                "__typename": "Size"
+                            },
+                            {
+                                "id": 231,
+                                "name": "39.5",
+                                "__typename": "Size"
+                            }
+                        ],
+                        "saleLabel": {
+                            "status": "SALE_NONE",
+                            "date": "2025-08-21",
+                            "price": "0",
+                            "__typename": "SaleLabel"
+                        },
+                        "freeDeliveryServices": null,
+                        "isUkrainian": false,
+                        "ownerHasRecentActivity": true,
+                        "tags": [],
+                        "rating": null,
+                        "ratingAmount": null,
+                        "seller": {
+                            "id": 244541,
+                            "isTopSeller": true,
+                            "__typename": "User"
+                        },
+                        "isViewed": true,
+                        "createdAt": "2025-08-20T17:22:27.685106+00:00",
+                        "sellingCondition": "SALE"
+                    },
+                    "__typename": "FeedEdge"
+                },
+                {
+                    "node": {
+                        "id": 190691148,
+                        "url": "/kids/dlya-malyshey/krossovki/190691148-krosivki-botinki-clarks-105sm-19-rozmir",
+                        "thumbnail": "https://image-thumbs.shafastatic.net/2210130464_310_430",
+                        "name": "Кроссовки ботинки clark's 10.5см 19 размер",
+                        "price": 200.0,
+                        "oldPrice": null,
+                        "statusTitle": "AVAILABLE",
+                        "discountPercent": null,
+                        "likes": 0,
+                        "isLiked": false,
+                        "__typename": "Product",
+                        "brand": {
+                            "id": 746,
+                            "name": "Clarks",
+                            "__typename": "Brand"
+                        },
+                        "catalogSlug": "dlya-malyshey/krossovki",
+                        "isNew": false,
+                        "sizes": [
+                            {
+                                "id": 133,
+                                "name": "19",
+                                "__typename": "Size"
+                            }
+                        ],
+                        "saleLabel": {
+                            "status": "SALE_NONE",
+                            "date": "2025-08-21",
+                            "price": "0",
+                            "__typename": "SaleLabel"
+                        },
+                        "freeDeliveryServices": null,
+                        "isUkrainian": false,
+                        "ownerHasRecentActivity": true,
+                        "tags": [],
+                        "rating": null,
+                        "ratingAmount": null,
+                        "seller": {
+                            "id": 4929072,
+                            "isTopSeller": true,
+                            "__typename": "User"
+                        },
+                        "isViewed": true,
+                        "createdAt": "2025-08-20T09:44:35.711001+00:00",
+                        "sellingCondition": "SALE"
+                    },
+                    "__typename": "FeedEdge"
+                },
+                {
+                    "node": {
+                        "id": 190691081,
+                        "url": "/kids/dlya-malyshey/krossovki/190691081-krosivki-nayk-nike-21-rozmir",
+                        "thumbnail": "https://image-thumbs.shafastatic.net/2210130101_310_430",
+                        "name": "Кроссовки найк nike 21 размер",
+                        "price": 300.0,
+                        "oldPrice": null,
+                        "statusTitle": "AVAILABLE",
+                        "discountPercent": null,
+                        "likes": 0,
+                        "isLiked": false,
+                        "__typename": "Product",
+                        "brand": {
+                            "id": 104,
+                            "name": "Nike",
+                            "__typename": "Brand"
+                        },
+                        "catalogSlug": "dlya-malyshey/krossovki",
+                        "isNew": false,
+                        "sizes": [
+                            {
+                                "id": 135,
+                                "name": "21",
+                                "__typename": "Size"
+                            },
+                            {
+                                "id": 194,
+                                "name": "21.5",
+                                "__typename": "Size"
+                            }
+                        ],
+                        "saleLabel": {
+                            "status": "SALE_NONE",
+                            "date": "2025-08-21",
+                            "price": "0",
+                            "__typename": "SaleLabel"
+                        },
+                        "freeDeliveryServices": null,
+                        "isUkrainian": false,
+                        "ownerHasRecentActivity": true,
+                        "tags": [],
+                        "rating": null,
+                        "ratingAmount": null,
+                        "seller": {
+                            "id": 1852603,
+                            "isTopSeller": true,
+                            "__typename": "User"
+                        },
+                        "isViewed": true,
+                        "createdAt": "2025-08-20T09:43:05.777912+00:00",
+                        "sellingCondition": "SALE"
+                    },
+                    "__typename": "FeedEdge"
+                },
+                {
+                    "node": {
+                        "id": 190685214,
+                        "url": "/kids/dlya-malchikov/krossovki-i-kedy/190685214-krosivki-legki",
+                        "thumbnail": "https://image-thumbs.shafastatic.net/2210093128_310_430",
+                        "name": "Кроссовки легкие",
+                        "price": 300.0,
+                        "oldPrice": null,
+                        "statusTitle": "AVAILABLE",
+                        "discountPercent": null,
+                        "likes": 0,
+                        "isLiked": false,
+                        "__typename": "Product",
+                        "brand": {
+                            "id": 49399,
+                            "name": "Lidl",
+                            "__typename": "Brand"
+                        },
+                        "catalogSlug": "dlya-malchikov/krossovki-i-kedy",
+                        "isNew": false,
+                        "sizes": [
+                            {
+                                "id": 116,
+                                "name": "35",
+                                "__typename": "Size"
+                            }
+                        ],
+                        "saleLabel": {
+                            "status": "SALE_NONE",
+                            "date": "2025-08-21",
+                            "price": "0",
+                            "__typename": "SaleLabel"
+                        },
+                        "freeDeliveryServices": null,
+                        "isUkrainian": false,
+                        "ownerHasRecentActivity": true,
+                        "tags": [],
+                        "rating": null,
+                        "ratingAmount": null,
+                        "seller": {
+                            "id": 2731769,
+                            "isTopSeller": true,
+                            "__typename": "User"
+                        },
+                        "isViewed": true,
+                        "createdAt": "2025-08-20T06:35:00.000778+00:00",
+                        "sellingCondition": "SALE"
+                    },
+                    "__typename": "FeedEdge"
+                },
+                {
+                    "node": {
+                        "id": 190684065,
+                        "url": "/women/zhenskaya-obuv/krossovki/190684065-krosivki-woden-daniya-375-rozmir",
+                        "thumbnail": "https://image-thumbs.shafastatic.net/2210086974_310_430",
+                        "name": "Кроссовки woden, данные, 37,5 размер",
+                        "price": 570.0,
+                        "oldPrice": null,
+                        "statusTitle": "AVAILABLE",
+                        "discountPercent": null,
+                        "likes": 2,
+                        "isLiked": false,
+                        "__typename": "Product",
+                        "brand": {
+                            "id": 52652,
+                            "name": "Woden",
+                            "__typename": "Brand"
+                        },
+                        "catalogSlug": "zhenskaya-obuv/krossovki",
+                        "isNew": false,
+                        "sizes": [
+                            {
+                                "id": 229,
+                                "name": "37.5",
+                                "__typename": "Size"
+                            }
+                        ],
+                        "saleLabel": {
+                            "status": "SALE_NONE",
+                            "date": "2025-08-21",
+                            "price": "0",
+                            "__typename": "SaleLabel"
+                        },
+                        "freeDeliveryServices": null,
+                        "isUkrainian": false,
+                        "ownerHasRecentActivity": true,
+                        "tags": [],
+                        "rating": null,
+                        "ratingAmount": null,
+                        "seller": {
+                            "id": 6282402,
+                            "isTopSeller": true,
+                            "__typename": "User"
+                        },
+                        "isViewed": true,
+                        "createdAt": "2025-08-20T05:31:29.016928+00:00",
+                        "sellingCondition": "SALE"
+                    },
+                    "__typename": "FeedEdge"
+                },
+                {
+                    "node": {
+                        "id": 190682871,
+                        "url": "/kids/dlya-malchikov/krossovki-i-kedy/190682871-nike-court-borough-low-335r-21-22sm-krosivki-original",
+                        "thumbnail": "https://image-thumbs.shafastatic.net/2210079141_310_430",
+                        "name": "Nike court borough low 33.5р 21-22см кросівки оригінал",
+                        "price": 580.0,
+                        "oldPrice": null,
+                        "statusTitle": "AVAILABLE",
+                        "discountPercent": null,
+                        "likes": 0,
+                        "isLiked": false,
+                        "__typename": "Product",
+                        "brand": {
+                            "id": 104,
+                            "name": "Nike",
+                            "__typename": "Brand"
+                        },
+                        "catalogSlug": "dlya-malchikov/krossovki-i-kedy",
+                        "isNew": false,
+                        "sizes": [
+                            {
+                                "id": 220,
+                                "name": "33.5",
+                                "__typename": "Size"
+                            },
+                            {
+                                "id": 114,
+                                "name": "33",
+                                "__typename": "Size"
+                            }
+                        ],
+                        "saleLabel": {
+                            "status": "SALE_NONE",
+                            "date": "2025-08-21",
+                            "price": "0",
+                            "__typename": "SaleLabel"
+                        },
+                        "freeDeliveryServices": null,
+                        "isUkrainian": false,
+                        "ownerHasRecentActivity": true,
+                        "tags": [],
+                        "rating": null,
+                        "ratingAmount": null,
+                        "seller": {
+                            "id": 1807062,
+                            "isTopSeller": true,
+                            "__typename": "User"
+                        },
+                        "isViewed": true,
+                        "createdAt": "2025-08-19T23:14:09.342207+00:00",
                         "sellingCondition": "SALE"
                     },
                     "__typename": "FeedEdge"
                 }
             ],
             "pageInfo": {
-                "endCursor": "YXJyYXljb25uZWN0aW9uOjE5MDY2NjczMjo0Mw==",
+                "endCursor": "YXJyYXljb25uZWN0aW9uOjE5MDY4Mjg3MTo0Mw==",
                 "hasNextPage": true,
-                "total": 470505,
+                "total": 469231,
                 "__typename": "PageInfo"
             },
             "__typename": "FeedConnection"

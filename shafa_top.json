@@ -4,285 +4,16 @@
             "edges": [
                 {
                     "node": {
-                        "id": 180293267,
+                        "id": 125131288,
                         "isTop": true,
-                        "url": "/women/zhenskaya-obuv/krossovki/180293267-lacoste-krosivki-zhinochi-l002",
-                        "thumbnail": "https://image-thumbs.shafastatic.net/2169881362_310_430",
-                        "name": "Кросівки lacoste кросівки жіночі l002 оригінал",
-                        "price": 5410.0,
-                        "oldPrice": 5695.0,
-                        "statusTitle": "AVAILABLE",
-                        "discountPercent": null,
-                        "likes": 17,
-                        "isLiked": false,
-                        "__typename": "Product",
-                        "brand": {
-                            "id": 84,
-                            "name": "Lacoste",
-                            "__typename": "Brand"
-                        },
-                        "catalogSlug": "zhenskaya-obuv/krossovki",
-                        "isNew": true,
-                        "sizes": [
-                            {
-                                "id": 36,
-                                "name": "39",
-                                "__typename": "Size"
-                            }
-                        ],
-                        "saleLabel": {
-                            "status": "SALE_STARTED",
-                            "date": "2025-08-21",
-                            "price": "5410",
-                            "__typename": "SaleLabel"
-                        },
-                        "freeDeliveryServices": null,
-                        "isUkrainian": false,
-                        "ownerHasRecentActivity": true,
-                        "tags": [
-                            "PROMOTE_FOR_GOOGLE"
-                        ],
-                        "rating": null,
-                        "ratingAmount": null,
-                        "seller": {
-                            "id": 869076,
-                            "isTopSeller": false,
-                            "__typename": "User"
-                        },
-                        "isViewed": true,
-                        "createdAt": "2024-12-07T16:27:03.037818+00:00",
-                        "sellingCondition": "SALE"
-                    },
-                    "__typename": "FeedEdge"
-                },
-                {
-                    "node": {
-                        "id": 133903592,
-                        "isTop": true,
-                        "url": "/women/zhenskaya-obuv/krossovki/133903592-krosivki-zhinochi",
-                        "thumbnail": "https://image-thumbs.shafastatic.net/1345529512_310_430",
-                        "name": "Кросівки жіночі",
-                        "price": 950.0,
-                        "oldPrice": 1000.0,
-                        "statusTitle": "AVAILABLE",
-                        "discountPercent": null,
-                        "likes": 38,
-                        "isLiked": false,
-                        "__typename": "Product",
-                        "brand": null,
-                        "catalogSlug": "zhenskaya-obuv/krossovki",
-                        "isNew": true,
-                        "sizes": [
-                            {
-                                "id": 34,
-                                "name": "37",
-                                "__typename": "Size"
-                            }
-                        ],
-                        "saleLabel": {
-                            "status": "SALE_STARTED",
-                            "date": "2025-08-21",
-                            "price": "950",
-                            "__typename": "SaleLabel"
-                        },
-                        "freeDeliveryServices": null,
-                        "isUkrainian": false,
-                        "ownerHasRecentActivity": true,
-                        "tags": [
-                            "PROMOTE_FOR_GOOGLE"
-                        ],
-                        "rating": null,
-                        "ratingAmount": null,
-                        "seller": {
-                            "id": 6349754,
-                            "isTopSeller": false,
-                            "__typename": "User"
-                        },
-                        "isViewed": true,
-                        "createdAt": "2023-10-01T14:58:20.806203+00:00",
-                        "sellingCondition": "SALE"
-                    },
-                    "__typename": "FeedEdge"
-                },
-                {
-                    "node": {
-                        "id": 190533513,
-                        "isTop": true,
-                        "url": "/men/obuv/krossovki/190533513-cholovichi-krosivki",
-                        "thumbnail": "https://image-thumbs.shafastatic.net/2209141321_310_430",
-                        "name": "Чоловічі кросівки",
-                        "price": 3200.0,
+                        "url": "/women/zhenskaya-obuv/krossovki/125131288-zhinochi-krosivki-skechers-krosivki-chornogo-koloru",
+                        "thumbnail": "https://image-thumbs.shafastatic.net/1119776727_310_430",
+                        "name": "Жіночі кросівки skechers / кросівки чорного кольору",
+                        "price": 3199.0,
                         "oldPrice": null,
                         "statusTitle": "AVAILABLE",
                         "discountPercent": null,
-                        "likes": 0,
-                        "isLiked": false,
-                        "__typename": "Product",
-                        "brand": null,
-                        "catalogSlug": "obuv/krossovki",
-                        "isNew": true,
-                        "sizes": [
-                            {
-                                "id": 177,
-                                "name": "42",
-                                "__typename": "Size"
-                            }
-                        ],
-                        "saleLabel": {
-                            "status": "SALE_NONE",
-                            "date": "2025-08-19",
-                            "price": "0",
-                            "__typename": "SaleLabel"
-                        },
-                        "freeDeliveryServices": null,
-                        "isUkrainian": false,
-                        "ownerHasRecentActivity": true,
-                        "tags": [],
-                        "rating": null,
-                        "ratingAmount": null,
-                        "seller": {
-                            "id": 2119665,
-                            "isTopSeller": false,
-                            "__typename": "User"
-                        },
-                        "isViewed": true,
-                        "createdAt": "2025-08-15T13:29:47.728961+00:00",
-                        "sellingCondition": "SALE"
-                    },
-                    "__typename": "FeedEdge"
-                },
-                {
-                    "node": {
-                        "id": 118763140,
-                        "isTop": true,
-                        "url": "/women/zhenskaya-obuv/krossovki/118763140-krosivki-zhinochi",
-                        "thumbnail": "https://image-thumbs.shafastatic.net/927700388_310_430",
-                        "name": "Кросівки жіночі",
-                        "price": 590.0,
-                        "oldPrice": 650.0,
-                        "statusTitle": "AVAILABLE",
-                        "discountPercent": 10,
-                        "likes": 23,
-                        "isLiked": false,
-                        "__typename": "Product",
-                        "brand": {
-                            "id": 4,
-                            "name": "Adidas",
-                            "__typename": "Brand"
-                        },
-                        "catalogSlug": "zhenskaya-obuv/krossovki",
-                        "isNew": false,
-                        "sizes": [
-                            {
-                                "id": 36,
-                                "name": "39",
-                                "__typename": "Size"
-                            }
-                        ],
-                        "saleLabel": {
-                            "status": "SALE_NONE",
-                            "date": "2025-08-19",
-                            "price": "0",
-                            "__typename": "SaleLabel"
-                        },
-                        "freeDeliveryServices": null,
-                        "isUkrainian": false,
-                        "ownerHasRecentActivity": true,
-                        "tags": [],
-                        "rating": null,
-                        "ratingAmount": null,
-                        "seller": {
-                            "id": 460456,
-                            "isTopSeller": false,
-                            "__typename": "User"
-                        },
-                        "isViewed": true,
-                        "createdAt": "2023-04-05T09:00:15.487677+00:00",
-                        "sellingCondition": "SALE"
-                    },
-                    "__typename": "FeedEdge"
-                },
-                {
-                    "node": {
-                        "id": 190406970,
-                        "isTop": true,
-                        "url": "/kids/dlya-devochek/krossovki-i-kedy/190406970-krosivki-dlya-divchinki",
-                        "thumbnail": "https://image-thumbs.shafastatic.net/2208343372_310_430",
-                        "name": "Кросівки для дівчинки",
-                        "price": 290.0,
-                        "oldPrice": null,
-                        "statusTitle": "AVAILABLE",
-                        "discountPercent": null,
-                        "likes": 15,
-                        "isLiked": false,
-                        "__typename": "Product",
-                        "brand": null,
-                        "catalogSlug": "dlya-devochek/krossovki-i-kedy",
-                        "isNew": true,
-                        "sizes": [
-                            {
-                                "id": 92,
-                                "name": "26",
-                                "__typename": "Size"
-                            },
-                            {
-                                "id": 93,
-                                "name": "27",
-                                "__typename": "Size"
-                            },
-                            {
-                                "id": 94,
-                                "name": "28",
-                                "__typename": "Size"
-                            },
-                            {
-                                "id": 95,
-                                "name": "29",
-                                "__typename": "Size"
-                            },
-                            {
-                                "id": 97,
-                                "name": "31",
-                                "__typename": "Size"
-                            }
-                        ],
-                        "saleLabel": {
-                            "status": "SALE_NONE",
-                            "date": "2025-08-19",
-                            "price": "0",
-                            "__typename": "SaleLabel"
-                        },
-                        "freeDeliveryServices": null,
-                        "isUkrainian": true,
-                        "ownerHasRecentActivity": true,
-                        "tags": [
-                            "UKRBRAND"
-                        ],
-                        "rating": null,
-                        "ratingAmount": null,
-                        "seller": {
-                            "id": 1377254,
-                            "isTopSeller": false,
-                            "__typename": "User"
-                        },
-                        "isViewed": true,
-                        "createdAt": "2025-08-11T17:00:51.879956+00:00",
-                        "sellingCondition": "SALE"
-                    },
-                    "__typename": "FeedEdge"
-                },
-                {
-                    "node": {
-                        "id": 148381410,
-                        "isTop": true,
-                        "url": "/men/obuv/krossovki/148381410-originalni-cholovichi-krosivki-skechers-krosivki-skechers",
-                        "thumbnail": "https://image-thumbs.shafastatic.net/1822479357_310_430",
-                        "name": "Оригінальні чоловічі кросівки skechers / кросівки скечерс",
-                        "price": 3699.0,
-                        "oldPrice": null,
-                        "statusTitle": "AVAILABLE",
-                        "discountPercent": null,
-                        "likes": 8,
+                        "likes": 40,
                         "isLiked": false,
                         "__typename": "Product",
                         "brand": {
@@ -290,9 +21,341 @@
                             "name": "Skechers",
                             "__typename": "Brand"
                         },
+                        "catalogSlug": "zhenskaya-obuv/krossovki",
+                        "isNew": true,
+                        "sizes": [
+                            {
+                                "id": 33,
+                                "name": "36",
+                                "__typename": "Size"
+                            },
+                            {
+                                "id": 248,
+                                "name": "36.5",
+                                "__typename": "Size"
+                            },
+                            {
+                                "id": 34,
+                                "name": "37",
+                                "__typename": "Size"
+                            },
+                            {
+                                "id": 35,
+                                "name": "38",
+                                "__typename": "Size"
+                            },
+                            {
+                                "id": 36,
+                                "name": "39",
+                                "__typename": "Size"
+                            },
+                            {
+                                "id": 231,
+                                "name": "39.5",
+                                "__typename": "Size"
+                            },
+                            {
+                                "id": 37,
+                                "name": "40",
+                                "__typename": "Size"
+                            },
+                            {
+                                "id": 38,
+                                "name": "41",
+                                "__typename": "Size"
+                            }
+                        ],
+                        "saleLabel": {
+                            "status": "SALE_NONE",
+                            "date": "2025-08-21",
+                            "price": "0",
+                            "__typename": "SaleLabel"
+                        },
+                        "freeDeliveryServices": null,
+                        "isUkrainian": false,
+                        "ownerHasRecentActivity": true,
+                        "tags": [
+                            "PROMOTE_FOR_GOOGLE"
+                        ],
+                        "rating": 5.0,
+                        "ratingAmount": 2,
+                        "seller": {
+                            "id": 2326747,
+                            "isTopSeller": false,
+                            "__typename": "User"
+                        },
+                        "isViewed": true,
+                        "createdAt": "2023-06-21T11:41:35.851048+00:00",
+                        "sellingCondition": "SALE"
+                    },
+                    "__typename": "FeedEdge"
+                },
+                {
+                    "node": {
+                        "id": 190706379,
+                        "isTop": true,
+                        "url": "/kids/dlya-devochek/krossovki-i-kedy/190706379-krosivki-dityachi",
+                        "thumbnail": "https://image-thumbs.shafastatic.net/2210222953_310_430",
+                        "name": "Кросівки дитячі",
+                        "price": 470.0,
+                        "oldPrice": null,
+                        "statusTitle": "AVAILABLE",
+                        "discountPercent": null,
+                        "likes": 0,
+                        "isLiked": false,
+                        "__typename": "Product",
+                        "brand": null,
+                        "catalogSlug": "dlya-devochek/krossovki-i-kedy",
+                        "isNew": false,
+                        "sizes": [
+                            {
+                                "id": 88,
+                                "name": "22",
+                                "__typename": "Size"
+                            }
+                        ],
+                        "saleLabel": {
+                            "status": "SALE_NONE",
+                            "date": "2025-08-21",
+                            "price": "0",
+                            "__typename": "SaleLabel"
+                        },
+                        "freeDeliveryServices": null,
+                        "isUkrainian": false,
+                        "ownerHasRecentActivity": true,
+                        "tags": [],
+                        "rating": null,
+                        "ratingAmount": null,
+                        "seller": {
+                            "id": 4105515,
+                            "isTopSeller": false,
+                            "__typename": "User"
+                        },
+                        "isViewed": true,
+                        "createdAt": "2025-08-20T15:32:33.781242+00:00",
+                        "sellingCondition": "SALE"
+                    },
+                    "__typename": "FeedEdge"
+                },
+                {
+                    "node": {
+                        "id": 172084488,
+                        "isTop": true,
+                        "url": "/kids/dlya-devochek/krossovki-i-kedy/172084488-krosivki",
+                        "thumbnail": "https://image-thumbs.shafastatic.net/-381198205_310_430",
+                        "name": "Кросівки дитячі",
+                        "price": 250.0,
+                        "oldPrice": 280.0,
+                        "statusTitle": "AVAILABLE",
+                        "discountPercent": 11,
+                        "likes": 3,
+                        "isLiked": false,
+                        "__typename": "Product",
+                        "brand": null,
+                        "catalogSlug": "dlya-devochek/krossovki-i-kedy",
+                        "isNew": false,
+                        "sizes": [
+                            {
+                                "id": 198,
+                                "name": "25.5",
+                                "__typename": "Size"
+                            },
+                            {
+                                "id": 92,
+                                "name": "26",
+                                "__typename": "Size"
+                            }
+                        ],
+                        "saleLabel": {
+                            "status": "SALE_NONE",
+                            "date": "2025-08-21",
+                            "price": "0",
+                            "__typename": "SaleLabel"
+                        },
+                        "freeDeliveryServices": null,
+                        "isUkrainian": false,
+                        "ownerHasRecentActivity": true,
+                        "tags": [],
+                        "rating": null,
+                        "ratingAmount": null,
+                        "seller": {
+                            "id": 6144617,
+                            "isTopSeller": false,
+                            "__typename": "User"
+                        },
+                        "isViewed": true,
+                        "createdAt": "2024-08-29T08:56:26.247281+00:00",
+                        "sellingCondition": "SALE"
+                    },
+                    "__typename": "FeedEdge"
+                },
+                {
+                    "node": {
+                        "id": 190423313,
+                        "isTop": true,
+                        "url": "/men/obuv/krossovki/190423313-krosivki-asics",
+                        "thumbnail": "https://image-thumbs.shafastatic.net/2208447774_310_430",
+                        "name": "Кросівки asics",
+                        "price": 1100.0,
+                        "oldPrice": null,
+                        "statusTitle": "AVAILABLE",
+                        "discountPercent": null,
+                        "likes": 3,
+                        "isLiked": false,
+                        "__typename": "Product",
+                        "brand": {
+                            "id": 3966,
+                            "name": "Asics",
+                            "__typename": "Brand"
+                        },
+                        "catalogSlug": "obuv/krossovki",
+                        "isNew": false,
+                        "sizes": [
+                            {
+                                "id": 172,
+                                "name": "37",
+                                "__typename": "Size"
+                            },
+                            {
+                                "id": 173,
+                                "name": "38",
+                                "__typename": "Size"
+                            }
+                        ],
+                        "saleLabel": {
+                            "status": "SALE_NONE",
+                            "date": "2025-08-21",
+                            "price": "0",
+                            "__typename": "SaleLabel"
+                        },
+                        "freeDeliveryServices": null,
+                        "isUkrainian": false,
+                        "ownerHasRecentActivity": true,
+                        "tags": [],
+                        "rating": null,
+                        "ratingAmount": null,
+                        "seller": {
+                            "id": 8418777,
+                            "isTopSeller": false,
+                            "__typename": "User"
+                        },
+                        "isViewed": true,
+                        "createdAt": "2025-08-12T09:38:32.333989+00:00",
+                        "sellingCondition": "SALE"
+                    },
+                    "__typename": "FeedEdge"
+                },
+                {
+                    "node": {
+                        "id": 130708802,
+                        "isTop": true,
+                        "url": "/women/zhenskaya-obuv/krossovki/130708802-zhinochi-krosivki_skechers-krosivki-zi-shtuchnoyi-shkiri",
+                        "thumbnail": "https://image-thumbs.shafastatic.net/1274568066_310_430",
+                        "name": "Жіночі кросівки skechers / кросівки зі штучної шкіри",
+                        "price": 2899.0,
+                        "oldPrice": null,
+                        "statusTitle": "AVAILABLE",
+                        "discountPercent": null,
+                        "likes": 77,
+                        "isLiked": false,
+                        "__typename": "Product",
+                        "brand": {
+                            "id": 270,
+                            "name": "Skechers",
+                            "__typename": "Brand"
+                        },
+                        "catalogSlug": "zhenskaya-obuv/krossovki",
+                        "isNew": true,
+                        "sizes": [
+                            {
+                                "id": 33,
+                                "name": "36",
+                                "__typename": "Size"
+                            },
+                            {
+                                "id": 248,
+                                "name": "36.5",
+                                "__typename": "Size"
+                            },
+                            {
+                                "id": 34,
+                                "name": "37",
+                                "__typename": "Size"
+                            },
+                            {
+                                "id": 35,
+                                "name": "38",
+                                "__typename": "Size"
+                            },
+                            {
+                                "id": 230,
+                                "name": "38.5",
+                                "__typename": "Size"
+                            },
+                            {
+                                "id": 36,
+                                "name": "39",
+                                "__typename": "Size"
+                            },
+                            {
+                                "id": 37,
+                                "name": "40",
+                                "__typename": "Size"
+                            },
+                            {
+                                "id": 38,
+                                "name": "41",
+                                "__typename": "Size"
+                            }
+                        ],
+                        "saleLabel": {
+                            "status": "SALE_NONE",
+                            "date": "2025-08-21",
+                            "price": "0",
+                            "__typename": "SaleLabel"
+                        },
+                        "freeDeliveryServices": null,
+                        "isUkrainian": false,
+                        "ownerHasRecentActivity": true,
+                        "tags": [
+                            "PROMOTE_FOR_GOOGLE"
+                        ],
+                        "rating": 5.0,
+                        "ratingAmount": 4,
+                        "seller": {
+                            "id": 2326747,
+                            "isTopSeller": false,
+                            "__typename": "User"
+                        },
+                        "isViewed": true,
+                        "createdAt": "2023-08-26T08:53:05.110619+00:00",
+                        "sellingCondition": "SALE"
+                    },
+                    "__typename": "FeedEdge"
+                },
+                {
+                    "node": {
+                        "id": 148246947,
+                        "isTop": true,
+                        "url": "/men/obuv/krossovki/148246947-krosivki-demisezonni",
+                        "thumbnail": "https://image-thumbs.shafastatic.net/-238808126_310_430",
+                        "name": "Кросівки демісезонні",
+                        "price": 890.0,
+                        "oldPrice": null,
+                        "statusTitle": "AVAILABLE",
+                        "discountPercent": null,
+                        "likes": 137,
+                        "isLiked": false,
+                        "__typename": "Product",
+                        "brand": null,
                         "catalogSlug": "obuv/krossovki",
                         "isNew": true,
                         "sizes": [
+                            {
+                                "id": 175,
+                                "name": "40",
+                                "__typename": "Size"
+                            },
                             {
                                 "id": 176,
                                 "name": "41",
@@ -317,70 +380,63 @@
                                 "id": 180,
                                 "name": "45",
                                 "__typename": "Size"
-                            },
-                            {
-                                "id": 181,
-                                "name": "46",
-                                "__typename": "Size"
                             }
                         ],
                         "saleLabel": {
                             "status": "SALE_NONE",
-                            "date": "2025-08-19",
+                            "date": "2025-08-21",
                             "price": "0",
                             "__typename": "SaleLabel"
                         },
                         "freeDeliveryServices": null,
                         "isUkrainian": false,
                         "ownerHasRecentActivity": true,
-                        "tags": [
-                            "PROMOTE_FOR_GOOGLE"
-                        ],
-                        "rating": 5.0,
-                        "ratingAmount": 1,
+                        "tags": [],
+                        "rating": 4.7,
+                        "ratingAmount": 7,
                         "seller": {
-                            "id": 2326747,
-                            "isTopSeller": false,
+                            "id": 660006,
+                            "isTopSeller": true,
                             "__typename": "User"
                         },
                         "isViewed": true,
-                        "createdAt": "2024-02-29T16:20:54.763247+00:00",
+                        "createdAt": "2024-02-28T07:45:20.416216+00:00",
                         "sellingCondition": "SALE"
                     },
                     "__typename": "FeedEdge"
                 },
                 {
                     "node": {
-                        "id": 105393701,
+                        "id": 190581625,
                         "isTop": true,
-                        "url": "/men/obuv/krossovki/105393701-tufli-krosivki-ecco",
-                        "thumbnail": "https://image-thumbs.shafastatic.net/641627133_310_430",
-                        "name": "Туфлі-кросівки ecco",
-                        "price": 2160.0,
-                        "oldPrice": 2400.0,
+                        "url": "/women/zhenskaya-obuv/krossovki/190581625-zhinochi-krosivki",
+                        "thumbnail": "https://image-thumbs.shafastatic.net/2209447819_310_430",
+                        "name": "Жіночі кросівки",
+                        "price": 2449.0,
+                        "oldPrice": null,
                         "statusTitle": "AVAILABLE",
-                        "discountPercent": 10,
-                        "likes": 4,
+                        "discountPercent": null,
+                        "likes": 0,
                         "isLiked": false,
                         "__typename": "Product",
                         "brand": {
-                            "id": 493,
-                            "name": "Ecco",
+                            "id": 52394,
+                            "name": "Babolat",
                             "__typename": "Brand"
                         },
-                        "catalogSlug": "obuv/krossovki",
+                        "catalogSlug": "zhenskaya-obuv/krossovki",
                         "isNew": true,
                         "sizes": [
                             {
-                                "id": 177,
-                                "name": "42",
+                                "id": 34,
+                                "name": "37",
                                 "__typename": "Size"
                             }
                         ],
                         "saleLabel": {
-                            "status": "SALE_STARTED",
+                            "status": "SALE_NONE",
                             "date": "2025-08-21",
-                            "price": "2160",
+                            "price": "0",
                             "__typename": "SaleLabel"
                         },
                         "freeDeliveryServices": null,
@@ -390,78 +446,68 @@
                         "rating": null,
                         "ratingAmount": null,
                         "seller": {
-                            "id": 4439927,
-                            "isTopSeller": false,
+                            "id": 4036662,
+                            "isTopSeller": true,
                             "__typename": "User"
                         },
                         "isViewed": true,
-                        "createdAt": "2022-10-22T18:03:12.791761+00:00",
+                        "createdAt": "2025-08-17T09:43:28.967903+00:00",
                         "sellingCondition": "SALE"
                     },
                     "__typename": "FeedEdge"
                 },
                 {
                     "node": {
-                        "id": 189944845,
+                        "id": 189837575,
                         "isTop": true,
-                        "url": "/women/zhenskaya-obuv/krossovki/189944845-krosivki-dihayuchi-dlya-sportu",
-                        "thumbnail": "https://image-thumbs.shafastatic.net/2205561168_310_430",
-                        "name": "Кросівки дихаючі для спорту",
-                        "price": 560.0,
-                        "oldPrice": 590.0,
+                        "url": "/men/obuv/krossovki/189837575-cholovichi-sportivni-krosivki",
+                        "thumbnail": "https://image-thumbs.shafastatic.net/2204935976_310_430",
+                        "name": "Чоловічі спортивні кросівки",
+                        "price": 1700.0,
+                        "oldPrice": null,
                         "statusTitle": "AVAILABLE",
-                        "discountPercent": 6,
-                        "likes": 5,
+                        "discountPercent": null,
+                        "likes": 0,
                         "isLiked": false,
                         "__typename": "Product",
                         "brand": null,
-                        "catalogSlug": "zhenskaya-obuv/krossovki",
+                        "catalogSlug": "obuv/krossovki",
                         "isNew": true,
                         "sizes": [
                             {
-                                "id": 35,
-                                "name": "38",
-                                "__typename": "Size"
-                            },
-                            {
-                                "id": 34,
-                                "name": "37",
-                                "__typename": "Size"
-                            },
-                            {
-                                "id": 229,
-                                "name": "37.5",
+                                "id": 174,
+                                "name": "39",
                                 "__typename": "Size"
                             }
                         ],
                         "saleLabel": {
-                            "status": "SALE_STARTED",
+                            "status": "SALE_NONE",
                             "date": "2025-08-21",
-                            "price": "560",
+                            "price": "0",
                             "__typename": "SaleLabel"
                         },
                         "freeDeliveryServices": null,
-                        "isUkrainian": false,
+                        "isUkrainian": true,
                         "ownerHasRecentActivity": true,
                         "tags": [
-                            "PROMOTE_FOR_GOOGLE"
+                            "UKRBRAND"
                         ],
                         "rating": null,
                         "ratingAmount": null,
                         "seller": {
-                            "id": 1561107,
+                            "id": 9042929,
                             "isTopSeller": false,
                             "__typename": "User"
                         },
                         "isViewed": true,
-                        "createdAt": "2025-07-30T03:42:40.811225+00:00",
+                        "createdAt": "2025-07-27T12:31:12.658585+00:00",
                         "sellingCondition": "SALE"
                     },
                     "__typename": "FeedEdge"
                 }
             ],
             "pageInfo": {
-                "endCursor": "YXJyYXljb25uZWN0aW9uOjE4OTk0NDg0NTo3",
+                "endCursor": "YXJyYXljb25uZWN0aW9uOjE4OTgzNzU3NTo3",
                 "hasNextPage": true,
                 "__typename": "PageInfo"
             },
