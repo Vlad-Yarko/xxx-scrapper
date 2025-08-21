@@ -15,11 +15,37 @@ class ShafaService(ProductService):
         )
 
     @client_session
-    async def get_products_all(self, *args, **kwargs) -> Optional[dict]:
-        data = await self.client.get_products_all(*args, **kwargs)
+    async def get_products_all(
+            self,
+            search_text: str,
+            page_enum: int = 1,
+            first: int = 44,
+            price_from: Optional[int] = None,
+            price_to: Optional[int] = None
+        ) -> Optional[dict]:
+        data = await self.client.get_products_all(
+            search_text=search_text,
+            page_enum=page_enum,
+            first=first,
+            price_from=price_from,
+            price_to=price_to
+        )
         return data
 
     @client_session
-    async def get_products_top(self, *args, **kwargs) -> Optional[dict]:
-        data = await self.client.get_products_top(*args, **kwargs)
+    async def get_products_top(
+            self,
+            search_text: str,
+            page_enum: int = 1,
+            first: int = 8,
+            price_from: Optional[int] = None,
+            price_to: Optional[int] = None
+        ) -> Optional[dict]:
+        data = await self.client.get_products_top(
+            search_text=search_text,
+            page_enum=page_enum,
+            first=first,
+            price_from=price_from,
+            price_to=price_to
+        )
         return data
