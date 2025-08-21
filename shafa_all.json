@@ -7,7 +7,7 @@
                     "id": 82,
                     "name": "Детская одежда",
                     "slug": "kids",
-                    "countOfProducts": 6320,
+                    "countOfProducts": 6321,
                     "__typename": "TopLevelCategory"
                 },
                 {
@@ -2170,7 +2170,7 @@
             "pageInfo": {
                 "endCursor": "YXJyYXljb25uZWN0aW9uOjE5MDIyODUyMzo0Mw==",
                 "hasNextPage": true,
-                "total": 7318,
+                "total": 7319,
                 "__typename": "PageInfo"
             },
             "__typename": "FeedConnection"

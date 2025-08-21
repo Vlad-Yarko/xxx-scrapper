@@ -72,8 +72,8 @@
                 "company_name": "",
                 "about": "",
                 "b2c_business_page": false,
-                "is_online": false,
-                "last_seen": "2025-08-21T13:22:04+03:00",
+                "is_online": true,
+                "last_seen": "2025-08-21T15:44:17+03:00",
                 "seller_type": null,
                 "uuid": "a5e11a3b-b641-4615-b860-86a004b31b22"
             },
