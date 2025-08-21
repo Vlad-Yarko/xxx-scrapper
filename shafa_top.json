@@ -13,7 +13,7 @@
                         "oldPrice": 125.0,
                         "statusTitle": "AVAILABLE",
                         "discountPercent": 36,
-                        "likes": 6,
+                        "likes": 7,
                         "isLiked": false,
                         "__typename": "Product",
                         "brand": {

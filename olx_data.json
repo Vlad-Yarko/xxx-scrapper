@@ -1,193 +1,10 @@
 {
-    "data": [
-        {
-            "id": 881503298,
-            "url": "https://www.olx.ua/d/uk/obyavlenie/shkryan-krosvki-philipp-plein-IDXEHh8.html",
-            "title": "Шкіряні кросівки philipp plein",
-            "last_refresh_time": "2025-08-16T18:06:04+03:00",
-            "created_time": "2025-03-19T17:19:35+02:00",
-            "valid_to_time": "2025-09-15T18:19:36+03:00",
-            "pushup_time": null,
-            "description": "Дуже яскраві червоні шкіряні кросівки від Philipp Plein. 43 розмір - по устілці 27.5 см буде приблизно. Купувались в Німеччині за 2500 євро. Носив рідко",
-            "promotion": {
-                "highlighted": false,
-                "urgent": false,
-                "top_ad": false,
-                "options": [],
-                "b2c_ad_page": false,
-                "premium_ad_page": false
-            },
-            "params": [
-                {
-                    "key": "price",
-                    "name": "Ціна за 1 шт.",
-                    "type": "price",
-                    "value": {
-                        "value": 18000,
-                        "type": "arranged",
-                        "arranged": true,
-                        "budget": false,
-                        "currency": "UAH",
-                        "negotiable": true,
-                        "converted_value": null,
-                        "previous_value": 18500,
-                        "converted_previous_value": null,
-                        "converted_currency": null,
-                        "label": "18 000 грн.",
-                        "previous_label": "18 500 грн."
-                    }
-                },
-                {
-                    "key": "state",
-                    "name": "Стан",
-                    "type": "select",
-                    "value": {
-                        "key": "used",
-                        "label": "Вживане"
-                    }
-                },
-                {
-                    "key": "size",
-                    "name": "Розмір",
-                    "type": "input",
-                    "value": {
-                        "key": "43",
-                        "label": "43 "
-                    }
-                }
-            ],
-            "key_params": [],
-            "business": false,
-            "user": {
-                "id": 2083614374,
-                "created": "2025-02-25T12:33:16+02:00",
-                "other_ads_enabled": true,
-                "name": "Dyadya Vitalii",
-                "logo": null,
-                "logo_ad_page": null,
-                "social_network_account_type": null,
-                "photo": null,
-                "banner_mobile": "",
-                "banner_desktop": "",
-                "company_name": "",
-                "about": "",
-                "b2c_business_page": false,
-                "is_online": true,
-                "last_seen": "2025-08-21T15:44:17+03:00",
-                "seller_type": null,
-                "uuid": "a5e11a3b-b641-4615-b860-86a004b31b22"
-            },
-            "status": "active",
-            "contact": {
-                "name": "Vitalii",
-                "phone": false,
-                "chat": true,
-                "negotiation": true,
-                "courier": true
-            },
-            "map": {
-                "zoom": 13,
-                "lat": 46.94,
-                "lon": 31.951,
-                "radius": 1,
-                "show_detailed": false
-            },
-            "location": {
-                "city": {
-                    "id": 106,
-                    "name": "Миколаїв",
-                    "normalized_name": "nikolaev_106"
-                },
-                "district": {
-                    "id": 139,
-                    "name": "Заводський"
-                },
-                "region": {
-                    "id": 19,
-                    "name": "Миколаївська область",
-                    "normalized_name": "nik"
-                }
-            },
-            "photos": [
-                {
-                    "id": 4085981195,
-                    "filename": "jidkmd7bei2m1-UA",
-                    "rotation": 0,
-                    "width": 563,
-                    "height": 1000,
-                    "link": "https://ireland.apollo.olxcdn.com:443/v1/files/jidkmd7bei2m1-UA/image;s={width}x{height}"
-                },
-                {
-                    "id": 4085981196,
-                    "filename": "5sbne7bwossv3-UA",
-                    "rotation": 0,
-                    "width": 563,
-                    "height": 1000,
-                    "link": "https://ireland.apollo.olxcdn.com:443/v1/files/5sbne7bwossv3-UA/image;s={width}x{height}"
-                },
-                {
-                    "id": 4085981197,
-                    "filename": "laq5orlv489n1-UA",
-                    "rotation": 0,
-                    "width": 563,
-                    "height": 1000,
-                    "link": "https://ireland.apollo.olxcdn.com:443/v1/files/laq5orlv489n1-UA/image;s={width}x{height}"
-                },
-                {
-                    "id": 4085981198,
-                    "filename": "eyqphyfqlcbp2-UA",
-                    "rotation": 0,
-                    "width": 563,
-                    "height": 1000,
-                    "link": "https://ireland.apollo.olxcdn.com:443/v1/files/eyqphyfqlcbp2-UA/image;s={width}x{height}"
-                },
-                {
-                    "id": 4085981199,
-                    "filename": "8xnah4pb2awk1-UA",
-                    "rotation": 0,
-                    "width": 563,
-                    "height": 1000,
-                    "link": "https://ireland.apollo.olxcdn.com:443/v1/files/8xnah4pb2awk1-UA/image;s={width}x{height}"
-                },
-                {
-                    "id": 4085981200,
-                    "filename": "s677kmeshcxq-UA",
-                    "rotation": 0,
-                    "width": 563,
-                    "height": 1000,
-                    "link": "https://ireland.apollo.olxcdn.com:443/v1/files/s677kmeshcxq-UA/image;s={width}x{height}"
-                }
-            ],
-            "partner": null,
-            "category": {
-                "id": 542,
-                "type": "goods"
-            },
-            "delivery": {
-                "rock": {
-                    "offer_id": null,
-                    "active": false,
-                    "mode": null
-                }
-            },
-            "safedeal": {
-                "weight": 5,
-                "weight_grams": 5000,
-                "status": "active",
-                "safedeal_blocked": false,
-                "allowed_quantity": []
-            },
-            "shop": {
-                "subdomain": null
-            },
-            "offer_type": "offer"
-        }
-    ],
+    "data": [],
     "metadata": {
-        "total_elements": 1,
-        "visible_total_count": 1,
+        "total_elements": 0,
+        "visible_total_count": 0,
         "promoted": [],
-        "search_id": "A1D0AE3DA2CDBB5B691E85C273C6FFD2",
+        "search_id": "460C99E69D61397E5F0A9106A6D0F102",
         "adverts": {
             "places": null,
             "config": {
@@ -207,7 +24,7 @@
                     "page": "1",
                     "app_version": "",
                     "state": [
-                        "used"
+                        "new"
                     ],
                     "price": [
                         "10000-19999",
@@ -224,18 +41,20 @@
                 }
             }
         },
-        "source": {
-            "organic": [
-                0
-            ]
+        "search_suggestion": {
+            "type": "no_results_last_resort",
+            "url": "https://www.olx.ua/api/v1/offers?query=%D0%BA%D1%80%D0%BE%D1%81%D1%96%D0%B2%D0%BA%D0%B8&offset=0&limit=40&filter_float_price%3Afrom=10000&filter_enum_state%5B0%5D=new&filter_float_size%3Afrom=35&strategy=last_resort",
+            "changes": {
+                "strategy": "last_resort"
+            }
         }
     },
     "links": {
         "self": {
-            "href": "https://www.olx.ua/api/v1/offers?query=%D0%BA%D1%80%D0%BE%D1%81%D1%96%D0%B2%D0%BA%D0%B8&offset=0&limit=40&filter_float_price%3Afrom=10000&filter_enum_state%5B0%5D=used&filter_float_size%3Afrom=35"
+            "href": "https://www.olx.ua/api/v1/offers?query=%D0%BA%D1%80%D0%BE%D1%81%D1%96%D0%B2%D0%BA%D0%B8&offset=0&limit=40&filter_float_price%3Afrom=10000&filter_enum_state%5B0%5D=new&filter_float_size%3Afrom=35"
         },
         "first": {
-            "href": "https://www.olx.ua/api/v1/offers?query=%D0%BA%D1%80%D0%BE%D1%81%D1%96%D0%B2%D0%BA%D0%B8&offset=0&limit=40&filter_float_price%3Afrom=10000&filter_enum_state%5B0%5D=used&filter_float_size%3Afrom=35"
+            "href": "https://www.olx.ua/api/v1/offers?query=%D0%BA%D1%80%D0%BE%D1%81%D1%96%D0%B2%D0%BA%D0%B8&offset=0&limit=40&filter_float_price%3Afrom=10000&filter_enum_state%5B0%5D=new&filter_float_size%3Afrom=35"
         }
     }
 }
