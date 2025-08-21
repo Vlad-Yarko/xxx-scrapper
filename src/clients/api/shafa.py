@@ -53,7 +53,9 @@ class ShafaClient(ProductClient, JSONClient):
         self,
         search_text: str,
         page_enum: int = 1,
-        first: int = 8
+        first: int = 8,
+        price_from: Optional[int] = None,
+        price_to: Optional[int] = None
     ) -> Union[None, dict, list]:
         self.endpoint = URLEnum.PRODUCTS_ENDPOINT_URL.value
         self.payload = {
@@ -74,5 +76,10 @@ class ShafaClient(ProductClient, JSONClient):
             },
             "query": "query WEB_CatalogTopProductsV2($first: Int!, $catalogSlug: String, $dynamicCollectionSlug: String, $brands: [Int], $sizes: [Int], $conditions: [Int], $colors: [Int], $priceTo: Int, $priceFrom: Int, $priceId: [Int], $ukrainian: Boolean, $freeShipping: Boolean, $isOnSale: Boolean, $characteristics: [Int!], $searchText: String, $paginationType: ProductPaginationType!, $pageNum: Int, $after: String) {\n  topProductsV2(\n    first: $first\n    sizes: $sizes\n    condition: $conditions\n    colors: $colors\n    priceTo: $priceTo\n    priceFrom: $priceFrom\n    catalogSlug: $catalogSlug\n    dynamicCollectionSlug: $dynamicCollectionSlug\n    brands: $brands\n    priceId: $priceId\n    ukrainian: $ukrainian\n    freeShipping: $freeShipping\n    isOnSale: $isOnSale\n    characteristics: $characteristics\n    searchText: $searchText\n    paginationType: $paginationType\n    pageNum: $pageNum\n    after: $after\n  ) {\n    edges {\n      node {\n        id\n        isTop\n        ...productCardFeedData\n        __typename\n      }\n      __typename\n    }\n    pageInfo {\n      endCursor\n      hasNextPage\n      __typename\n    }\n    __typename\n  }\n}\n\nfragment productCardFeedData on Product {\n  id\n  url\n  thumbnail\n  name\n  price\n  oldPrice\n  statusTitle\n  discountPercent\n  ...productLikes\n  brand {\n    id\n    name\n    __typename\n  }\n  catalogSlug\n  isNew\n  sizes {\n    id\n    name\n    __typename\n  }\n  saleLabel {\n    status\n    date\n    price\n    __typename\n  }\n  freeDeliveryServices\n  isUkrainian\n  ownerHasRecentActivity\n  tags\n  rating\n  ratingAmount\n  seller {\n    id\n    isTopSeller\n    __typename\n  }\n  isViewed\n  createdAt\n  sellingCondition\n  __typename\n}\n\nfragment productLikes on Product {\n  likes\n  isLiked\n  __typename\n}"
         }
+        optional_params = {
+            "priceFrom": price_from,
+            "priceTo": price_to
+        }
+        self.payload["variables"].update({k: v for k, v in optional_params.items() if v is not None})
         data = await self.post()
         return data
