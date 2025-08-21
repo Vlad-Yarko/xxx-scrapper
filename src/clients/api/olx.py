@@ -1,4 +1,4 @@
-from typing import Union
+from typing import Union, Optional
 
 from src.utils.client import JSONClient
 from src.clients.product import ProductClient
@@ -15,7 +15,9 @@ class OLXClient(ProductClient, JSONClient):
         self,
         query: str,
         offset: int = 0,
-        limit: int = 40
+        limit: int = 40,
+        filter_float_price_from: Optional[str] = None,
+        filter_float_price_to: Optional[str] = None
     ) -> Union[None, dict, list]:
         self.endpoint = URLEnum.PRODUCTS_ENDPOINT_URL.value
         self.params = {
@@ -23,5 +25,10 @@ class OLXClient(ProductClient, JSONClient):
             "offset": offset,
             "limit": limit
         }
+        optional_params = {
+            "filter_float_price:from": filter_float_price_from,
+            "filter_float_price:to": filter_float_price_to,
+        }
+        self.params.update({k: v for k, v in optional_params.items() if v is not None})
         data = await self.get()
         return data
