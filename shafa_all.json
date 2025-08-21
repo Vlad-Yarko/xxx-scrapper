@@ -7,21 +7,21 @@
                     "id": 2,
                     "name": "Женская одежда",
                     "slug": "women",
-                    "countOfProducts": 210292,
+                    "countOfProducts": 210486,
                     "__typename": "TopLevelCategory"
                 },
                 {
                     "id": 199,
                     "name": "Мужская одежда",
                     "slug": "men",
-                    "countOfProducts": 127748,
+                    "countOfProducts": 127835,
                     "__typename": "TopLevelCategory"
                 },
                 {
                     "id": 82,
                     "name": "Детская одежда",
                     "slug": "kids",
-                    "countOfProducts": 130845,
+                    "countOfProducts": 130960,
                     "__typename": "TopLevelCategory"
                 },
                 {
@@ -99,7 +99,7 @@
                         "oldPrice": null,
                         "statusTitle": "AVAILABLE",
                         "discountPercent": null,
-                        "likes": 8,
+                        "likes": 9,
                         "isLiked": false,
                         "__typename": "Product",
                         "brand": {
@@ -149,7 +149,7 @@
                         "oldPrice": null,
                         "statusTitle": "AVAILABLE",
                         "discountPercent": null,
-                        "likes": 19,
+                        "likes": 20,
                         "isLiked": false,
                         "__typename": "Product",
                         "brand": {
@@ -204,7 +204,7 @@
                         "oldPrice": null,
                         "statusTitle": "AVAILABLE",
                         "discountPercent": null,
-                        "likes": 9,
+                        "likes": 10,
                         "isLiked": false,
                         "__typename": "Product",
                         "brand": {
@@ -259,7 +259,7 @@
                         "oldPrice": null,
                         "statusTitle": "AVAILABLE",
                         "discountPercent": null,
-                        "likes": 6,
+                        "likes": 7,
                         "isLiked": false,
                         "__typename": "Product",
                         "brand": {
@@ -364,7 +364,7 @@
                         "oldPrice": 653.0,
                         "statusTitle": "AVAILABLE",
                         "discountPercent": 16,
-                        "likes": 10,
+                        "likes": 11,
                         "isLiked": false,
                         "__typename": "Product",
                         "brand": {
@@ -474,7 +474,7 @@
                         "oldPrice": null,
                         "statusTitle": "AVAILABLE",
                         "discountPercent": null,
-                        "likes": 18,
+                        "likes": 20,
                         "isLiked": false,
                         "__typename": "Product",
                         "brand": {
@@ -574,7 +574,7 @@
                         "oldPrice": null,
                         "statusTitle": "AVAILABLE",
                         "discountPercent": null,
-                        "likes": 11,
+                        "likes": 12,
                         "isLiked": false,
                         "__typename": "Product",
                         "brand": {
@@ -624,7 +624,7 @@
                         "oldPrice": null,
                         "statusTitle": "AVAILABLE",
                         "discountPercent": null,
-                        "likes": 1,
+                        "likes": 2,
                         "isLiked": false,
                         "__typename": "Product",
                         "brand": {
@@ -660,6 +660,56 @@
                         },
                         "isViewed": true,
                         "createdAt": "2025-08-20T09:07:19.567874+00:00",
+                        "sellingCondition": "SALE"
+                    },
+                    "__typename": "FeedEdge"
+                },
+                {
+                    "node": {
+                        "id": 190724929,
+                        "url": "/women/zhenskaya-obuv/krossovki/190724929-kastomni-krosivki-levis-classic-low-leather-trainers-rozmir-41",
+                        "thumbnail": "https://image-thumbs.shafastatic.net/2210336585_310_430",
+                        "name": "Кастомні кросівки levi's classic low leather trainers розмір 41",
+                        "price": 899.0,
+                        "oldPrice": null,
+                        "statusTitle": "AVAILABLE",
+                        "discountPercent": null,
+                        "likes": 1,
+                        "isLiked": false,
+                        "__typename": "Product",
+                        "brand": {
+                            "id": 82,
+                            "name": "Levi's",
+                            "__typename": "Brand"
+                        },
+                        "catalogSlug": "zhenskaya-obuv/krossovki",
+                        "isNew": false,
+                        "sizes": [
+                            {
+                                "id": 38,
+                                "name": "41",
+                                "__typename": "Size"
+                            }
+                        ],
+                        "saleLabel": {
+                            "status": "SALE_NOT_STARTED",
+                            "date": "2025-08-25",
+                            "price": "809",
+                            "__typename": "SaleLabel"
+                        },
+                        "freeDeliveryServices": null,
+                        "isUkrainian": false,
+                        "ownerHasRecentActivity": true,
+                        "tags": [],
+                        "rating": null,
+                        "ratingAmount": null,
+                        "seller": {
+                            "id": 7935965,
+                            "isTopSeller": true,
+                            "__typename": "User"
+                        },
+                        "isViewed": true,
+                        "createdAt": "2025-08-21T07:50:06.136841+00:00",
                         "sellingCondition": "SALE"
                     },
                     "__typename": "FeedEdge"
@@ -724,7 +774,7 @@
                         "oldPrice": null,
                         "statusTitle": "AVAILABLE",
                         "discountPercent": null,
-                        "likes": 2,
+                        "likes": 3,
                         "isLiked": false,
                         "__typename": "Product",
                         "brand": {
@@ -1029,7 +1079,7 @@
                         "oldPrice": null,
                         "statusTitle": "AVAILABLE",
                         "discountPercent": null,
-                        "likes": 5,
+                        "likes": 7,
                         "isLiked": false,
                         "__typename": "Product",
                         "brand": {
@@ -1139,7 +1189,7 @@
                         "oldPrice": 1250.0,
                         "statusTitle": "AVAILABLE",
                         "discountPercent": 37,
-                        "likes": 25,
+                        "likes": 26,
                         "isLiked": false,
                         "__typename": "Product",
                         "brand": {
@@ -1194,7 +1244,7 @@
                         "oldPrice": null,
                         "statusTitle": "AVAILABLE",
                         "discountPercent": null,
-                        "likes": 43,
+                        "likes": 44,
                         "isLiked": false,
                         "__typename": "Product",
                         "brand": {
@@ -1504,7 +1554,7 @@
                         "oldPrice": null,
                         "statusTitle": "AVAILABLE",
                         "discountPercent": null,
-                        "likes": 23,
+                        "likes": 24,
                         "isLiked": false,
                         "__typename": "Product",
                         "brand": {
@@ -1714,7 +1764,7 @@
                         "oldPrice": null,
                         "statusTitle": "AVAILABLE",
                         "discountPercent": null,
-                        "likes": 18,
+                        "likes": 19,
                         "isLiked": false,
                         "__typename": "Product",
                         "brand": {
@@ -1805,6 +1855,61 @@
                         },
                         "isViewed": true,
                         "createdAt": "2025-08-12T11:28:37.108180+00:00",
+                        "sellingCondition": "SALE"
+                    },
+                    "__typename": "FeedEdge"
+                },
+                {
+                    "node": {
+                        "id": 190730352,
+                        "url": "/kids/dlya-devochek/krossovki-i-kedy/190730352-krosivki-krossovki-skechers",
+                        "thumbnail": "https://image-thumbs.shafastatic.net/2210369278_310_430",
+                        "name": "Кросівки кроссовки skechers",
+                        "price": 550.0,
+                        "oldPrice": null,
+                        "statusTitle": "AVAILABLE",
+                        "discountPercent": null,
+                        "likes": 0,
+                        "isLiked": false,
+                        "__typename": "Product",
+                        "brand": {
+                            "id": 270,
+                            "name": "Skechers",
+                            "__typename": "Brand"
+                        },
+                        "catalogSlug": "dlya-devochek/krossovki-i-kedy",
+                        "isNew": false,
+                        "sizes": [
+                            {
+                                "id": 96,
+                                "name": "30",
+                                "__typename": "Size"
+                            },
+                            {
+                                "id": 95,
+                                "name": "29",
+                                "__typename": "Size"
+                            }
+                        ],
+                        "saleLabel": {
+                            "status": "SALE_NONE",
+                            "date": "2025-08-21",
+                            "price": "0",
+                            "__typename": "SaleLabel"
+                        },
+                        "freeDeliveryServices": null,
+                        "isUkrainian": false,
+                        "ownerHasRecentActivity": true,
+                        "tags": [],
+                        "rating": null,
+                        "ratingAmount": null,
+                        "seller": {
+                            "id": 3483892,
+                            "isTopSeller": true,
+                            "__typename": "User"
+                        },
+                        "isViewed": true,
+                        "createdAt": "2025-08-21T10:37:00.408228+00:00",
                         "sellingCondition": "SALE"
                     },
                     "__typename": "FeedEdge"
@@ -1955,56 +2060,6 @@
                         },
                         "isViewed": true,
                         "createdAt": "2025-08-21T08:03:30.243446+00:00",
-                        "sellingCondition": "SALE"
-                    },
-                    "__typename": "FeedEdge"
-                },
-                {
-                    "node": {
-                        "id": 190724929,
-                        "url": "/women/zhenskaya-obuv/krossovki/190724929-kastomni-krosivki-levis-classic-low-leather-trainers-rozmir-41",
-                        "thumbnail": "https://image-thumbs.shafastatic.net/2210336585_310_430",
-                        "name": "Кастомні кросівки levi's classic low leather trainers розмір 41",
-                        "price": 899.0,
-                        "oldPrice": null,
-                        "statusTitle": "AVAILABLE",
-                        "discountPercent": null,
-                        "likes": 1,
-                        "isLiked": false,
-                        "__typename": "Product",
-                        "brand": {
-                            "id": 82,
-                            "name": "Levi's",
-                            "__typename": "Brand"
-                        },
-                        "catalogSlug": "zhenskaya-obuv/krossovki",
-                        "isNew": false,
-                        "sizes": [
-                            {
-                                "id": 38,
-                                "name": "41",
-                                "__typename": "Size"
-                            }
-                        ],
-                        "saleLabel": {
-                            "status": "SALE_NONE",
-                            "date": "2025-08-21",
-                            "price": "0",
-                            "__typename": "SaleLabel"
-                        },
-                        "freeDeliveryServices": null,
-                        "isUkrainian": false,
-                        "ownerHasRecentActivity": true,
-                        "tags": [],
-                        "rating": null,
-                        "ratingAmount": null,
-                        "seller": {
-                            "id": 7935965,
-                            "isTopSeller": true,
-                            "__typename": "User"
-                        },
-                        "isViewed": true,
-                        "createdAt": "2025-08-21T07:50:06.136841+00:00",
                         "sellingCondition": "SALE"
                     },
                     "__typename": "FeedEdge"
@@ -2334,7 +2389,7 @@
                         "oldPrice": null,
                         "statusTitle": "AVAILABLE",
                         "discountPercent": null,
-                        "likes": 2,
+                        "likes": 3,
                         "isLiked": false,
                         "__typename": "Product",
                         "brand": {
@@ -2373,67 +2428,12 @@
                         "sellingCondition": "SALE"
                     },
                     "__typename": "FeedEdge"
-                },
-                {
-                    "node": {
-                        "id": 190682871,
-                        "url": "/kids/dlya-malchikov/krossovki-i-kedy/190682871-nike-court-borough-low-335r-21-22sm-krosivki-original",
-                        "thumbnail": "https://image-thumbs.shafastatic.net/2210079141_310_430",
-                        "name": "Nike court borough low 33.5р 21-22см кросівки оригінал",
-                        "price": 580.0,
-                        "oldPrice": null,
-                        "statusTitle": "AVAILABLE",
-                        "discountPercent": null,
-                        "likes": 0,
-                        "isLiked": false,
-                        "__typename": "Product",
-                        "brand": {
-                            "id": 104,
-                            "name": "Nike",
-                            "__typename": "Brand"
-                        },
-                        "catalogSlug": "dlya-malchikov/krossovki-i-kedy",
-                        "isNew": false,
-                        "sizes": [
-                            {
-                                "id": 220,
-                                "name": "33.5",
-                                "__typename": "Size"
-                            },
-                            {
-                                "id": 114,
-                                "name": "33",
-                                "__typename": "Size"
-                            }
-                        ],
-                        "saleLabel": {
-                            "status": "SALE_NONE",
-                            "date": "2025-08-21",
-                            "price": "0",
-                            "__typename": "SaleLabel"
-                        },
-                        "freeDeliveryServices": null,
-                        "isUkrainian": false,
-                        "ownerHasRecentActivity": true,
-                        "tags": [],
-                        "rating": null,
-                        "ratingAmount": null,
-                        "seller": {
-                            "id": 1807062,
-                            "isTopSeller": true,
-                            "__typename": "User"
-                        },
-                        "isViewed": true,
-                        "createdAt": "2025-08-19T23:14:09.342207+00:00",
-                        "sellingCondition": "SALE"
-                    },
-                    "__typename": "FeedEdge"
                 }
             ],
             "pageInfo": {
-                "endCursor": "YXJyYXljb25uZWN0aW9uOjE5MDY4Mjg3MTo0Mw==",
+                "endCursor": "YXJyYXljb25uZWN0aW9uOjE5MDY4NDA2NTo0Mw==",
                 "hasNextPage": true,
-                "total": 469231,
+                "total": 469627,
                 "__typename": "PageInfo"
             },
             "__typename": "FeedConnection"
