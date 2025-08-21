@@ -21,7 +21,7 @@ class ShafaClient(ProductClient, JSONClient):
         first: int = 44,
         price_from: Optional[int] = None,
         price_to: Optional[int] = None,
-        size: Optional[StateEnum] = None
+        state: Optional[StateEnum] = None
     ) -> Union[None, dict, list]:
         self.endpoint = URLEnum.PRODUCTS_ENDPOINT_URL.value
         self.payload = {
@@ -45,7 +45,7 @@ class ShafaClient(ProductClient, JSONClient):
         optional_params = {
             "priceFrom": price_from,
             "priceTo": price_to,
-            "conditions": size
+            "conditions": state
         }
         self.payload["variables"].update({k: v for k, v in optional_params.items() if v is not None})
         data = await self.post()
@@ -58,7 +58,7 @@ class ShafaClient(ProductClient, JSONClient):
         first: int = 8,
         price_from: Optional[int] = None,
         price_to: Optional[int] = None,
-        size: Optional[StateEnum] = None
+        state: Optional[StateEnum] = None
     ) -> Union[None, dict, list]:
         self.endpoint = URLEnum.PRODUCTS_ENDPOINT_URL.value
         self.payload = {
@@ -82,7 +82,7 @@ class ShafaClient(ProductClient, JSONClient):
         optional_params = {
             "priceFrom": price_from,
             "priceTo": price_to,
-            "conditions": size
+            "conditions": state
         }
         self.payload["variables"].update({k: v for k, v in optional_params.items() if v is not None})
         data = await self.post()

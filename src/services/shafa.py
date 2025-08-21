@@ -3,6 +3,7 @@ from typing import Optional
 from src.utils.client import client_session
 from src.services.product import ProductService
 from src.clients import ProductClient
+from src.enums.shafa import StateEnum
 
 
 class ShafaService(ProductService):
@@ -21,14 +22,16 @@ class ShafaService(ProductService):
             page_enum: int = 1,
             first: int = 44,
             price_from: Optional[int] = None,
-            price_to: Optional[int] = None
+            price_to: Optional[int] = None,
+            state: Optional[StateEnum] = None
         ) -> Optional[dict]:
         data = await self.client.get_products_all(
             search_text=search_text,
             page_enum=page_enum,
             first=first,
             price_from=price_from,
-            price_to=price_to
+            price_to=price_to,
+            state=state
         )
         return data
 
@@ -39,13 +42,15 @@ class ShafaService(ProductService):
             page_enum: int = 1,
             first: int = 8,
             price_from: Optional[int] = None,
-            price_to: Optional[int] = None
+            price_to: Optional[int] = None,
+            state: Optional[StateEnum] = None
         ) -> Optional[dict]:
         data = await self.client.get_products_top(
             search_text=search_text,
             page_enum=page_enum,
             first=first,
             price_from=price_from,
-            price_to=price_to
+            price_to=price_to,
+            state=state
         )
         return data
